@@ -1,0 +1,1915 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": ":star2:Recommendation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Typical Collaboration Modes:handshake::handshake::handshake:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Possible Optimization Directions:fire::fire::fire:"
+    },
+    {
+      "description": "Note: {Related} denotes that it is not a pure collaborative perception paper but has related content.",
+      "items": [],
+      "title": ":bookmark:Method and Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoDriving (Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-11T02:54:47Z",
+            "owner": "CollaborativePerception",
+            "repo": "V2Xverse",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoDrivingLLM (Towards Interactive and Learnable Cooperative Driving Automation: A Large Language Model-Driven Decision-making Framework) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-25T13:36:11Z",
+            "owner": "FanGShiYuu",
+            "repo": "CoDrivingLLM",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIMI (VIMI: Vehicle-Infrastructure Multi-View Intermediate Fusion for Camera-Based 3D Object Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T04:12:17Z",
+            "owner": "Bosszhe",
+            "repo": "EMIFF",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2XPnP (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T18:49:17Z",
+            "owner": "Zewei-Zhou",
+            "repo": "V2XPnP",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoLMDriver (CoLMDriver: LLM-Based Negotiation Benefits Cooperative Autonomous Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T07:55:04Z",
+            "owner": "cxliu0314",
+            "repo": "CoLMDriver",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuantV2X (QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T18:52:26Z",
+            "owner": "ucla-mobility",
+            "repo": "QuantV2X",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniMM-V2X (UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-10T13:33:09Z",
+            "owner": "Souig",
+            "repo": "UniMM-V2X",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2V-LLM (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T05:56:56Z",
+            "owner": "eddyhkchiu",
+            "repo": "V2V-LLM",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoCo-Sim (RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-05T01:57:18Z",
+            "owner": "duyuwen-duen",
+            "repo": "RoCo-Sim",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2X-DGPE (V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T09:48:12Z",
+            "owner": "wangsch10",
+            "repo": "V2X-DGPE",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACCO (Is Discretization Fusion All You Need for Collaborative Perception?) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-19T12:54:03Z",
+            "owner": "sidiangongyuan",
+            "repo": "ACCO",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoCMT (CoCMT: Towards Communication-Efficient Corss-Modal Transformer For Collaborative Perception) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-14T17:41:58Z",
+            "owner": "taco-group",
+            "repo": "COCMT",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLIF (Is Intermediate Fusion All You Need for UAV-Based Collaborative Perception?) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-06T09:08:43Z",
+            "owner": "uestchjw",
+            "repo": "LIF",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMMCoDrive (LMMCoDrive: Cooperative Driving with Large Multimodal Model) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-04T16:34:26Z",
+            "owner": "henryhcliu",
+            "repo": "LMMCoDrive",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SafeCoop (SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T00:12:52Z",
+            "owner": "taco-group",
+            "repo": "SafeCoop",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SiCP (SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T18:33:05Z",
+            "owner": "DarrenQu",
+            "repo": "SiCP",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPLOT (Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-03T09:44:54Z",
+            "owner": "CheeryLeeyy",
+            "repo": "CoPLOT",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOT-CUP (Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-31T04:57:34Z",
+            "owner": "susanbao",
+            "repo": "mot_cup",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talking Vehicles (Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T01:26:39Z",
+            "owner": "cuijiaxun",
+            "repo": "talking-vehicles",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyper-V2X (Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T08:51:45Z",
+            "owner": "abhishekjagtap1",
+            "repo": "Hyper-V2X",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PragComm (Pragmatic Communication in Multi-Agent Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-12T12:37:38Z",
+            "owner": "PhyllisH",
+            "repo": "PragComm",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeatV2X (HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-17T12:55:04Z",
+            "owner": "hollowknight2167",
+            "repo": "HeatV2X",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JigsawComm (JigsawComm: Joint Semantic Feature Encoding and Transmission for Communication-Efficient Cooperative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-19T01:36:06Z",
+            "owner": "WiSeR-Lab",
+            "repo": "JigsawComm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOLT (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T10:26:46Z",
+            "owner": "sidiangongyuan",
+            "repo": "BOLT",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CP-FREEZER (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-03T21:03:36Z",
+            "owner": "WiSeR-Lab",
+            "repo": "CP-FREEZER",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2X-UniPool (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-10T04:17:31Z",
+            "owner": "snowwhite1016",
+            "repo": "V2X-UniPool",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoBEVGlue (Self-Localized Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-18T14:55:48Z",
+            "owner": "VincentNi0107",
+            "repo": "CoBEVGlue",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AR2VP (Dynamic V2X Autonomous Perception from Road-to-Vehicle Vision) [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "Selected Preprint"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MVIG (Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T07:13:40Z",
+            "owner": "yihangtao",
+            "repo": "MVIG",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeAlign (Linking Modality Isolation in Heterogeneous Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T08:18:38Z",
+            "owner": "cxliu0314",
+            "repo": "CodeAlign",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoLC (CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion) [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "CVPR 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-30T07:51:54Z",
+            "owner": "fengxueguiren",
+            "repo": "InfoCom",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparseCoop (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-24T01:36:53Z",
+            "owner": "wang-jh18-SVM",
+            "repo": "SparseCoop",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2VLoc (V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization) [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "AAAI 2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V2X-R (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T06:07:21Z",
+            "owner": "ylwhxht",
+            "repo": "V2X-R",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangCoop (LangCoop: Collaborative Driving with Language) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-12T20:45:07Z",
+            "owner": "taco-group",
+            "repo": "LangCoop",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoSDH (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T08:08:29Z",
+            "owner": "Xu2729",
+            "repo": "CoSDH",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TraF-Align (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T02:53:30Z",
+            "owner": "zhyingS",
+            "repo": "TraF-Align",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolyInter (One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-01T15:36:30Z",
+            "owner": "yuchen-xia",
+            "repo": "PolyInter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeCoFuse (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T04:20:10Z",
+            "owner": "ChuhengWei",
+            "repo": "HeCoFuse",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "CVPR 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GenComm (Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-07T11:30:07Z",
+            "owner": "jeffreychou777",
+            "repo": "GenComm",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NegoCollab (NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T16:18:22Z",
+            "owner": "scz023",
+            "repo": "NegoCollab",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "NeurIPS 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoopTrack (CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-02T11:10:14Z",
+            "owner": "zhongjiaru",
+            "repo": "CoopTrack",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TurboTrain (TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-31T00:43:19Z",
+            "owner": "ucla-mobility",
+            "repo": "TurboTrain",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INSTINCT (INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T18:07:41Z",
+            "owner": "CrazyShout",
+            "repo": "INSTINCT",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MamV2XCalib (MamV2XCalib: V2X-Based Target-Less Infrastructure Camera Calibration with State Space Model) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-02T04:20:09Z",
+            "owner": "zhuyaoye",
+            "repo": "MamV2XCalib",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SlimComm (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T15:22:43Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "SlimComm",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoST (CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T16:16:59Z",
+            "owner": "buaa-colalab",
+            "repo": "CoST",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "ICCV 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "STAMP (STAMP: Scalable Task- And Model-Agnostic Collaborative Perception) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-04T16:02:43Z",
+            "owner": "taco-group",
+            "repo": "STAMP",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R&B-POP (Learning 3D Perception from Others' Predictions) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T04:55:37Z",
+            "owner": "jinsuyoo",
+            "repo": "rnb-pop",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "ICLR 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UniV2X (End-to-End Autonomous Driving through V2X Cooperation) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-20T05:38:25Z",
+            "owner": "AIR-THU",
+            "repo": "UniV2X",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSRC (DSRC: Learning Density-Insensitive and Semantic-Aware Collaborative Representation against Corruptions) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T16:14:35Z",
+            "owner": "Terry9a",
+            "repo": "DSRC",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPEFT (CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-14T08:44:15Z",
+            "owner": "fengxueguiren",
+            "repo": "CoPEFT",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "AAAI 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Co-MTP (Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T19:26:41Z",
+            "owner": "xiaomiaozhang",
+            "repo": "Co-MTP",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoDynTrust (CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T13:22:47Z",
+            "owner": "CrazyShout",
+            "repo": "CoDynTrust",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "ICRA 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRUISE (CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T03:32:47Z",
+            "owner": "SainingZhang",
+            "repo": "CRUISE",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CooPre (CooPre: Cooperative Pretraining for V2X Cooperative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T00:43:43Z",
+            "owner": "ucla-mobility",
+            "repo": "CooPre",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "IROS 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoopDet3D (TUMTraf V2X Cooperative Perception Dataset) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-07T22:05:06Z",
+            "owner": "tum-traffic-dataset",
+            "repo": "coopdet3d",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERMVP (ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T09:59:30Z",
+            "owner": "Terry9a",
+            "repo": "ERMVP",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeFilling (Communication-Efficient Collaborative Perception via Information Filling with Codebook) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-22T15:07:42Z",
+            "owner": "PhyllisH",
+            "repo": "CodeFilling",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRCNet (Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-23T06:24:19Z",
+            "owner": "IndigoChildren",
+            "repo": "collaborative-perception-MRCNet",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "CVPR 2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V2XFormer (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-16T02:52:00Z",
+            "owner": "tianqi-wang1996",
+            "repo": "DeepAccident",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DI-V2X (DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T03:29:47Z",
+            "owner": "Serenos",
+            "repo": "DI-V2X",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMiMC (What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-05T15:31:51Z",
+            "owner": "77SWF",
+            "repo": "CMiMC",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "AAAI 2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DMSTrack (Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T02:41:44Z",
+            "owner": "eddyhkchiu",
+            "repo": "DMSTrack",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeAlign (Robust Collaborative Perception without External Localization and Clock Devices) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T17:50:59Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "FreeAlign",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "ICRA 2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "{Related} BEVHeight (BEVHeight: A Robust Framework for Vision-Based Roadside 3D Object Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T01:37:03Z",
+            "owner": "ADLab-AutoDrive",
+            "repo": "BEVHeight",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FF-Tracking (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:42:26Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X-Seq",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoCa3D (Collaboration Helps Camera Overtake LiDAR in 3D Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-28T01:49:57Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "CoCa3D",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "CVPR 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FFNet (Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-27T10:31:42Z",
+            "owner": "haibao-yu",
+            "repo": "FFNet-VIC3D",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoBEVFlow (Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-12T03:22:55Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "CoBEVFlow",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How2comm (How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T12:23:26Z",
+            "owner": "ydk122024",
+            "repo": "How2comm",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "NeurIPS 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CORE (CORE: Cooperative Reconstruction for Multi-Agent Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-25T07:24:27Z",
+            "owner": "zllxot",
+            "repo": "CORE",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HM-ViT (HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-15T05:06:37Z",
+            "owner": "XHwind",
+            "repo": "HM-ViT",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCOPE (Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T14:58:45Z",
+            "owner": "starfdu1418",
+            "repo": "SCOPE",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBOSAC (Among Us: Adversarially Robust Collaborative Perception by Consensus) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-18T22:52:57Z",
+            "owner": "coperception",
+            "repo": "ROBOSAC",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UMC (UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-19T02:15:48Z",
+            "owner": "ispc-lab",
+            "repo": "UMC",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "ICCV 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DUSA (DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T07:47:01Z",
+            "owner": "refkxh",
+            "repo": "DUSA",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FeaCo (FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T02:24:01Z",
+            "owner": "jmgu0212",
+            "repo": "FeaCo",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "MM 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoAlign (Robust Collaborative 3D Object Detection in Presence of Pose Errors) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T14:30:23Z",
+            "owner": "yifanlu0227",
+            "repo": "CoAlign",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPDA (Bridging the Domain Gap for Multi-Agent Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-06T18:46:20Z",
+            "owner": "DerrickXuNu",
+            "repo": "MPDA",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Double-M Quantification (Uncertainty Quantification of Collaborative Detection for Self-Driving) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-06T04:39:43Z",
+            "owner": "coperception",
+            "repo": "double-m-quantification",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAMP (Model-Agnostic Multi-Agent Perception Framework) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-23T00:46:12Z",
+            "owner": "DerrickXuNu",
+            "repo": "model_anostic",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Related} DMGM (Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T18:19:10Z",
+            "owner": "gaopeng5",
+            "repo": "DMGM",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "ICRA 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TCLF (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:38:37Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Related} LAV (Learning from All Vehicles) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-13T22:55:32Z",
+            "owner": "dotchen",
+            "repo": "LAV",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coopernaut (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-26T19:43:23Z",
+            "owner": "UT-Austin-RPL",
+            "repo": "Coopernaut",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "CVPR 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V2X-ViT (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T01:45:31Z",
+            "owner": "DerrickXuNu",
+            "repo": "v2x-vit",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SyncNet (Latency-Aware Collaborative Perception) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-15T03:25:53Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "SyncNet",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "ECCV 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoBEVT (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-18T01:06:04Z",
+            "owner": "DerrickXuNu",
+            "repo": "CoBEVT",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STAR (Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception) [paper&review",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-29T21:00:10Z",
+            "owner": "coperception",
+            "repo": "star",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "CoRL 2022"
+    },
+    {
+      "description": "Note: {Real} denotes that the sensor data is obtained by real-world collection instead of simulation.",
+      "items": [],
+      "title": ":bookmark:Dataset and Simulator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "{Real} UrbanV2X (UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-29T10:46:12Z",
+            "owner": "arclab-hku",
+            "repo": "Event_based_VO-VIO-SLAM",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Griffin (Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-26T06:49:42Z",
+            "owner": "wang-jh18-SVM",
+            "repo": "Griffin",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} V2X-Radar (V2X-Radar: A Multi-Modal Dataset with 4D Radar for Cooperative Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T03:28:00Z",
+            "owner": "yanglei18",
+            "repo": "V2X-Radar",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AirV2X (AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T14:24:39Z",
+            "owner": "taco-group",
+            "repo": "AirV2X-Perception",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} V2XPnP-Seq (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-02T18:49:17Z",
+            "owner": "Zewei-Zhou",
+            "repo": "V2XPnP",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WHALES (WHALES: A Multi-Agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T03:00:51Z",
+            "owner": "chensiweiTHU",
+            "repo": "WHALES",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adver-City (Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-29T20:19:00Z",
+            "owner": "QUARRG",
+            "repo": "Adver-City",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} InScope (InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T14:52:13Z",
+            "owner": "xf-zh",
+            "repo": "InScope",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} CoInfra (CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T04:58:16Z",
+            "owner": "NingMingHao",
+            "repo": "CoInfra",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2V-QA (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T05:56:56Z",
+            "owner": "eddyhkchiu",
+            "repo": "V2V-LLM",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3CAD (M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T20:14:40Z",
+            "owner": "zhumorui",
+            "repo": "M3CAD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobileVerse (MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-14T18:48:19Z",
+            "owner": "ucla-mobility",
+            "repo": "MobiVerse",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2X-QA (V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T03:12:05Z",
+            "owner": "junwei0001",
+            "repo": "V2X-QA",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-V2X (Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-03T12:44:16Z",
+            "owner": "RadetzkyLi",
+            "repo": "Multi-V2X",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TalkingVehiclesGym (Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T01:26:39Z",
+            "owner": "cuijiaxun",
+            "repo": "talking-vehicles",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Selected Preprint"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "V2X-R (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T06:07:21Z",
+            "owner": "ylwhxht",
+            "repo": "V2X-R",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RCP-Bench (RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T18:07:26Z",
+            "owner": "LuckyDush",
+            "repo": "RCP-Bench",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "CVPR 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UrbanIng-V2X (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) [paper&review",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-07T16:16:02Z",
+            "owner": "thi-ad",
+            "repo": "UrbanIng-V2X",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} AGC-Drive (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) [paper&review",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-06T07:19:40Z",
+            "owner": "AGC-Drive",
+            "repo": "AGC-Drive",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "NeurIPS 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoPe-R (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T15:22:43Z",
+            "owner": "fzi-forschungszentrum-informatik",
+            "repo": "SlimComm",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} Mixed Signals (Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration) [paper",
+          "description": "] [code] [project]",
+          "children": []
+        }
+      ],
+      "title": "ICCV 2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "{Real} RCooper (RCooper: A Real-World Large-Scale Dataset for Roadside Cooperative Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T09:16:11Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-RCooper",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} TUMTraf-V2X (TUMTraf V2X Cooperative Perception Dataset) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T01:01:35Z",
+            "owner": "tum-traffic-dataset",
+            "repo": "tum-traffic-dataset-dev-kit",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} Open Mars Dataset (Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset) [code",
+          "description": "] [paper] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-25T01:56:30Z",
+            "owner": "ai4ce",
+            "repo": "MARS",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "CVPR 2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "{Real} V2V4Real (V2V4Real: A Large-Scale Real-World Dataset for Vehicle-to-Vehicle Cooperative Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T16:14:27Z",
+            "owner": "ucla-mobility",
+            "repo": "V2V4Real",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} DAIR-V2X-Seq (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:42:26Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X-Seq",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPerception-UAV+ (Collaboration Helps Camera Overtake LiDAR in 3D Detection) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-28T01:49:57Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "CoCa3D",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPV2V+ (Collaboration Helps Camera Overtake LiDAR in 3D Detection) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-28T01:49:57Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "CoCa3D",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "CVPR 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RLS (Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T02:39:50Z",
+            "owner": "PJLab-ADG",
+            "repo": "PCSim",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "{Real} DAIR-V2X-C Complemented (Robust Collaborative 3D Object Detection in Presence of Pose Errors) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T14:30:23Z",
+            "owner": "yifanlu0227",
+            "repo": "CoAlign",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2XP-ASG (V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T04:37:05Z",
+            "owner": "XHwind",
+            "repo": "V2XP-ASG",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "ICRA 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "{Real} DAIR-V2X (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:38:37Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoCastSim (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) [paper",
+          "description": "] [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-23T04:19:23Z",
+            "owner": "hangqiu",
+            "repo": "AutoCastSim",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "CVPR 2022"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T02:45:41.291Z",
+    "original_repository": "Little-Podi/Collaborative_Perception",
+    "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
+    "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
+    "enhanced_repository_description": null,
+    "title": "Awesome Collaborative Perception with stars"
+  }
+}
