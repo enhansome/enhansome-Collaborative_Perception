@@ -48,7 +48,7 @@
             "last_commit": "2025-09-25T13:36:11Z",
             "owner": "FanGShiYuu",
             "repo": "CoDrivingLLM",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -1012,7 +1012,7 @@
             "last_commit": "2024-08-01T01:37:03Z",
             "owner": "ADLab-AutoDrive",
             "repo": "BEVHeight",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 202
+            "stars": 201
           }
         },
         {
@@ -1787,7 +1787,7 @@
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 202
+            "stars": 201
           }
         },
         {
@@ -1905,7 +1905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:45:41.291Z",
+    "last_updated": "2026-08-15T01:49:32.692Z",
     "original_repository": "Little-Podi/Collaborative_Perception",
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
