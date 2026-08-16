@@ -48,7 +48,7 @@
             "last_commit": "2025-09-25T13:36:11Z",
             "owner": "FanGShiYuu",
             "repo": "CoDrivingLLM",
-            "stars": 95
+            "stars": 93
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-11-26T06:07:21Z",
             "owner": "ylwhxht",
             "repo": "V2X-R",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2023-05-16T02:52:00Z",
             "owner": "tianqi-wang1996",
             "repo": "DeepAccident",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -1631,7 +1631,7 @@
             "last_commit": "2025-11-26T06:07:21Z",
             "owner": "ylwhxht",
             "repo": "V2X-R",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -1773,7 +1773,7 @@
             "last_commit": "2024-08-14T16:14:27Z",
             "owner": "ucla-mobility",
             "repo": "V2V4Real",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -1787,7 +1787,7 @@
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -1905,7 +1905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:49:32.692Z",
+    "last_updated": "2026-08-16T01:56:46.386Z",
     "original_repository": "Little-Podi/Collaborative_Perception",
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
