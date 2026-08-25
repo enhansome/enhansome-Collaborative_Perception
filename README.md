@@ -438,7 +438,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ICRA 2023
 
-* **RLS** (Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library) \[[paper](https://arxiv.org/abs/2211.15975)] \[[code](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) ⭐ 271 | 🐛 14 | 🌐 Python | 📅 2025-06-12] \[~~project~~]
+* **RLS** (Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library) \[[paper](https://arxiv.org/abs/2211.15975)] \[[code](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) ⭐ 270 | 🐛 14 | 🌐 Python | 📅 2025-06-12] \[~~project~~]
 * {Real} **DAIR-V2X-C Complemented** (Robust Collaborative 3D Object Detection in Presence of Pose Errors) \[[paper](https://arxiv.org/abs/2211.07214)] \[[code](https://github.com/yifanlu0227/CoAlign) ⭐ 186 | 🐛 9 | 🌐 Python | 📅 2024-07-23] \[[project](https://siheng-chen.github.io/dataset/dair-v2x-c-complemented)]
 * **V2XP-ASG** (V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception) \[[paper](https://arxiv.org/abs/2209.13679)] \[[code](https://github.com/XHwind/V2XP-ASG) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2023-10-17] \[~~project~~]
 
@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,317 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,319 | 🐛 1,194 | 🌐 C++ | 📅 2026-08-24] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

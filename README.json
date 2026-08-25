@@ -2431,7 +2431,7 @@
                     "last_commit": "2025-06-12T02:39:50Z",
                     "owner": "PJLab-ADG",
                     "repo": "PCSim",
-                    "stars": 271
+                    "stars": 270
                   }
                 },
                 {
@@ -2627,10 +2627,10 @@
                     "archived": false,
                     "id": 108102826,
                     "language": "C++",
-                    "last_commit": "2026-08-24T13:49:39Z",
+                    "last_commit": "2026-08-24T22:03:42Z",
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14317
+                    "stars": 14319
                   }
                 }
               ],
@@ -2648,7 +2648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:25.180Z",
+    "last_updated": "2026-08-25T01:52:04.475Z",
     "original_repository": "Little-Podi/Collaborative_Perception",
     "original_repository_id": 526952990,
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
