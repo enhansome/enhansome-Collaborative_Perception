@@ -322,6 +322,21 @@
             },
             {
               "node_type": "item",
+              "title": "BOLT (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168649015,
+                "language": "Python",
+                "last_commit": "2026-05-11T10:26:46Z",
+                "owner": "sidiangongyuan",
+                "repo": "BOLT",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
               "title": "HeatV2X (HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction) [paper",
               "description": "] [code]",
               "children": [],
@@ -348,21 +363,6 @@
                 "owner": "WiSeR-Lab",
                 "repo": "JigsawComm",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "BOLT (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1168649015,
-                "language": "Python",
-                "last_commit": "2026-05-11T10:26:46Z",
-                "owner": "sidiangongyuan",
-                "repo": "BOLT",
-                "stars": 1
               }
             },
             {
@@ -2627,10 +2627,10 @@
                     "archived": false,
                     "id": 108102826,
                     "language": "C++",
-                    "last_commit": "2026-08-24T22:03:42Z",
+                    "last_commit": "2026-08-25T17:53:51Z",
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14319
+                    "stars": 14325
                   }
                 }
               ],
@@ -2648,7 +2648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:01.917Z",
+    "last_updated": "2026-08-26T01:57:55.588Z",
     "original_repository": "Little-Podi/Collaborative_Perception",
     "original_repository_id": 526952990,
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
