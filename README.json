@@ -478,21 +478,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1145775655,
-                "language": "Python",
-                "last_commit": "2026-01-30T07:51:54Z",
-                "owner": "fengxueguiren",
-                "repo": "InfoCom",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
               "title": "SparseCoop (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) [paper",
               "description": "] [code]",
               "children": [],
@@ -503,6 +488,21 @@
                 "last_commit": "2026-01-24T01:36:53Z",
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1145775655,
+                "language": "Python",
+                "last_commit": "2026-01-30T07:51:54Z",
+                "owner": "fengxueguiren",
+                "repo": "InfoCom",
                 "stars": 12
               }
             }
@@ -583,7 +583,7 @@
                 "last_commit": "2025-11-26T06:07:21Z",
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 161
+                "stars": 160
               }
             },
             {
@@ -999,7 +999,7 @@
                 "last_commit": "2024-03-07T22:05:06Z",
                 "owner": "tum-traffic-dataset",
                 "repo": "coopdet3d",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -1592,7 +1592,7 @@
                 "last_commit": "2025-02-21T02:38:37Z",
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 644
+                "stars": 645
               }
             },
             {
@@ -2150,7 +2150,7 @@
                     "last_commit": "2025-11-26T06:07:21Z",
                     "owner": "ylwhxht",
                     "repo": "V2X-R",
-                    "stars": 161
+                    "stars": 160
                   }
                 },
                 {
@@ -2483,7 +2483,7 @@
                     "last_commit": "2025-02-21T02:38:37Z",
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X",
-                    "stars": 644
+                    "stars": 645
                   }
                 },
                 {
@@ -2627,10 +2627,10 @@
                     "archived": false,
                     "id": 108102826,
                     "language": "C++",
-                    "last_commit": "2026-08-25T17:53:51Z",
+                    "last_commit": "2026-08-27T09:24:03Z",
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14325
+                    "stars": 14328
                   }
                 }
               ],
@@ -2648,7 +2648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:57:55.588Z",
+    "last_updated": "2026-08-27T09:47:05.156Z",
     "original_repository": "Little-Podi/Collaborative_Perception",
     "original_repository_id": 526952990,
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
