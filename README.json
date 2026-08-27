@@ -2648,9 +2648,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:47:05.156Z",
-    "original_repository": "Little-Podi/Collaborative_Perception",
-    "original_repository_id": 526952990,
+    "last_updated": "2026-08-27T11:30:35.046Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 526952990,
+      "language": null,
+      "last_commit": "2026-07-26T03:33:17Z",
+      "owner": "Little-Podi",
+      "repo": "Collaborative_Perception",
+      "stars": 622
+    },
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
