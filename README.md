@@ -167,7 +167,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **TurboTrain** (TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2508.04682)] \[[code](https://github.com/ucla-mobility/TurboTrain) ⭐ 17 | 🐛 1 | 📅 2026-01-31]
 * **INSTINCT** (INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception) \[[paper](https://arxiv.org/abs/2509.23700)] \[[code](https://github.com/CrazyShout/INSTINCT) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-05-08]
 * **MamV2XCalib** (MamV2XCalib: V2X-Based Target-Less Infrastructure Camera Calibration with State Space Model) \[[paper](https://arxiv.org/abs/2507.23595)] \[[code](https://github.com/zhuyaoye/MamV2XCalib) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-08-02]
-* **SlimComm** (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) \[[paper](https://arxiv.org/abs/2508.13007)] \[[code](https://github.com/fzi-forschungszentrum-informatik/SlimComm) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-05]
+* **SlimComm** (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) \[[paper](https://arxiv.org/abs/2508.13007)] \[[code](https://github.com/fzi-forschungszentrum-informatik/SlimComm) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-12-05]
 * **CoST** (CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective) \[[paper](https://arxiv.org/abs/2508.00359)] \[[code](https://github.com/tzhhhh123/CoST) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2026-04-30]
 
 ### ICLR 2025
@@ -304,7 +304,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CoRL 2022
 
-* **CoBEVT** (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) \[[paper\&review](https://openreview.net/forum?id=PAFEQQtDf8s)] \[[code](https://github.com/DerrickXuNu/CoBEVT) ⭐ 260 | 🐛 6 | 🌐 Python | 📅 2024-08-18]
+* **CoBEVT** (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) \[[paper\&review](https://openreview.net/forum?id=PAFEQQtDf8s)] \[[code](https://github.com/DerrickXuNu/CoBEVT) ⭐ 261 | 🐛 6 | 🌐 Python | 📅 2024-08-18]
 * **STAR** (Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=hW0tcXOJas2)] \[[code](https://github.com/coperception/star) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2022-11-29]
 
 ### IJCAI 2022
@@ -395,7 +395,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ICCV 2025
 
-* **CoPe-R** (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) \[[paper](https://arxiv.org/abs/2508.13007)] \[[code](https://github.com/fzi-forschungszentrum-informatik/SlimComm) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-05] \[~~project~~]
+* **CoPe-R** (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) \[[paper](https://arxiv.org/abs/2508.13007)] \[[code](https://github.com/fzi-forschungszentrum-informatik/SlimComm) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-12-05] \[~~project~~]
 * {Real} **Mixed Signals** (Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration) \[[paper](https://arxiv.org/abs/2502.14156)] \[[code](https://github.com/chinitaberrio/Mixed-Signals)] \[[project](https://mixedsignalsdataset.cs.cornell.edu)]
 
 ### CVPR 2024
@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,328 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-27] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,334 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-28] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
