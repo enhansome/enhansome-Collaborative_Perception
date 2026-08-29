@@ -3931,7 +3931,7 @@
                     "open_issues": 1195,
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14335,
+                    "stars": 14336,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -3969,7 +3969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:48.484Z",
+    "last_updated": "2026-08-29T07:03:52.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
