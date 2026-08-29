@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 658625357,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-11T02:54:47Z",
+                "open_issues": 20,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE-TVT(2025)]Towards Interactive and Learnable Cooperative Driving Automation: a Large Language Model-Driven Decision-making Framework",
+                "homepage": "https://fangshiyuu.github.io/CoDrivingLLM/",
                 "id": 844365251,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-25T13:36:11Z",
+                "open_issues": 2,
                 "owner": "FanGShiYuu",
                 "repo": "CoDrivingLLM",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection",
+                "homepage": null,
                 "id": 616358334,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-26T04:12:17Z",
+                "open_issues": 6,
                 "owner": "Bosszhe",
                 "repo": "EMIFF",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -60,12 +75,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction",
+                "homepage": "https://mobility-lab.seas.ucla.edu/v2xpnp/",
                 "id": 809539033,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-02T18:49:17Z",
+                "open_issues": 4,
                 "owner": "Zewei-Zhou",
                 "repo": "V2XPnP",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "autonomous-driving",
+                  "spatial-temporal-fusion",
+                  "v2x-sequential-dataset",
+                  "vehicle-to-everything"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -76,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving",
+                "homepage": null,
                 "id": 946472931,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-11T07:55:04Z",
+                "open_issues": 4,
                 "owner": "cxliu0314",
                 "repo": "CoLMDriver",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -92,12 +122,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] Official Repo for QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception",
+                "homepage": "https://quantv2x.github.io/QuantV2X/",
                 "id": 1040836576,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-08T18:52:26Z",
+                "open_issues": 0,
                 "owner": "ucla-mobility",
                 "repo": "QuantV2X",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "cooperative-perception",
+                  "multiagent-systems",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -108,12 +147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1093511286,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-10T13:33:09Z",
+                "open_issues": 0,
                 "owner": "Souig",
                 "repo": "UniMM-V2X",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -124,12 +168,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2026] Official code of the paper \"V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models\"",
+                "homepage": "https://arxiv.org/abs/2502.09980",
                 "id": 932958504,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-03T05:56:56Z",
+                "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "V2V-LLM",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "autonomous-driving",
+                  "computer-vision",
+                  "connected-autonomous-vehicle",
+                  "cooperative-autonomous-driving",
+                  "deep-learning",
+                  "multimodal-large-language-models",
+                  "robotics",
+                  "v2v-communication",
+                  "v2v-llm"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -140,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation",
+                "homepage": null,
                 "id": 947771923,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-10-05T01:57:18Z",
+                "open_issues": 3,
                 "owner": "duyuwen-duen",
                 "repo": "RoCo-Sim",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -156,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 912006404,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-22T09:48:12Z",
+                "open_issues": 4,
                 "owner": "wangsch10",
                 "repo": "V2X-DGPE",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -172,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ACCO:Is Discretization Fusion All You Need for Collaborative Perception?",
+                "homepage": null,
                 "id": 942688316,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-19T12:54:03Z",
+                "open_issues": 1,
                 "owner": "sidiangongyuan",
                 "repo": "ACCO",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -188,12 +262,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS'25] COCMT",
+                "homepage": null,
                 "id": 853630266,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-14T17:41:58Z",
+                "open_issues": 1,
                 "owner": "taco-group",
                 "repo": "COCMT",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "intelligent-transportation-systems",
+                  "multi-agent",
+                  "robotics",
+                  "transformer",
+                  "transportation",
+                  "v2v",
+                  "v2x"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -204,12 +295,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ITSC 2025] Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?",
+                "homepage": null,
                 "id": 925327458,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-06T09:08:43Z",
+                "open_issues": 1,
                 "owner": "uestchjw",
                 "repo": "LIF",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "3d-object-detection",
+                  "camera-based-detection",
+                  "collaborative-perception",
+                  "computer-vision"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -220,12 +321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cooperative Driving with Large Multimodal Models and ADMM",
+                "homepage": null,
                 "id": 857882750,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-04T16:34:26Z",
+                "open_issues": 2,
                 "owner": "henryhcliu",
                 "repo": "LMMCoDrive",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -236,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://xiangbogaobarry.github.io/SafeCoop/",
                 "id": 1056338200,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-01T00:12:52Z",
+                "open_issues": 0,
                 "owner": "taco-group",
                 "repo": "SafeCoop",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -252,12 +363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 755175119,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-06T18:33:05Z",
+                "open_issues": 2,
                 "owner": "DarrenQu",
                 "repo": "SiCP",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -268,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception.",
+                "homepage": null,
                 "id": 1044768224,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-03T09:44:54Z",
+                "open_issues": 2,
                 "owner": "CheeryLeeyy",
                 "repo": "CoPLOT",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -284,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 618895932,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-31T04:57:34Z",
+                "open_issues": 4,
                 "owner": "susanbao",
                 "repo": "mot_cup",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -300,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 696356359,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-03T01:26:39Z",
+                "open_issues": 0,
                 "owner": "cuijiaxun",
                 "repo": "talking-vehicles",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -316,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IEEE IV 2026 ORAL]  Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation",
+                "homepage": null,
                 "id": 1058872244,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-09T08:51:45Z",
+                "open_issues": 0,
                 "owner": "abhishekjagtap1",
                 "repo": "Hyper-V2X",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -332,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 742416296,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-12T12:37:38Z",
+                "open_issues": 2,
                 "owner": "PhyllisH",
                 "repo": "PragComm",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -348,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BOLT: Base-Free Online Lightweight Adaptation for Heterogeneous Cooperative Perception",
+                "homepage": null,
                 "id": 1168649015,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-11T10:26:46Z",
+                "open_issues": 0,
                 "owner": "sidiangongyuan",
                 "repo": "BOLT",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -364,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We propose Heterogeneous Adapter Transformer (HAFormer),  a scalable collaborative perception framework that enables bidirectional interaction and rapid adaptation among heterogeneous models through local and global fine-tuning.",
+                "homepage": null,
                 "id": 1078240660,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-10-17T12:55:04Z",
+                "open_issues": 0,
                 "owner": "hollowknight2167",
                 "repo": "HeatV2X",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -380,12 +531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code coming soon",
+                "homepage": null,
                 "id": 1099432030,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-11-19T01:36:06Z",
+                "open_issues": 0,
                 "owner": "WiSeR-Lab",
                 "repo": "JigsawComm",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -396,12 +552,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 944271444,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-03T21:03:36Z",
+                "open_issues": 0,
                 "owner": "WiSeR-Lab",
                 "repo": "CP-FREEZER",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -412,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 955728822,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-10T04:17:31Z",
+                "open_issues": 0,
                 "owner": "snowwhite1016",
                 "repo": "V2X-UniPool",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -428,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 816870439,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-18T14:55:48Z",
+                "open_issues": 0,
                 "owner": "VincentNi0107",
                 "repo": "CoBEVGlue",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -451,12 +622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] This is the official implenmentation of \"Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception\"",
+                "homepage": null,
                 "id": 1244397362,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-01T07:13:40Z",
+                "open_issues": 0,
                 "owner": "yihangtao",
                 "repo": "MVIG",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -467,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for Linking Modality Isolation in Heterogeneous Collaborative Perception (CVPR2026)",
+                "homepage": null,
                 "id": 1122672190,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-16T08:18:38Z",
+                "open_issues": 0,
                 "owner": "cxliu0314",
                 "repo": "CodeAlign",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -490,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the implementation of the paper \"Single-Modal Operable Multimodal Collaborative Perception\".",
+                "homepage": null,
                 "id": 919352115,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-18T09:56:23Z",
+                "open_issues": 4,
                 "owner": "dempsey-wen",
                 "repo": "SiMO",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -513,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1098046173,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-24T01:36:53Z",
+                "open_issues": 2,
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -529,12 +720,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026] InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck",
+                "homepage": "https://weiquanmin.github.io/infocom/",
                 "id": 1145775655,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-30T07:51:54Z",
+                "open_issues": 0,
                 "owner": "fengxueguiren",
                 "repo": "InfoCom",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "communication-efficient-collaborative-perception",
+                  "information-bottleneck",
+                  "multi-agent-systems",
+                  "v2x"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -556,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EIMC: Efficient Instance-aware Multi-modal Collaborative Perception (ICRA 2026)",
+            "homepage": null,
             "id": 1165264231,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-24T01:55:02Z",
+            "open_issues": 2,
             "owner": "sidiangongyuan",
             "repo": "EIMC",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:22:28.355Z"
         },
@@ -572,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA2026] WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation",
+            "homepage": null,
             "id": 1065349137,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-04T03:01:31Z",
+            "open_issues": 0,
             "owner": "erdemtbao",
             "repo": "WaveComm",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:22:28.355Z"
         },
@@ -590,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1024526898,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-09T23:38:22Z",
+                "open_issues": 0,
                 "owner": "scdrand23",
                 "repo": "FocalComm",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -613,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion",
+                "homepage": null,
                 "id": 887719955,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-26T06:07:21Z",
+                "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 160
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -629,12 +853,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏆 Official implementation of LangCoop: Collaborative Driving with Natural Language",
+                "homepage": "https://xiangbogaobarry.github.io/LangCoop/",
                 "id": 946934716,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-12T20:45:07Z",
+                "open_issues": 5,
                 "owner": "taco-group",
                 "repo": "LangCoop",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "autonomous-agents",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "collaborative-perception",
+                  "communication-efficiency",
+                  "computer-vision",
+                  "end-to-end-driving",
+                  "intelligent-transportation",
+                  "large-language-model",
+                  "large-language-models",
+                  "llm",
+                  "natural-language-processing",
+                  "robotics",
+                  "transportation",
+                  "v2v",
+                  "v2x",
+                  "v2x-communication",
+                  "vision-language-model",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -645,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 943097673,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-21T08:08:29Z",
+                "open_issues": 4,
                 "owner": "Xu2729",
                 "repo": "CoSDH",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -661,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CVPR 2025 paper: TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception",
+                "homepage": null,
                 "id": 948424433,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-13T02:53:30Z",
+                "open_issues": 0,
                 "owner": "zhyingS",
                 "repo": "TraF-Align",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -677,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 950497936,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-01T15:36:30Z",
+                "open_issues": 2,
                 "owner": "yuchen-xia",
                 "repo": "PolyInter",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -693,12 +957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1018819078,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-30T04:20:10Z",
+                "open_issues": 0,
                 "owner": "ChuhengWei",
                 "repo": "HeCoFuse",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -716,12 +985,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] Official repo for paper \"Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism.\"",
+                "homepage": "https://jeffreychou777.github.io/GenComm/",
                 "id": 949840602,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-07T11:30:07Z",
+                "open_issues": 1,
                 "owner": "jeffreychou777",
                 "repo": "GenComm",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "diffusion-models",
+                  "v2x-communication"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -732,12 +1011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception ",
+                "homepage": null,
                 "id": 1059932965,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-23T16:18:22Z",
+                "open_issues": 0,
                 "owner": "scz023",
                 "repo": "NegoCollab",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -755,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2025] CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception",
+                "homepage": null,
                 "id": 1011817082,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-02T11:10:14Z",
+                "open_issues": 5,
                 "owner": "zhongjiaru",
                 "repo": "CoopTrack",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -771,12 +1060,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction.",
+                "homepage": null,
                 "id": 1021805266,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-31T00:43:19Z",
+                "open_issues": 1,
                 "owner": "ucla-mobility",
                 "repo": "TurboTrain",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "autonomous-driving",
+                  "multi-agent-system",
+                  "multi-task-learning",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -787,12 +1086,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV 2025 Paper: \"INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception\"",
+                "homepage": null,
                 "id": 1013849603,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-08T18:07:41Z",
+                "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "INSTINCT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -803,12 +1107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1014174847,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-02T04:20:09Z",
+                "open_issues": 1,
                 "owner": "zhuyaoye",
                 "repo": "MamV2XCalib",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -819,12 +1128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Release of data and code for publication: \"SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception\"",
+                "homepage": null,
                 "id": 1109876095,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-05T15:22:43Z",
+                "open_issues": 1,
                 "owner": "fzi-forschungszentrum-informatik",
                 "repo": "SlimComm",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -835,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation for \"CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective\"",
+                "homepage": null,
                 "id": 1026588060,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-30T16:16:59Z",
+                "open_issues": 4,
                 "owner": "buaa-colalab",
                 "repo": "CoST",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -858,12 +1177,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'25] Official Implementation of STAMP: Scalable Task And Model-agnostic Collaborative Perception",
+                "homepage": "https://xiangbogaobarry.github.io/STAMP",
                 "id": 921466932,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-04T16:02:43Z",
+                "open_issues": 8,
                 "owner": "taco-group",
                 "repo": "STAMP",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "autonomous",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "collaborative-learning",
+                  "cooperative-perception",
+                  "intelligent-transportation",
+                  "transportation",
+                  "v2v",
+                  "v2x"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -874,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'25] Learning 3D Perception from Others' Predictions",
+                "homepage": null,
                 "id": 921919470,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-23T04:55:37Z",
+                "open_issues": 0,
                 "owner": "jinsuyoo",
                 "repo": "rnb-pop",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -897,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 772181351,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-20T05:38:25Z",
+                "open_issues": 8,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -913,12 +1257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI2025] DSRC: Learning Density-insensitive and Semantic-aware V2X Collaborative Representation against Corruptions",
+                "homepage": null,
                 "id": 908258191,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-21T16:14:35Z",
+                "open_issues": 1,
                 "owner": "Terry9a",
                 "repo": "DSRC",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -929,12 +1278,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning",
+                "homepage": "https://ojs.aaai.org/index.php/AAAI/article/view/34502",
                 "id": 904195837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-14T08:44:15Z",
+                "open_issues": 0,
                 "owner": "fengxueguiren",
                 "repo": "CoPEFT",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "multi-agent-systems",
+                  "parameter-efficient-fine-tuning",
+                  "v2x"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -952,12 +1313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of MM2025 \"How2Compress: Scalable and Efficient Edge Video Analytics via Adaptive Granular Video Compression\"",
+                "homepage": null,
                 "id": 1021459298,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-30T10:00:55Z",
+                "open_issues": 1,
                 "owner": "wyhallenwu",
                 "repo": "how2compress",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -975,12 +1341,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2025] Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving",
+                "homepage": "https://xiaomiaozhang.github.io/Co-MTP/",
                 "id": 936476635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-11T19:26:41Z",
+                "open_issues": 4,
                 "owner": "xiaomiaozhang",
                 "repo": "Co-MTP",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "autonomous-vehicles",
+                  "trajectory-prediction",
+                  "v2x-deployment"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -991,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICRA 2025 paper: \"CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus\" code",
+                "homepage": null,
                 "id": 926910695,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-19T13:22:47Z",
+                "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "CoDynTrust",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1014,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2025] CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting",
+                "homepage": null,
                 "id": 854153305,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-25T03:32:47Z",
+                "open_issues": 2,
                 "owner": "SainingZhang",
                 "repo": "CRUISE",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1030,12 +1415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2025] Official Repo for CooPre: Cooperative Pretraining for V2X Cooperative Perception",
+                "homepage": null,
                 "id": 958095425,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-31T00:43:43Z",
+                "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "CooPre",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1053,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 767429304,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-07T22:05:06Z",
+                "open_issues": 9,
                 "owner": "tum-traffic-dataset",
                 "repo": "coopdet3d",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1069,12 +1464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments",
+                "homepage": null,
                 "id": 789361763,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T09:59:30Z",
+                "open_issues": 3,
                 "owner": "Terry9a",
                 "repo": "ERMVP",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1085,12 +1485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 779331728,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-22T15:07:42Z",
+                "open_issues": 15,
                 "owner": "PhyllisH",
                 "repo": "CodeFilling",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1101,12 +1506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] Multi-agent Collaborative Perception via Motion-aware Robust Communication Network",
+                "homepage": null,
                 "id": 776266180,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-23T06:24:19Z",
+                "open_issues": 8,
                 "owner": "IndigoChildren",
                 "repo": "collaborative-perception-MRCNet",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1124,12 +1534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 711741262,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-27T16:03:49Z",
+                "open_issues": 3,
                 "owner": "AIR-THU",
                 "repo": "V2X-Graph",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1147,12 +1562,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2024] HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception ➡️ All You Need for Multi-Modality Collaborative Perception!",
+                "homepage": null,
                 "id": 745909986,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-01T07:26:13Z",
+                "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "3d-object-detection",
+                  "camera-based-detection",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "heterogeneous",
+                  "lidar-based-detection"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1170,12 +1597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the benchmark - DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving.",
+                "homepage": null,
                 "id": 627873513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-16T02:52:00Z",
+                "open_issues": 27,
                 "owner": "tianqi-wang1996",
                 "repo": "DeepAccident",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1186,12 +1618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of AAAI2024 paper DI-V2X.",
+                "homepage": null,
                 "id": 731852557,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-10T03:29:47Z",
+                "open_issues": 1,
                 "owner": "Serenos",
                 "repo": "DI-V2X",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1202,12 +1639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 730728475,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-05T15:31:51Z",
+                "open_issues": 2,
                 "owner": "77SWF",
                 "repo": "CMiMC",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1225,12 +1667,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WACV 2024] MACP: Efficient Model Adaptation for Cooperative Perception.",
+                "homepage": "https://purduedigitaltwin.github.io/MACP/",
                 "id": 751531384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-03T17:53:21Z",
+                "open_issues": 2,
                 "owner": "PurdueDigitalTwin",
                 "repo": "MACP",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "cooperative-perception",
+                  "cvf-conference",
+                  "model-adaptation",
+                  "object-tracking",
+                  "parameter-efficient-fine-tuning",
+                  "perception",
+                  "wacv",
+                  "wacv2024"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1248,12 +1706,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2024] Official code of the paper \"Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter\"",
+                "homepage": "https://eddyhkchiu.github.io/dmstrack.github.io/",
                 "id": 706878195,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-31T02:41:44Z",
+                "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "DMSTrack",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "3d-multi-object-tracking",
+                  "autonomous-driving",
+                  "computer-vision",
+                  "connected-autonomous-vehicle",
+                  "cooperative-perception",
+                  "cooperative-tracking",
+                  "deep-learning",
+                  "differentiable-kalman-filter",
+                  "robotics",
+                  "sensor-fusion",
+                  "v2v-communication"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1264,12 +1739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 812860145,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-10T17:50:59Z",
+                "open_issues": 4,
                 "owner": "MediaBrain-SJTU",
                 "repo": "FreeAlign",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1287,12 +1767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official code release of our CVPR'23 paper, BEVHeight",
+                "homepage": null,
                 "id": 614161152,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T01:37:03Z",
+                "open_issues": 14,
                 "owner": "ADLab-AutoDrive",
                 "repo": "BEVHeight",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1303,12 +1788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617012827,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-21T02:42:26Z",
+                "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1319,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 615220240,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-28T01:49:57Z",
+                "open_issues": 10,
                 "owner": "MediaBrain-SJTU",
                 "repo": "CoCa3D",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1342,12 +1837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 546554508,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-27T10:31:42Z",
+                "open_issues": 5,
                 "owner": "haibao-yu",
                 "repo": "FFNet-VIC3D",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1358,12 +1858,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] Asynchrony-Robust Collaborative Perception via Bird’s Eye View Flow",
+                "homepage": "https://arxiv.org/abs/2309.16940",
                 "id": 701498124,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-12T03:22:55Z",
+                "open_issues": 7,
                 "owner": "MediaBrain-SJTU",
                 "repo": "CoBEVFlow",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "autonoumous-driving",
+                  "bev",
+                  "collaborative-perception"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1374,12 +1883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS2023] How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception",
+                "homepage": null,
                 "id": 705106049,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-20T12:23:26Z",
+                "open_issues": 4,
                 "owner": "ydk122024",
                 "repo": "How2comm",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1397,12 +1911,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2023 - CORE: Cooperative Reconstruction for Multi-Agent Perception",
+                "homepage": null,
                 "id": 666780272,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-25T07:24:27Z",
+                "open_issues": 4,
                 "owner": "zllxot",
                 "repo": "CORE",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "autonomous-driving",
+                  "multi-agent-perception",
+                  "reconstruction",
+                  "vehicle-to-vehicle"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1413,12 +1937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer",
+                "homepage": null,
                 "id": 672722825,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-07-15T05:06:37Z",
+                "open_issues": 1,
                 "owner": "XHwind",
                 "repo": "HM-ViT",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1429,12 +1958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 672569506,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-23T14:58:45Z",
+                "open_issues": 5,
                 "owner": "starfdu1418",
                 "repo": "SCOPE",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1445,12 +1979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] Among Us: Adversarially Robust Collaborative Perception by Consensus",
+                "homepage": null,
                 "id": 612900828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-18T22:52:57Z",
+                "open_issues": 0,
                 "owner": "coperception",
                 "repo": "ROBOSAC",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1461,12 +2000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] The official repository of our paper \"UMC: A Unified Bandwidth-efficient and Multi-resolution based Collaborative Perception Framework\".",
+                "homepage": null,
                 "id": 676482304,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-19T02:15:48Z",
+                "open_issues": 1,
                 "owner": "ispc-lab",
                 "repo": "UMC",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1484,12 +2028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 500309760,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-11T03:00:58Z",
+                "open_issues": 0,
                 "owner": "Runjian-Chen",
                 "repo": "CO3",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1507,12 +2056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 685346325,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-10T11:08:25Z",
+                "open_issues": 0,
                 "owner": "byzhaoAI",
                 "repo": "BM2CP",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1530,12 +2084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACM MM 2023] Official implementation of DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception",
+                "homepage": null,
                 "id": 673591313,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-17T07:47:01Z",
+                "open_issues": 0,
                 "owner": "refkxh",
                 "repo": "DUSA",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1546,12 +2105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 671802870,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-21T02:24:01Z",
+                "open_issues": 1,
                 "owner": "jmgu0212",
                 "repo": "FeaCo",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1569,12 +2133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds [WACV2023]",
+                "homepage": null,
                 "id": 565281828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-03T16:38:22Z",
+                "open_issues": 1,
                 "owner": "DonghaoQiao",
                 "repo": "Adaptive-Feature-Fusion-for-Cooperative-Perception",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1592,12 +2161,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors",
+                "homepage": null,
                 "id": 534546204,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T14:30:23Z",
+                "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "collaboration",
+                  "collaborative-perception",
+                  "multiagent",
+                  "object-detection",
+                  "perception",
+                  "robust"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1608,12 +2189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] The official implementation of paper \"Bridging the Domain Gap for Multi-Agent Perception\"",
+                "homepage": null,
                 "id": 598222875,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-06T18:46:20Z",
+                "open_issues": 1,
                 "owner": "DerrickXuNu",
                 "repo": "MPDA",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1624,12 +2210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2023] Uncertainty Quantification of Collaborative Detection for Self-Driving",
+                "homepage": "https://coperception.github.io/double-m-quantification/",
                 "id": 537084460,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-06T04:39:43Z",
+                "open_issues": 0,
                 "owner": "coperception",
                 "repo": "double-m-quantification",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1640,12 +2231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] The official implementation of paper \"Model-agnostic Multi-agent Perception\"",
+                "homepage": null,
                 "id": 597766310,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-23T00:46:12Z",
+                "open_issues": 1,
                 "owner": "DerrickXuNu",
                 "repo": "model_anostic",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1656,12 +2252,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and dataset for ICRA2023 paper \"Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception\"",
+                "homepage": null,
                 "id": 603858031,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-09T18:19:10Z",
+                "open_issues": 1,
                 "owner": "gaopeng5",
                 "repo": "DMGM",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cad-dataset",
+                  "collaborative-perception",
+                  "connected-vehicle",
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "multi-robot-cooperation"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1679,12 +2287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 471869423,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-21T02:38:37Z",
+                "open_issues": 46,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 645
+                "stars": 645,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1695,12 +2308,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2022) A minimalist, mapless, end-to-end self-driving stack for joint perception, prediction, planning and control.",
+                "homepage": "https://dotchen.github.io/LAV/",
                 "id": 459059869,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-13T22:55:32Z",
+                "open_issues": 29,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 441
+                "stars": 441,
+                "topics": [
+                  "autonomous-driving",
+                  "carla-simulator",
+                  "cvpr2022",
+                  "distillation",
+                  "imitation-learning",
+                  "perception",
+                  "planning",
+                  "prediction"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1711,12 +2338,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coopernaut: End-to-End Driving with Cooperative Perception for Networked Vehicles",
+                "homepage": null,
                 "id": 470349230,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-07-26T19:43:23Z",
+                "open_issues": 4,
                 "owner": "UT-Austin-RPL",
                 "repo": "Coopernaut",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "autonomous-driving",
+                  "computer-vision",
+                  "cooperative-perception",
+                  "deep-learning",
+                  "vehicle-to-vehicle"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1734,12 +2372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 539304653,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-03T12:24:09Z",
+                "open_issues": 22,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1757,12 +2400,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] Official Implementation of  paper \"V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer\"",
+                "homepage": null,
                 "id": 510451246,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-06T01:45:31Z",
+                "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 348
+                "stars": 348,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "multi-agent-system",
+                  "pytorch",
+                  "simulation",
+                  "v2x",
+                  "vehicle-to-everything",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1773,12 +2434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] Latency-Aware Collaborative Perception",
+                "homepage": null,
                 "id": 514499745,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-15T03:25:53Z",
+                "open_issues": 5,
                 "owner": "MediaBrain-SJTU",
                 "repo": "SyncNet",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1796,12 +2462,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL2022] CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers",
+                "homepage": null,
                 "id": 535122822,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-18T01:06:04Z",
+                "open_issues": 6,
                 "owner": "DerrickXuNu",
                 "repo": "CoBEVT",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "bev-perception",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "multi-agent-perception",
+                  "nuscenes",
+                  "segmentation",
+                  "semantic",
+                  "semantic-segmentation",
+                  "v2v",
+                  "v2x"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -1812,12 +2496,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CoRL 2022] Multi Robot Scene Completion",
+                "homepage": "https://coperception.github.io/star/",
                 "id": 562363165,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-29T21:00:10Z",
+                "open_issues": 0,
                 "owner": "coperception",
                 "repo": "star",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "collaborative-perception",
+                  "computer-vision",
+                  "deep-learning",
+                  "multi-robot-systems",
+                  "pytorch",
+                  "robotics-perception"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1835,12 +2531,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V.",
+                "homepage": "https://mobility-lab.seas.ucla.edu/opv2v/",
                 "id": 456345512,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-17T05:45:28Z",
+                "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 830
+                "stars": 830,
+                "topics": [
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "deep-learning",
+                  "multi-agent-perception",
+                  "multi-agent-systems",
+                  "pytorch",
+                  "simulations"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1858,12 +2568,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS2021] Learning Distilled Collaboration Graph for Multi-Agent Perception",
+                "homepage": null,
                 "id": 418196919,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-15T20:28:54Z",
+                "open_issues": 0,
                 "owner": "ai4ce",
                 "repo": "DiscoNet",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "3d-object-detection",
+                  "3d-scene-understanding",
+                  "autonomous-driving",
+                  "collaborative-learning",
+                  "communication-networks",
+                  "computer-vision",
+                  "deep-learning",
+                  "graph",
+                  "graph-learning",
+                  "knowledge-distillation",
+                  "multi-agent-learning",
+                  "multi-agent-perception",
+                  "multi-agent-system",
+                  "point-cloud-processing",
+                  "v2v",
+                  "v2x-communication"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1881,12 +2613,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors",
+                "homepage": null,
                 "id": 534546204,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T14:30:23Z",
+                "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "collaboration",
+                  "collaborative-perception",
+                  "multiagent",
+                  "object-detection",
+                  "perception",
+                  "robust"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1904,12 +2648,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official source code to CVPR'20 paper, \"When2com: Multi-Agent Perception via Communication Graph Grouping\"",
+                "homepage": "https://ycliu93.github.io/projects/multi-agent-perception.html",
                 "id": 272565603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:14:42Z",
+                "open_issues": 9,
                 "owner": "GT-RIPL",
                 "repo": "MultiAgentPerception",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "cvpr2020",
+                  "deep-learning",
+                  "multi-agent-systems",
+                  "multi-view",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1927,12 +2682,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V.",
+                "homepage": "https://mobility-lab.seas.ucla.edu/opv2v/",
                 "id": 456345512,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-17T05:45:28Z",
+                "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 830
+                "stars": 830,
+                "topics": [
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "computer-vision",
+                  "deep-learning",
+                  "multi-agent-perception",
+                  "multi-agent-systems",
+                  "pytorch",
+                  "simulations"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1950,12 +2719,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors",
+                "homepage": null,
                 "id": 534546204,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-23T14:30:23Z",
+                "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "collaboration",
+                  "collaborative-perception",
+                  "multiagent",
+                  "object-detection",
+                  "perception",
+                  "robust"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1973,12 +2754,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official source code to CVPR'20 paper, \"When2com: Multi-Agent Perception via Communication Graph Grouping\"",
+                "homepage": "https://ycliu93.github.io/projects/multi-agent-perception.html",
                 "id": 272565603,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:14:42Z",
+                "open_issues": 9,
                 "owner": "GT-RIPL",
                 "repo": "MultiAgentPerception",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "cvpr2020",
+                  "deep-learning",
+                  "multi-agent-systems",
+                  "multi-view",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1998,12 +2790,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HKU-Dataset for Event-based VO/VIO/SLAM",
+                    "homepage": null,
                     "id": 568609836,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-10-29T10:46:12Z",
+                    "open_issues": 4,
                     "owner": "arclab-hku",
                     "repo": "Event_based_VO-VIO-SLAM",
-                    "stars": 322
+                    "stars": 322,
+                    "topics": [
+                      "event-cameras",
+                      "robotics",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2014,12 +2815,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Griffin: Aerial-Ground Cooperative Detection and Tracking Benchmark",
+                    "homepage": null,
                     "id": 941012782,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-26T06:49:42Z",
+                    "open_issues": 1,
                     "owner": "wang-jh18-SVM",
                     "repo": "Griffin",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2030,12 +2836,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2025 Spotlight] The official benchmark codebase for the paper \"V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception\" ",
+                    "homepage": null,
                     "id": 899838288,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-18T03:28:00Z",
+                    "open_issues": 9,
                     "owner": "yanglei18",
                     "repo": "V2X-Radar",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2046,12 +2857,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of AirV2X: Unified Air-Ground\\\\Vehicle-to-Everything Collaboration",
+                    "homepage": "https://xiangbogaobarry.github.io/AirV2X/",
                     "id": 984203370,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-12T14:24:39Z",
+                    "open_issues": 1,
                     "owner": "taco-group",
                     "repo": "AirV2X-Perception",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "autonomous-driving",
+                      "autonomous-vehicles",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "intelligent-transportation-systems",
+                      "robotics",
+                      "transportation",
+                      "v2v",
+                      "v2x",
+                      "v2x-communication"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2062,12 +2889,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction",
+                    "homepage": "https://mobility-lab.seas.ucla.edu/v2xpnp/",
                     "id": 809539033,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-02T18:49:17Z",
+                    "open_issues": 4,
                     "owner": "Zewei-Zhou",
                     "repo": "V2XPnP",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "autonomous-driving",
+                      "spatial-temporal-fusion",
+                      "v2x-sequential-dataset",
+                      "vehicle-to-everything"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2078,12 +2915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official repository of WHALES. ",
+                    "homepage": null,
                     "id": 773670174,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-26T03:00:51Z",
+                    "open_issues": 6,
                     "owner": "chensiweiTHU",
                     "repo": "WHALES",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2094,12 +2936,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The first open-source synthetic dataset for collaborative perception focused on adverse weather conditions",
+                    "homepage": "https://labs.cs.queensu.ca/quarrg/datasets/adver-city/",
                     "id": 853548685,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-29T20:19:00Z",
+                    "open_issues": 0,
                     "owner": "QUARRG",
                     "repo": "Adver-City",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "automated-driving-systems",
+                      "autonomous-driving",
+                      "camera",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "connected-and-automated-vehicles",
+                      "cooperative-driving-automation",
+                      "cooperative-perception",
+                      "dataset",
+                      "lidar",
+                      "multi-agent-perception",
+                      "multi-agent-system",
+                      "multi-modal",
+                      "self-driving-car",
+                      "simulation",
+                      "v2i",
+                      "v2v",
+                      "v2x",
+                      "vehicle-to-everything",
+                      "vehicle-to-vehicle"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2110,12 +2978,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios\"",
+                    "homepage": null,
                     "id": 739258101,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-12T14:52:13Z",
+                    "open_issues": 2,
                     "owner": "xf-zh",
                     "repo": "InScope",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2126,12 +2999,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather",
+                    "homepage": null,
                     "id": 1012562881,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-23T04:58:16Z",
+                    "open_issues": 0,
                     "owner": "NingMingHao",
                     "repo": "CoInfra",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2142,12 +3020,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA2026] Official code of the paper \"V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models\"",
+                    "homepage": "https://arxiv.org/abs/2502.09980",
                     "id": 932958504,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-03-03T05:56:56Z",
+                    "open_issues": 0,
                     "owner": "eddyhkchiu",
                     "repo": "V2V-LLM",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "autonomous-driving",
+                      "computer-vision",
+                      "connected-autonomous-vehicle",
+                      "cooperative-autonomous-driving",
+                      "deep-learning",
+                      "multimodal-large-language-models",
+                      "robotics",
+                      "v2v-communication",
+                      "v2v-llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2158,12 +3051,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA'26] M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark",
+                    "homepage": null,
                     "id": 991543620,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-09T20:14:40Z",
+                    "open_issues": 0,
                     "owner": "zhumorui",
                     "repo": "M3CAD",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2174,12 +3072,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 976226622,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-14T18:48:19Z",
+                    "open_issues": 0,
                     "owner": "ucla-mobility",
                     "repo": "MobiVerse",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2190,12 +3093,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views",
+                    "homepage": null,
                     "id": 1195966335,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-06T03:12:05Z",
+                    "open_issues": 2,
                     "owner": "junwei0001",
                     "repo": "V2X-QA",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "autonomous-driving",
+                      "multimodal-large-language-models",
+                      "vehicle-infrastructure-cooperation",
+                      "visual-question-answering-benchmark"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2206,12 +3119,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for  Cooperative Perception",
+                    "homepage": null,
                     "id": 853705757,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-08-03T12:44:16Z",
+                    "open_issues": 0,
                     "owner": "RadetzkyLi",
                     "repo": "Multi-V2X",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2222,12 +3140,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 696356359,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-07-03T01:26:39Z",
+                    "open_issues": 0,
                     "owner": "cuijiaxun",
                     "repo": "talking-vehicles",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2245,12 +3168,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization",
+                    "homepage": null,
                     "id": 1200749980,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T20:54:24Z",
+                    "open_issues": 3,
                     "owner": "UCR-CISL",
                     "repo": "CooperScene",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2268,12 +3196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CVPR 2025 - V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion",
+                    "homepage": null,
                     "id": 887719955,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-26T06:07:21Z",
+                    "open_issues": 1,
                     "owner": "ylwhxht",
                     "repo": "V2X-R",
-                    "stars": 160
+                    "stars": 161,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2284,12 +3217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR-2025]RCP-Bench: Benchmarking Robustness for Collaborative Perception  Under Diverse Corruptions",
+                    "homepage": null,
                     "id": 953043703,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-04T18:07:26Z",
+                    "open_issues": 2,
                     "owner": "LuckyDush",
                     "repo": "RCP-Bench",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2307,12 +3245,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS2025] UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception",
+                    "homepage": "https://thi-ad.github.io/urbaning/",
                     "id": 981745881,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-04-07T16:16:02Z",
+                    "open_issues": 2,
                     "owner": "thi-ad",
                     "repo": "UrbanIng-V2X",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": [
+                      "cooperativeperception",
+                      "dataset",
+                      "v2x"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2323,12 +3270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 981214617,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-11-06T07:19:40Z",
+                    "open_issues": 6,
                     "owner": "AGC-Drive",
                     "repo": "AGC-Drive",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2346,12 +3298,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Release of data and code for publication: \"SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception\"",
+                    "homepage": null,
                     "id": 1109876095,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-05T15:22:43Z",
+                    "open_issues": 1,
                     "owner": "fzi-forschungszentrum-informatik",
                     "repo": "SlimComm",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2369,12 +3326,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] Official implementation of \"RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception\"",
+                    "homepage": "https://openaccess.thecvf.com/content/CVPR2024/html/Hao_RCooper_A_Real-world_Large-scale_Dataset_for_Roadside_Cooperative_Perception_CVPR_2024_paper.html",
                     "id": 764967045,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-29T09:16:11Z",
+                    "open_issues": 4,
                     "owner": "AIR-THU",
                     "repo": "DAIR-RCooper",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": [
+                      "autonoumous-driving",
+                      "cooperative-perception",
+                      "dataset-and-benchmark",
+                      "multi-view",
+                      "roadside-perception"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2385,12 +3353,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TUM Traffic Dataset Development Kit",
+                    "homepage": "https://innovation-mobility.com/tumtraf-dataset",
                     "id": 671067465,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-24T01:01:35Z",
+                    "open_issues": 16,
                     "owner": "tum-traffic-dataset",
                     "repo": "tum-traffic-dataset-dev-kit",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "3d-object-detection",
+                      "3d-vision",
+                      "autonomous-driving",
+                      "benchmark",
+                      "camera",
+                      "dataset",
+                      "deep-learning",
+                      "dev-kit",
+                      "image",
+                      "lidar",
+                      "machine-learning",
+                      "munich",
+                      "perception",
+                      "point-cloud",
+                      "traffic",
+                      "tum"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2401,12 +3391,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset",
+                    "homepage": "https://ai4ce.github.io/MARS/",
                     "id": 780261143,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-25T01:56:30Z",
+                    "open_issues": 2,
                     "owner": "ai4ce",
                     "repo": "MARS",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": [
+                      "3dgs",
+                      "collaborative-perception",
+                      "coperception",
+                      "cvpr2024",
+                      "dataset",
+                      "multiagent",
+                      "multimodal-deep-learning",
+                      "nerf",
+                      "self-driving"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2424,12 +3429,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 711741262,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-27T16:03:49Z",
+                    "open_issues": 3,
                     "owner": "AIR-THU",
                     "repo": "V2X-Graph",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2447,12 +3457,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR2024] HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception ➡️ All You Need for Multi-Modality Collaborative Perception!",
+                    "homepage": null,
                     "id": 745909986,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-01T07:26:13Z",
+                    "open_issues": 35,
                     "owner": "yifanlu0227",
                     "repo": "HEAL",
-                    "stars": 236
+                    "stars": 236,
+                    "topics": [
+                      "3d-object-detection",
+                      "camera-based-detection",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "heterogeneous",
+                      "lidar-based-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2470,12 +3492,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the benchmark - DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving.",
+                    "homepage": null,
                     "id": 627873513,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-16T02:52:00Z",
+                    "open_issues": 27,
                     "owner": "tianqi-wang1996",
                     "repo": "DeepAccident",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2493,12 +3520,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2023 Highlight] The official codebase for paper \"V2V4Real: A large-scale real-world dataset for Vehicle-to-Vehicle Cooperative Perception\"",
+                    "homepage": null,
                     "id": 609351183,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-14T16:14:27Z",
+                    "open_issues": 20,
                     "owner": "ucla-mobility",
                     "repo": "V2V4Real",
-                    "stars": 231
+                    "stars": 231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2509,12 +3541,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 617012827,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-21T02:42:26Z",
+                    "open_issues": 21,
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X-Seq",
-                    "stars": 203
+                    "stars": 203,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2525,12 +3562,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 615220240,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-28T01:49:57Z",
+                    "open_issues": 10,
                     "owner": "MediaBrain-SJTU",
                     "repo": "CoCa3D",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2541,12 +3583,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 615220240,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-03-28T01:49:57Z",
+                    "open_issues": 10,
                     "owner": "MediaBrain-SJTU",
                     "repo": "CoCa3D",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2564,12 +3611,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PCSim: LiDAR Point Cloud Simulation and Sensor Placement! Code of [ICRA 2023] \"Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library\" and [ICCV 2023] \"Optimizing the Placement of Roadside LiDARs for Autonomous Driving\".",
+                    "homepage": null,
                     "id": 537289862,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-12T02:39:50Z",
+                    "open_issues": 14,
                     "owner": "PJLab-ADG",
                     "repo": "PCSim",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": [
+                      "autonomous-driving",
+                      "carla",
+                      "simulator"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2580,12 +3636,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA2023] CoAlign: Robust Collaborative 3D Object Detection in Presence of Pose Errors",
+                    "homepage": null,
                     "id": 534546204,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-23T14:30:23Z",
+                    "open_issues": 9,
                     "owner": "yifanlu0227",
                     "repo": "CoAlign",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": [
+                      "collaboration",
+                      "collaborative-perception",
+                      "multiagent",
+                      "object-detection",
+                      "perception",
+                      "robust"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2596,12 +3664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2023] V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception",
+                    "homepage": null,
                     "id": 607293022,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-10-17T04:37:05Z",
+                    "open_issues": 0,
                     "owner": "XHwind",
                     "repo": "V2XP-ASG",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2619,12 +3692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 471869423,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-21T02:38:37Z",
+                    "open_issues": 46,
                     "owner": "AIR-THU",
                     "repo": "DAIR-V2X",
-                    "stars": 645
+                    "stars": 645,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 },
@@ -2635,12 +3713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 471486957,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-23T04:19:23Z",
+                    "open_issues": 3,
                     "owner": "hangqiu",
                     "repo": "AutoCastSim",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2658,12 +3741,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 539304653,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-03T12:24:09Z",
+                    "open_issues": 22,
                     "owner": "MediaBrain-SJTU",
                     "repo": "Where2comm",
-                    "stars": 218
+                    "stars": 218,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2681,12 +3769,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV2022] Official Implementation of  paper \"V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer\"",
+                    "homepage": null,
                     "id": 510451246,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-06T01:45:31Z",
+                    "open_issues": 7,
                     "owner": "DerrickXuNu",
                     "repo": "v2x-vit",
-                    "stars": 348
+                    "stars": 348,
+                    "topics": [
+                      "3d-object-detection",
+                      "autonomous-driving",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "deep-learning",
+                      "machine-learning",
+                      "multi-agent-system",
+                      "pytorch",
+                      "simulation",
+                      "v2x",
+                      "vehicle-to-everything",
+                      "vision-transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2704,12 +3810,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICRA 2022] An opensource framework for cooperative detection. Official implementation for OPV2V.",
+                    "homepage": "https://mobility-lab.seas.ucla.edu/opv2v/",
                     "id": 456345512,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-17T05:45:28Z",
+                    "open_issues": 37,
                     "owner": "DerrickXuNu",
                     "repo": "OpenCOOD",
-                    "stars": 830
+                    "stars": 830,
+                    "topics": [
+                      "autonomous-driving",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "deep-learning",
+                      "multi-agent-perception",
+                      "multi-agent-systems",
+                      "pytorch",
+                      "simulations"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2727,12 +3847,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main code of Dolphins dataset",
+                    "homepage": null,
                     "id": 537380005,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-29T09:35:03Z",
+                    "open_issues": 2,
                     "owner": "explosion5",
                     "repo": "Dolphins",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "autonomous-driving",
+                      "carla-simulator",
+                      "collaborative-perception",
+                      "connected-auronomous-vehicles",
+                      "cooperative-perception",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2750,12 +3882,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[RA-L2022] V2X-Sim Dataset and Benchmark",
+                    "homepage": "https://ai4ce.github.io/V2X-Sim",
                     "id": 400240444,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2025-01-24T16:55:28Z",
+                    "open_issues": 8,
                     "owner": "ai4ce",
                     "repo": "V2X-Sim",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": [
+                      "benchmark",
+                      "collaborative-perception",
+                      "computer-vision",
+                      "dataset",
+                      "deep-learning",
+                      "machine-learning",
+                      "multi-robot-systems",
+                      "pytorch",
+                      "simulation",
+                      "v2x",
+                      "vehicle-to-everything"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2773,12 +3922,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source simulator for autonomous driving research.",
+                    "homepage": "http://carla.org",
                     "id": 108102826,
                     "language": "C++",
-                    "last_commit": "2026-08-28T08:19:25Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T12:56:49Z",
+                    "open_issues": 1195,
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14334
+                    "stars": 14335,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "autonomous-driving",
+                      "autonomous-vehicles",
+                      "carla",
+                      "carla-simulator",
+                      "computer-vision",
+                      "cross-platform",
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "imitation-learning",
+                      "research",
+                      "ros",
+                      "self-driving-car",
+                      "simulator",
+                      "ue4",
+                      "unreal-engine-4"
+                    ]
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
                 }
@@ -2797,15 +3969,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:22:28.355Z",
+    "last_updated": "2026-08-29T04:42:48.484Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
+      "homepage": null,
       "id": 526952990,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-26T03:33:17Z",
+      "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 622
+      "stars": 622,
+      "topics": [
+        "autonomous-driving",
+        "awesome-list",
+        "collaborative-perception",
+        "cooperative-perception",
+        "corl",
+        "cvpr",
+        "eccv",
+        "iccv",
+        "iclr",
+        "multi-agent-perception",
+        "multi-agent-system",
+        "neurips",
+        "paper-list",
+        "v2i",
+        "v2v",
+        "v2x"
+      ]
     },
     "original_repository_sha": "71f06d9a55ed1ae4debb58acbf921cbf5b2c7d66",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",

@@ -147,7 +147,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2025
 
-* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
+* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
 * **LangCoop** (LangCoop: Collaborative Driving with Language) \[[paper](https://arxiv.org/abs/2504.13406)] \[[code](https://github.com/taco-group/LangCoop) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2025-09-12]
 * **CoSDH** (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) \[[paper](https://arxiv.org/abs/2503.03430)] \[[code](https://github.com/Xu2729/CoSDH) ⭐ 35 | 🐛 4 | 🌐 Python | 📅 2025-10-21]
 * **TraF-Align** (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) \[[paper](https://arxiv.org/abs/2503.19391)] \[[code](https://github.com/zhyingS/TraF-Align) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2025-08-13]
@@ -384,7 +384,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CVPR 2025
 
-* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2025-11-26] \[~~project~~]
+* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26] \[~~project~~]
 * **RCP-Bench** (RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html)] \[[code](https://github.com/LuckyDush/RCP-Bench) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2025-09-04] \[~~project~~]
 * **Mono3DVLT-V2X** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] \[~~code~~] \[~~project~~]
 
@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,334 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-28] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,335 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-28] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
