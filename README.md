@@ -253,7 +253,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### ICCV 2023
 
 * **CORE** (CORE: Cooperative Reconstruction for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2307.11514)] \[[code](https://github.com/zllxot/CORE) ⭐ 46 | 🐛 4 | 🌐 Python | 📅 2023-11-25]
-* **HM-ViT** (HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2304.10628)] \[[code](https://github.com/XHwind/HM-ViT) ⭐ 39 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-15]
+* **HM-ViT** (HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2304.10628)] \[[code](https://github.com/XHwind/HM-ViT) ⭐ 40 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-15]
 * **SCOPE** (Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception) \[[paper](https://arxiv.org/abs/2307.13929)] \[[code](https://github.com/starfdu1418/SCOPE) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2023-10-23]
 * **ROBOSAC** (Among Us: Adversarially Robust Collaborative Perception by Consensus) \[[paper](https://arxiv.org/abs/2303.09495)] \[[code](https://github.com/coperception/ROBOSAC) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-02-18]
 * **UMC** (UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework) \[[paper](https://arxiv.org/abs/2303.12400)] \[[code](https://github.com/ispc-lab/UMC) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2023-08-19]
@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,336 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-28] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,337 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
