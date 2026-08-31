@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,337 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,341 | 🐛 1,196 | 🌐 C++ | 📅 2026-08-30] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
