@@ -15,7 +15,7 @@ Note: I find it hard to fairly compare all methods on each benchmark since some 
 
 * **(Position)** Multi-Agent Embodied Autonomous Driving: From V2X Information Exchange to Shared World Models \[[paper](https://arxiv.org/abs/2606.13840)], Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception \[[paper](https://arxiv.org/abs/2604.17651)], When Autonomous Vehicle Meets V2X Cooperative Perception: How Far Are We? \[[paper](https://arxiv.org/abs/2509.24927)], Research Challenges and Progress in the End-to-End V2X Cooperative Autonomous Driving Competition \[[paper](https://arxiv.org/abs/2507.21610)], Automated Vehicles Should be Connected with Natural Language \[[paper](https://arxiv.org/abs/2507.01059)], Collaborative Perception Datasets for Autonomous Driving: A Review \[[paper](https://arxiv.org/abs/2504.12696)], Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities \[[paper](https://arxiv.org/abs/2401.01544)], V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges \[[paper](https://arxiv.org/abs/2310.03525)], Towards Vehicle-to-Everything Autonomous Driving: A Survey on Collaborative Perception \[[paper](https://arxiv.org/abs/2308.16714)], Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges \[[paper](https://arxiv.org/abs/2301.06262)], A Survey and Framework of Cooperative Perception: From Heterogeneous Singleton to Hierarchical Cooperation \[[paper](https://arxiv.org/abs/2208.10590)]
 * **(Talk)** Vehicle-to-Vehicle (V2V) Communication (Waabi CVPR 24 Tutorial on Self-Driving Cars) \[[video](https://youtu.be/yceuUthWz9s)], Vehicle-to-Vehicle (V2V) Communication (Waabi CVPR 23 Tutorial on Self-Driving Cars) \[[video](https://youtu.be/T-N51B8mZB8)], The Ultimate Solution for L4 Autonomous Driving \[[video](https://youtu.be/cyNxemm4Ujg)], When Vision Transformers Meet Cooperative Perception \[[video](https://youtu.be/rLAU4eqoOIU)], Scene Understanding beyond the Visible \[[video](https://youtu.be/oz0AnmJZCR4)], Robust Collaborative Perception against Communication Interruption \[[video](https://youtu.be/3cIWpMrsyeE)], Collaborative and Adversarial 3D Perception for Autonomous Driving \[[video](https://youtu.be/W-AONQMfGi0)], Vehicle-to-Vehicle Communication for Self-Driving \[[video](https://youtu.be/oikdOpmIoc4)], Adversarial Robustness for Self-Driving \[[video](https://youtu.be/8uBFXzyII5Y)], L4感知系统的终极形态：协同驾驶 \[[video](https://youtu.be/NvixMEDHht4)], CoBEVFlow-解决车-车/路协同感知的时序异步问题 \[[video](https://youtu.be/IBTgalAjye8)], 新一代协作感知Where2comm减少通信带宽十万倍 \[[video](https://youtu.be/i5coMk4hkuk)], 从任务相关到任务无关的多机器人协同感知 \[[video](https://course.zhidx.com/c/MDlkZjcyZDgwZWI4ODBhOGQ4MzM=)], 协同自动驾驶：仿真与感知 \[[video](https://course.zhidx.com/c/MmQ1YWUyMzM1M2I3YzVlZjE1NzM=)], 基于群体协作的超视距态势感知 \[[video](https://www.koushare.com/video/videodetail/33015)]
-* **(Library)** V2Xverse: A Codebase for V2X-Based Collaborative End2End Autonomous Driving \[[code](https://github.com/CollaborativePerception/V2Xverse) ⭐ 187 | 🐛 20 | 🌐 Python | 📅 2025-09-11] \[[doc](https://collaborativeperception.github.io/V2Xverse)], HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 236 | 🐛 35 | 🌐 Python | 📅 2025-01-01] \[[doc](https://huggingface.co/yifanlu/HEAL)], OpenCOOD: Open Cooperative Detection Framework for Autonomous Driving \[[code](https://github.com/DerrickXuNu/OpenCOOD) ⭐ 830 | 🐛 37 | 🌐 Python | 📅 2024-08-17] \[[doc](https://opencood.readthedocs.io/en/latest/index.html)], CoPerception: SDK for Collaborative Perception \[[code](https://github.com/coperception/coperception) ⭐ 169 | 🐛 14 | 🌐 Python | 📅 2024-04-08] \[[doc](https://coperception.readthedocs.io/en/latest)], OpenCDA: Simulation Tool Integrated with Prototype Cooperative Driving Automation \[[code](https://github.com/ucla-mobility/OpenCDA) ⭐ 1,162 | 🐛 31 | 🌐 Python | 📅 2026-08-18] \[[doc](https://opencda-documentation.readthedocs.io/en/latest)]
+* **(Library)** V2Xverse: A Codebase for V2X-Based Collaborative End2End Autonomous Driving \[[code](https://github.com/CollaborativePerception/V2Xverse) ⭐ 187 | 🐛 20 | 🌐 Python | 📅 2025-09-11] \[[doc](https://collaborativeperception.github.io/V2Xverse)], HEAL: An Extensible Framework for Open Heterogeneous Collaborative Perception \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 237 | 🐛 35 | 🌐 Python | 📅 2025-01-01] \[[doc](https://huggingface.co/yifanlu/HEAL)], OpenCOOD: Open Cooperative Detection Framework for Autonomous Driving \[[code](https://github.com/DerrickXuNu/OpenCOOD) ⭐ 830 | 🐛 37 | 🌐 Python | 📅 2024-08-17] \[[doc](https://opencood.readthedocs.io/en/latest/index.html)], CoPerception: SDK for Collaborative Perception \[[code](https://github.com/coperception/coperception) ⭐ 169 | 🐛 14 | 🌐 Python | 📅 2024-04-08] \[[doc](https://coperception.readthedocs.io/en/latest)], OpenCDA: Simulation Tool Integrated with Prototype Cooperative Driving Automation \[[code](https://github.com/ucla-mobility/OpenCDA) ⭐ 1,162 | 🐛 31 | 🌐 Python | 📅 2026-08-18] \[[doc](https://opencda-documentation.readthedocs.io/en/latest)]
 * **(Workshop)** Co-Intelligence\@ECCV'24 \[[web](https://coop-intelligence.github.io)], CoPerception\@ICRA'23 \[[web](https://coperception.github.io)], ScalableAD\@ICRA'23 \[[web](https://sites.google.com/view/icra2023av/home)]
 * **(Background)** Current Approaches and Future Directions for Point Cloud Object Detection in Intelligent Agents \[[video](https://youtu.be/xFFCQVwYeec)], 3D Object Detection for Autonomous Driving: A Review and New Outlooks \[[paper](https://arxiv.org/abs/2206.09474)], DACOM: Learning Delay-Aware Communication for Multi-Agent Reinforcement Learning \[[video](https://youtu.be/YBgW2oA_n3k)], A Survey of Multi-Agent Reinforcement Learning with Communication \[[paper](https://arxiv.org/abs/2203.08975)]
 
@@ -158,7 +158,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### NeurIPS 2025
 
-* **GenComm** (Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism) \[[paper](https://arxiv.org/abs/2510.19618)] \[[code](https://github.com/jeffreychou777/GenComm) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2025-12-07]
+* **GenComm** (Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism) \[[paper](https://arxiv.org/abs/2510.19618)] \[[code](https://github.com/jeffreychou777/GenComm) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2025-12-07]
 * **NegoCollab** (NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception) \[[paper](https://arxiv.org/abs/2510.27647)] \[[code](https://github.com/scz023/NegoCollab) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-23]
 
 ### ICCV 2025
@@ -212,7 +212,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### NeurIPS 2024
 
-* **V2X-Graph** (Learning Cooperative Trajectory Representations for Motion Forecasting) \[[paper](https://arxiv.org/abs/2311.00371)] \[[code](https://github.com/AIR-THU/V2X-Graph) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2025-05-27]
+* **V2X-Graph** (Learning Cooperative Trajectory Representations for Motion Forecasting) \[[paper](https://arxiv.org/abs/2311.00371)] \[[code](https://github.com/AIR-THU/V2X-Graph) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2025-05-27]
 
 ### ECCV 2024
 
@@ -221,7 +221,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICLR 2024
 
-* **HEAL** (An Extensible Framework for Open Heterogeneous Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=KkrDUGIASk)] \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 236 | 🐛 35 | 🌐 Python | 📅 2025-01-01]
+* **HEAL** (An Extensible Framework for Open Heterogeneous Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=KkrDUGIASk)] \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 237 | 🐛 35 | 🌐 Python | 📅 2025-01-01]
 
 ### AAAI 2024
 
@@ -290,7 +290,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### CVPR 2022
 
 * **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 645 | 🐛 46 | 🌐 Python | 📅 2025-02-21]
-* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 441 | 🐛 29 | 🌐 Python | 📅 2022-10-13]
+* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 440 | 🐛 29 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
 ### NeurIPS 2022
@@ -300,7 +300,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### ECCV 2022
 
 * **V2X-ViT** (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2203.10638)] \[[code](https://github.com/DerrickXuNu/v2x-vit) ⭐ 348 | 🐛 7 | 🌐 Python | 📅 2024-09-06]
-* **SyncNet** (Latency-Aware Collaborative Perception) \[[paper](https://arxiv.org/abs/2207.08560)] \[[code](https://github.com/MediaBrain-SJTU/SyncNet) ⭐ 45 | 🐛 5 | 🌐 Python | 📅 2023-03-15]
+* **SyncNet** (Latency-Aware Collaborative Perception) \[[paper](https://arxiv.org/abs/2207.08560)] \[[code](https://github.com/MediaBrain-SJTU/SyncNet) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2023-03-15]
 
 ### CoRL 2022
 
@@ -407,7 +407,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### NeurIPS 2024
 
-* {Real} **DAIR-V2X-Traj** (Learning Cooperative Trajectory Representations for Motion Forecasting) \[[paper](https://arxiv.org/abs/2311.00371)] \[[code](https://github.com/AIR-THU/V2X-Graph) ⭐ 45 | 🐛 3 | 🌐 Python | 📅 2025-05-27] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X-Traj** (Learning Cooperative Trajectory Representations for Motion Forecasting) \[[paper](https://arxiv.org/abs/2311.00371)] \[[code](https://github.com/AIR-THU/V2X-Graph) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2025-05-27] \[[project](https://thudair.baai.ac.cn/index)]
 
 ### ECCV 2024
 
@@ -415,7 +415,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ICLR 2024
 
-* **OPV2V-H** (An Extensible Framework for Open Heterogeneous Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=KkrDUGIASk)] \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 236 | 🐛 35 | 🌐 Python | 📅 2025-01-01] \[[project](https://huggingface.co/datasets/yifanlu/OPV2V-H)]
+* **OPV2V-H** (An Extensible Framework for Open Heterogeneous Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=KkrDUGIASk)] \[[code](https://github.com/yifanlu0227/HEAL) ⭐ 237 | 🐛 35 | 🌐 Python | 📅 2025-01-01] \[[project](https://huggingface.co/datasets/yifanlu/OPV2V-H)]
 
 ### AAAI 2024
 
@@ -469,8 +469,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,341 | 🐛 1,196 | 🌐 C++ | 📅 2026-08-30] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,346 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-31] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

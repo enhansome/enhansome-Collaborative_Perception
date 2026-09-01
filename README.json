@@ -994,7 +994,7 @@
                 "open_issues": 1,
                 "owner": "jeffreychou777",
                 "repo": "GenComm",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -1543,7 +1543,7 @@
                 "open_issues": 3,
                 "owner": "AIR-THU",
                 "repo": "V2X-Graph",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1571,7 +1571,7 @@
                 "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -2317,7 +2317,7 @@
                 "open_issues": 29,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 441,
+                "stars": 440,
                 "topics": [
                   "autonomous-driving",
                   "carla-simulator",
@@ -2443,7 +2443,7 @@
                 "open_issues": 5,
                 "owner": "MediaBrain-SJTU",
                 "repo": "SyncNet",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3438,7 +3438,7 @@
                     "open_issues": 3,
                     "owner": "AIR-THU",
                     "repo": "V2X-Graph",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3466,7 +3466,7 @@
                     "open_issues": 35,
                     "owner": "yifanlu0227",
                     "repo": "HEAL",
-                    "stars": 236,
+                    "stars": 237,
                     "topics": [
                       "3d-object-detection",
                       "camera-based-detection",
@@ -3927,11 +3927,11 @@
                     "id": 108102826,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T21:50:06Z",
-                    "open_issues": 1196,
+                    "last_commit": "2026-08-31T22:04:43Z",
+                    "open_issues": 1192,
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14341,
+                    "stars": 14346,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -3969,7 +3969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:33:15.206Z",
+    "last_updated": "2026-09-01T05:06:33.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
