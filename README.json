@@ -656,6 +656,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CoLC (CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "(2026 CVPR) CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion",
+                "homepage": null,
+                "id": 1353285030,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-09-01T11:40:44Z",
+                "open_issues": 0,
+                "owner": "CatOneTwo",
+                "repo": "CoLC",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-02T04:32:38.020Z"
             }
           ],
           "description": null,
@@ -924,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "zhyingS",
                 "repo": "TraF-Align",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1158,7 +1179,7 @@
                 "open_issues": 4,
                 "owner": "buaa-colalab",
                 "repo": "CoST",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2921,7 +2942,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2026-04-26T03:00:51Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "chensiweiTHU",
                     "repo": "WHALES",
                     "stars": 31,
@@ -2945,7 +2966,7 @@
                     "open_issues": 0,
                     "owner": "QUARRG",
                     "repo": "Adver-City",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "automated-driving-systems",
                       "autonomous-driving",
@@ -3927,11 +3948,11 @@
                     "id": 108102826,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T22:04:43Z",
+                    "last_commit": "2026-09-02T00:53:33Z",
                     "open_issues": 1192,
                     "owner": "carla-simulator",
                     "repo": "carla",
-                    "stars": 14346,
+                    "stars": 14350,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -3969,7 +3990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:06:33.918Z",
+    "last_updated": "2026-09-02T04:32:38.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -3981,7 +4002,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 622,
+      "stars": 623,
       "topics": [
         "autonomous-driving",
         "awesome-list",
