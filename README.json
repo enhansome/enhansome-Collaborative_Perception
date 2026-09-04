@@ -3283,7 +3283,7 @@
                 "id": 1200749980,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-23T20:54:24Z",
+                "last_commit": "2026-09-03T21:42:07Z",
                 "open_issues": 3,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
@@ -4037,11 +4037,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-03T04:05:14Z",
-                "open_issues": 1193,
+                "last_commit": "2026-09-04T02:36:06Z",
+                "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14353,
+                "stars": 14362,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4074,7 +4074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:32:32.685Z",
+    "last_updated": "2026-09-04T04:31:48.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",

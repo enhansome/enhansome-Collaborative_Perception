@@ -393,7 +393,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ECCV 2026
 
-* {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-08-23] \[[project](https://cisl.ucr.edu/CooperScene)]
+* {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-09-03] \[[project](https://cisl.ucr.edu/CooperScene)]
 
 ### CVPR 2025
 
@@ -482,8 +482,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,353 | 🐛 1,193 | 🌐 C++ | 📅 2026-09-03] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,362 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-04] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
