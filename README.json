@@ -1456,7 +1456,7 @@
                 "open_issues": 4,
                 "owner": "xiaomiaozhang",
                 "repo": "Co-MTP",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "autonomous-vehicles",
                   "trajectory-prediction",
@@ -1677,7 +1677,7 @@
                 "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -2934,7 +2934,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3291,6 +3291,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VIPS (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) [paper",
+              "description": "] [code] [project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV26]VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation",
+                "homepage": null,
+                "id": 1164717728,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-29T10:29:56Z",
+                "open_issues": 1,
+                "owner": "mickeykang16",
+                "repo": "VIPS",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-09-05T04:26:56.741Z"
             }
           ],
           "description": null,
@@ -3576,7 +3597,7 @@
                 "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 237,
+                "stars": 238,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -4037,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:36:06Z",
-                "open_issues": 1198,
+                "last_commit": "2026-09-05T03:38:17Z",
+                "open_issues": 1201,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14362,
+                "stars": 14366,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4074,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:31:48.673Z",
+    "last_updated": "2026-09-05T04:26:56.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4082,7 +4103,7 @@
       "id": 526952990,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-02T08:55:51Z",
+      "last_commit": "2026-09-04T09:10:05Z",
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
@@ -4106,7 +4127,7 @@
         "v2x"
       ]
     },
-    "original_repository_sha": "c11267b1c311e915d43f3c80c984438cf1d22d44",
+    "original_repository_sha": "53689f0fa642474b836d00a24f5f42f7e00302dd",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
     "title": "Awesome Collaborative Perception with stars"
