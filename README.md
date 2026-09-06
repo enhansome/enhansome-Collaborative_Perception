@@ -185,7 +185,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICLR 2025
 
-* **STAMP** (STAMP: Scalable Task- And Model-Agnostic Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=8NdNniulYE)] \[[code](https://github.com/taco-group/STAMP) ⭐ 64 | 🐛 8 | 🌐 Python | 📅 2025-02-04]
+* **STAMP** (STAMP: Scalable Task- And Model-Agnostic Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=8NdNniulYE)] \[[code](https://github.com/taco-group/STAMP) ⭐ 65 | 🐛 8 | 🌐 Python | 📅 2025-02-04]
 * **R\&B-POP** (Learning 3D Perception from Others' Predictions) \[[paper\&review](https://openreview.net/forum?id=Ylk98vWQuQ)] \[[code](https://github.com/jinsuyoo/rnb-pop) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
 * **CPPC** (Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=54XlM8Clkg)] \[~~code~~]
 
@@ -217,7 +217,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2024
 
-* **CoopDet3D** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/coopdet3d) ⭐ 84 | 🐛 9 | 🌐 Python | 📅 2024-03-07]
+* **CoopDet3D** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/coopdet3d) ⭐ 85 | 🐛 9 | 🌐 Python | 📅 2024-03-07]
 * **ERMVP** (ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.html)] \[[code](https://github.com/Terry9a/ERMVP) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-06-10]
 * **CodeFilling** (Communication-Efficient Collaborative Perception via Information Filling with Codebook) \[[paper](https://arxiv.org/abs/2405.04966)] \[[code](https://github.com/PhyllisH/CodeFilling) ⭐ 38 | 🐛 15 | 📅 2024-07-22]
 * **MRCNet** (Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html)] \[[code](https://github.com/IndigoChildren/collaborative-perception-MRCNet) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-03-23]
@@ -375,7 +375,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 * **AirV2X** (AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration) \[[paper](https://arxiv.org/abs/2506.19283)] \[[code](https://github.com/taco-group/AirV2X-Perception) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2025-11-12] \[[project](https://huggingface.co/datasets/xiangbog/AirV2X-Perception)]
 * {Real} **V2XPnP-Seq** (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2412.01812)] \[[code](https://github.com/Zewei-Zhou/V2XPnP) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2025-12-02] \[[project](https://mobility-lab.seas.ucla.edu/v2xpnp)]
 * **WHALES** (WHALES: A Multi-Agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving) \[[paper](https://arxiv.org/abs/2411.13340)] \[[code](https://github.com/chensiweiTHU/WHALES) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-04-26] \[[project](https://pan.baidu.com/s/1dintX-d1T-m2uACqDlAM9A)]
-* **Adver-City** (Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions) \[[paper](https://arxiv.org/abs/2410.06380)] \[[code](https://github.com/QUARRG/Adver-City) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2025-04-29] \[[project](https://labs.cs.queensu.ca/quarrg/datasets/adver-city)]
+* **Adver-City** (Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions) \[[paper](https://arxiv.org/abs/2410.06380)] \[[code](https://github.com/QUARRG/Adver-City) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-04-29] \[[project](https://labs.cs.queensu.ca/quarrg/datasets/adver-city)]
 * {Real} **InScope** (InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios) \[[paper](https://arxiv.org/abs/2407.21581)] \[[code](https://github.com/xf-zh/InScope) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-03-12] \[~~project~~]
 * {Real} **CoInfra** (CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather) \[[paper](https://arxiv.org/abs/2507.02245)] \[[code](https://github.com/NingMingHao/CoInfra) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-03-23] \[~~project~~]
 * **V2V-QA** (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) \[[paper](https://arxiv.org/abs/2502.09980)] \[[code](https://github.com/eddyhkchiu/V2VLLM) ⭐ 17 | 🐛 0 | 📅 2026-03-03] \[[project](https://eddyhkchiu.github.io/v2vllm.github.io)]
@@ -405,7 +405,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### NeurIPS 2025
 
 * **UrbanIng-V2X** (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) \[[paper\&review](https://openreview.net/forum?id=iSwIkUqyqf)] \[[code](https://github.com/thi-ad/UrbanIng-V2X) ⭐ 83 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-07] \[[project](https://pypi.org/project/urbaning)]
-* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 34 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
+* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 35 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
 
 ### ICCV 2025
 
@@ -487,4 +487,4 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

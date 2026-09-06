@@ -1292,7 +1292,7 @@
                 "open_issues": 8,
                 "owner": "taco-group",
                 "repo": "STAMP",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "autonomous",
                   "autonomous-driving",
@@ -1558,7 +1558,7 @@
                 "open_issues": 9,
                 "owner": "tum-traffic-dataset",
                 "repo": "coopdet3d",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3055,7 +3055,7 @@
                 "open_issues": 0,
                 "owner": "QUARRG",
                 "repo": "Adver-City",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "automated-driving-systems",
                   "autonomous-driving",
@@ -3410,7 +3410,7 @@
                 "open_issues": 6,
                 "owner": "AGC-Drive",
                 "repo": "AGC-Drive",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:26:56.741Z",
+    "last_updated": "2026-09-06T04:37:45.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
