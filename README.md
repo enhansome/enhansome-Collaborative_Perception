@@ -4,10 +4,10 @@ This repository is a paper digest of recent advances in **collaborative** / **co
 
 ### :link:Jump to:
 
-* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 624 | 🐛 2 | 📅 2026-09-04]
-* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 624 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 625 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 625 | 🐛 2 | 📅 2026-09-04]
 
-Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 624 | 🐛 2 | 📅 2026-09-04.
+Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 625 | 🐛 2 | 📅 2026-09-04.
 
 ## :star2:Recommendation
 
@@ -302,7 +302,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2022
 
-* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 646 | 🐛 46 | 🌐 Python | 📅 2025-02-21]
+* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 46 | 🌐 Python | 📅 2025-02-21]
 * {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 440 | 🐛 29 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
@@ -393,8 +393,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ECCV 2026
 
+* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
 * {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-09-03] \[[project](https://cisl.ucr.edu/CooperScene)]
-* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
 
 ### CVPR 2025
 
@@ -458,7 +458,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CVPR 2022
 
-* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 646 | 🐛 46 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 46 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
 * **AutoCastSim** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/hangqiu/AutoCastSim) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-09-23] \[[project](https://utexas.app.box.com/v/coopernaut-dataset)]
 
 ### NeurIPS 2022
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,366 | 🐛 1,201 | 🌐 C++ | 📅 2026-09-05] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,369 | 🐛 1,202 | 🌐 C++ | 📅 2026-09-06] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

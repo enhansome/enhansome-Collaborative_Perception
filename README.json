@@ -2402,7 +2402,7 @@
                 "open_issues": 46,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3273,6 +3273,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VIPS (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) [paper",
+              "description": "] [code] [project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV26]VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation",
+                "homepage": null,
+                "id": 1164717728,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-29T10:29:56Z",
+                "open_issues": 1,
+                "owner": "mickeykang16",
+                "repo": "VIPS",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-09-05T04:26:56.741Z"
+            },
+            {
+              "node_type": "item",
               "title": "{Real} CooperScene (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) [paper",
               "description": "] [code] [project]",
               "children": [],
@@ -3291,27 +3312,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VIPS (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) [paper",
-              "description": "] [code] [project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV26]VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation",
-                "homepage": null,
-                "id": 1164717728,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-29T10:29:56Z",
-                "open_issues": 1,
-                "owner": "mickeykang16",
-                "repo": "VIPS",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-09-05T04:26:56.741Z"
             }
           ],
           "description": null,
@@ -3832,7 +3832,7 @@
                 "open_issues": 46,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-05T03:38:17Z",
-                "open_issues": 1201,
+                "last_commit": "2026-09-06T21:13:20Z",
+                "open_issues": 1202,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14366,
+                "stars": 14369,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:37:45.708Z",
+    "last_updated": "2026-09-07T04:39:49.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4107,7 +4107,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 624,
+      "stars": 625,
       "topics": [
         "autonomous-driving",
         "awesome-list",
