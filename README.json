@@ -673,7 +673,7 @@
                 "open_issues": 0,
                 "owner": "CatOneTwo",
                 "repo": "CoLC",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-09-02T04:32:38.020Z"
@@ -715,6 +715,35 @@
           "children": [
             {
               "node_type": "item",
+              "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI 2026] InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck",
+                "homepage": "https://weiquanmin.github.io/infocom/",
+                "id": 1145775655,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-01-30T07:51:54Z",
+                "open_issues": 1,
+                "owner": "fengxueguiren",
+                "repo": "InfoCom",
+                "stars": 13,
+                "topics": [
+                  "3d-object-detection",
+                  "autonomous-driving",
+                  "collaborative-perception",
+                  "communication-efficient-collaborative-perception",
+                  "information-bottleneck",
+                  "multi-agent-systems",
+                  "v2x"
+                ]
+              },
+              "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
               "title": "SparseCoop (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) [paper",
               "description": "] [code]",
               "children": [],
@@ -731,35 +760,6 @@
                 "repo": "SparseCoop",
                 "stars": 13,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
-              "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[AAAI 2026] InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck",
-                "homepage": "https://weiquanmin.github.io/infocom/",
-                "id": 1145775655,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-30T07:51:54Z",
-                "open_issues": 1,
-                "owner": "fengxueguiren",
-                "repo": "InfoCom",
-                "stars": 12,
-                "topics": [
-                  "3d-object-detection",
-                  "autonomous-driving",
-                  "collaborative-perception",
-                  "communication-efficient-collaborative-perception",
-                  "information-bottleneck",
-                  "multi-agent-systems",
-                  "v2x"
-                ]
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             }
@@ -1222,7 +1222,7 @@
                 "open_issues": 1,
                 "owner": "zhuyaoye",
                 "repo": "MamV2XCalib",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2934,7 +2934,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4058,8 +4058,8 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-06T21:13:20Z",
-                "open_issues": 1202,
+                "last_commit": "2026-09-07T09:38:03Z",
+                "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
                 "stars": 14369,
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:39:49.446Z",
+    "last_updated": "2026-09-08T04:34:18.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
