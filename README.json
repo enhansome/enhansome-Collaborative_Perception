@@ -1677,7 +1677,7 @@
                 "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -3597,7 +3597,7 @@
                 "open_issues": 35,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-07T09:38:03Z",
-                "open_issues": 1198,
+                "last_commit": "2026-09-10T02:46:29Z",
+                "open_issues": 1199,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14373,
+                "stars": 14380,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:40:52.973Z",
+    "last_updated": "2026-09-10T04:41:15.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
