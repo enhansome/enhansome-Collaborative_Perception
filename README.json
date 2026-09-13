@@ -1903,7 +1903,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3287,7 +3287,7 @@
                 "open_issues": 1,
                 "owner": "mickeykang16",
                 "repo": "VIPS",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-09-05T04:26:56.741Z"
@@ -3308,7 +3308,7 @@
                 "open_issues": 3,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3493,7 +3493,7 @@
                 "open_issues": 16,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "3d-object-detection",
                   "3d-vision",
@@ -3681,7 +3681,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4062,7 +4062,7 @@
                 "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14388,
+                "stars": 14391,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:32:54.348Z",
+    "last_updated": "2026-09-13T04:46:18.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",

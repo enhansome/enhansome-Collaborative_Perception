@@ -254,7 +254,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### CVPR 2023
 
 * {Related} **BEVHeight** (BEVHeight: A Robust Framework for Vision-Based Roadside 3D Object Detection) \[[paper](https://arxiv.org/abs/2303.08498)] \[[code](https://github.com/ADLab-AutoDrive/BEVHeight) ⭐ 244 | 🐛 14 | 🌐 Python | 📅 2024-08-01]
-* **FF-Tracking** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 203 | 🐛 21 | 🌐 Python | 📅 2025-02-21]
+* **FF-Tracking** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 204 | 🐛 21 | 🌐 Python | 📅 2025-02-21]
 * **CoCa3D** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28]
 
 ### NeurIPS 2023
@@ -393,8 +393,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ECCV 2026
 
-* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
-* {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2026-09-03] \[[project](https://cisl.ucr.edu/CooperScene)]
+* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
+* {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-09-03] \[[project](https://cisl.ucr.edu/CooperScene)]
 
 ### CVPR 2025
 
@@ -415,7 +415,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### CVPR 2024
 
 * {Real} **RCooper** (RCooper: A Real-World Large-Scale Dataset for Roadside Cooperative Perception) \[[paper](https://arxiv.org/abs/2403.10145)] \[[code](https://github.com/AIR-THU/DAIR-RCooper) ⭐ 116 | 🐛 4 | 🌐 Python | 📅 2026-05-29] \[[project](https://www.t3caic.com/qingzhen)]
-* {Real} **TUMTraf-V2X** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) ⭐ 98 | 🐛 16 | 🌐 Python | 📅 2026-04-24] \[[project](https://tum-traffic-dataset.github.io/tumtraf-v2x)]
+* {Real} **TUMTraf-V2X** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) ⭐ 99 | 🐛 16 | 🌐 Python | 📅 2026-04-24] \[[project](https://tum-traffic-dataset.github.io/tumtraf-v2x)]
 * {Real} **Open Mars Dataset** (Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset) \[[code](https://github.com/ai4ce/MARS) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2024-06-25] \[[paper](https://arxiv.org/abs/2406.09383)] \[[project](https://ai4ce.github.io/MARS)]
 * {Real} **HoloVIC** (HoloVIC: Large-Scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative) \[[paper](https://arxiv.org/abs/2403.02640)] \[~~code~~] \[[project](https://holovic.net)]
 
@@ -438,7 +438,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### CVPR 2023
 
 * {Real} **V2V4Real** (V2V4Real: A Large-Scale Real-World Dataset for Vehicle-to-Vehicle Cooperative Perception) \[[paper](https://arxiv.org/abs/2303.07601)] \[[code](https://github.com/ucla-mobility/V2V4Real) ⭐ 231 | 🐛 20 | 🌐 Python | 📅 2024-08-14] \[[project](https://mobility-lab.seas.ucla.edu/v2v4real)]
-* {Real} **DAIR-V2X-Seq** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 203 | 🐛 21 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X-Seq** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 204 | 🐛 21 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
 * **CoPerception-UAV+** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28] \[[project](https://siheng-chen.github.io/dataset/CoPerception+)]
 * **OPV2V+** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28] \[[project](https://siheng-chen.github.io/dataset/CoPerception+)]
 
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,388 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-11] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,391 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-11] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
