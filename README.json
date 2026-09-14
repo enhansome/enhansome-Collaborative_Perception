@@ -786,7 +786,7 @@
                 "open_issues": 0,
                 "owner": "JinlongW128",
                 "repo": "CoDS",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-09-03T04:32:32.685Z"
@@ -1009,7 +1009,7 @@
                 "open_issues": 4,
                 "owner": "Xu2729",
                 "repo": "CoSDH",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 0,
                 "owner": "byzhaoAI",
                 "repo": "BM2CP",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4059,10 +4059,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-11T23:06:46Z",
-                "open_issues": 1198,
+                "open_issues": 1199,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14391,
+                "stars": 14394,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:46:18.727Z",
+    "last_updated": "2026-09-14T04:55:00.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
