@@ -226,7 +226,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-22T09:48:12Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "wangsch10",
                 "repo": "V2X-DGPE",
                 "stars": 14,
@@ -725,8 +725,8 @@
                 "id": 1145775655,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-01-30T07:51:54Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-14T05:17:51Z",
+                "open_issues": 0,
                 "owner": "fengxueguiren",
                 "repo": "InfoCom",
                 "stars": 13,
@@ -835,7 +835,7 @@
                 "open_issues": 0,
                 "owner": "erdemtbao",
                 "repo": "WaveComm",
-                "stars": 3,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1201,7 +1201,7 @@
                 "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "INSTINCT",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2484,7 +2484,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-03-03T12:24:09Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
                 "stars": 218,
@@ -3308,7 +3308,7 @@
                 "open_issues": 3,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3385,7 +3385,7 @@
                 "open_issues": 2,
                 "owner": "thi-ad",
                 "repo": "UrbanIng-V2X",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "cooperativeperception",
                   "dataset",
@@ -3878,7 +3878,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-03-03T12:24:09Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
                 "stars": 218,
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-11T23:06:46Z",
+                "last_commit": "2026-09-14T18:37:57Z",
                 "open_issues": 1199,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14394,
+                "stars": 14401,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T04:55:00.548Z",
+    "last_updated": "2026-09-15T04:53:21.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
