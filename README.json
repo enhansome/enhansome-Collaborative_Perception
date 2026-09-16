@@ -755,7 +755,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-24T01:36:53Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
                 "stars": 13,
@@ -800,27 +800,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "EIMC (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EIMC: Efficient Instance-aware Multi-modal Collaborative Perception (ICRA 2026)",
-                "homepage": null,
-                "id": 1165264231,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-02-24T01:55:02Z",
-                "open_issues": 2,
-                "owner": "sidiangongyuan",
-                "repo": "EIMC",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
               "title": "WaveComm (WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation) [paper",
               "description": "] [code]",
               "children": [],
@@ -835,6 +814,27 @@
                 "open_issues": 0,
                 "owner": "erdemtbao",
                 "repo": "WaveComm",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
+              "title": "EIMC (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EIMC: Efficient Instance-aware Multi-modal Collaborative Perception (ICRA 2026)",
+                "homepage": null,
+                "id": 1165264231,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-02-24T01:55:02Z",
+                "open_issues": 2,
+                "owner": "sidiangongyuan",
+                "repo": "EIMC",
                 "stars": 7,
                 "topics": []
               },
@@ -1009,7 +1009,7 @@
                 "open_issues": 4,
                 "owner": "Xu2729",
                 "repo": "CoSDH",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3287,7 +3287,7 @@
                 "open_issues": 1,
                 "owner": "mickeykang16",
                 "repo": "VIPS",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-09-05T04:26:56.741Z"
@@ -4022,7 +4022,7 @@
                 "open_issues": 8,
                 "owner": "ai4ce",
                 "repo": "V2X-Sim",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "benchmark",
                   "collaborative-perception",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T18:37:57Z",
-                "open_issues": 1199,
+                "last_commit": "2026-09-15T20:03:27Z",
+                "open_issues": 1202,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14401,
+                "stars": 14402,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:53:21.644Z",
+    "last_updated": "2026-09-16T04:48:25.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",

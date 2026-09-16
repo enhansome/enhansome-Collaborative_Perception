@@ -128,7 +128,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### AAAI 2026
 
 * **InfoCom** (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) \[[paper](https://arxiv.org/abs/2512.10305)] \[[code](https://github.com/fengxueguiren/InfoCom) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-09-14]
-* **SparseCoop** (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) \[[paper](https://arxiv.org/abs/2512.06838)] \[[code](https://github.com/wang-jh18-SVM/SparseCoop) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-01-24]
+* **SparseCoop** (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) \[[paper](https://arxiv.org/abs/2512.06838)] \[[code](https://github.com/wang-jh18-SVM/SparseCoop) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-01-24]
 * **V2VLoc** (V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization) \[[paper](https://arxiv.org/abs/2511.14247)] \[[code](https://github.com/wklin214-glitch/V2VLoc)]
 
 ### MM 2026
@@ -138,8 +138,8 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICRA 2026
 
+* **WaveComm** (WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation) \[[paper](https://arxiv.org/abs/2603.13365)] \[[code](https://github.com/erdemtbao/WaveComm) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-04]
 * **EIMC** (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) \[[paper](https://arxiv.org/abs/2603.02532)] \[[code](https://github.com/sidiangongyuan/EIMC) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-02-24]
-* **WaveComm** (WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation) \[[paper](https://arxiv.org/abs/2603.13365)] \[[code](https://github.com/erdemtbao/WaveComm) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-07-04]
 * **CooperDrive** (CooperDrive: Enhancing Driving Decisions Through Cooperative Perception) \[[paper](https://arxiv.org/abs/2604.14454)] \[~~code~~]
 
 ### IROS 2026
@@ -162,7 +162,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 * **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
 * **LangCoop** (LangCoop: Collaborative Driving with Language) \[[paper](https://arxiv.org/abs/2504.13406)] \[[code](https://github.com/taco-group/LangCoop) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2025-09-12]
-* **CoSDH** (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) \[[paper](https://arxiv.org/abs/2503.03430)] \[[code](https://github.com/Xu2729/CoSDH) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2025-10-21]
+* **CoSDH** (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) \[[paper](https://arxiv.org/abs/2503.03430)] \[[code](https://github.com/Xu2729/CoSDH) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2025-10-21]
 * **TraF-Align** (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) \[[paper](https://arxiv.org/abs/2503.19391)] \[[code](https://github.com/zhyingS/TraF-Align) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2025-08-13]
 * **PolyInter** (One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception) \[[paper](https://arxiv.org/abs/2411.16799)] \[[code](https://github.com/yuchen-xia/PolyInter) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-06-01]
 * **HeCoFuse** (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) \[[paper](https://arxiv.org/abs/2507.13677)] \[[code](https://github.com/ChuhengWei/HeCoFuse) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-07-30]
@@ -393,7 +393,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ECCV 2026
 
-* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
+* **VIPS** (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) \[[paper](https://arxiv.org/abs/2609.02462)] \[[code](https://github.com/mickeykang16/VIPS) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-06-29] \[[project](https://vips2026.github.io)]
 * {Real} **CooperScene** (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) \[[paper](https://arxiv.org/abs/2606.31219)] \[[code](https://github.com/UCR-CISL/CooperScene) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-09-03] \[[project](https://cisl.ucr.edu/CooperScene)]
 
 ### CVPR 2025
@@ -479,12 +479,12 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ICCV 2021
 
-* **V2X-Sim** (V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving) \[[paper](https://arxiv.org/abs/2202.08449)] \[[code](https://github.com/ai4ce/V2X-Sim) ⭐ 145 | 🐛 8 | 📅 2025-01-24] \[[project](https://ai4ce.github.io/V2X-Sim)]
+* **V2X-Sim** (V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving) \[[paper](https://arxiv.org/abs/2202.08449)] \[[code](https://github.com/ai4ce/V2X-Sim) ⭐ 146 | 🐛 8 | 📅 2025-01-24] \[[project](https://ai4ce.github.io/V2X-Sim)]
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,401 | 🐛 1,199 | 🌐 C++ | 📅 2026-09-14] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,402 | 🐛 1,202 | 🌐 C++ | 📅 2026-09-15] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
