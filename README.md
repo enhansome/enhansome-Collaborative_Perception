@@ -4,10 +4,10 @@ This repository is a paper digest of recent advances in **collaborative** / **co
 
 ### :link:Jump to:
 
-* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 627 | 🐛 2 | 📅 2026-09-04]
-* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 627 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 628 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 628 | 🐛 2 | 📅 2026-09-04]
 
-Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 627 | 🐛 2 | 📅 2026-09-04.
+Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 628 | 🐛 2 | 📅 2026-09-04.
 
 ## :star2:Recommendation
 
@@ -138,8 +138,8 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICRA 2026
 
+* **EIMC** (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) \[[paper](https://arxiv.org/abs/2603.02532)] \[[code](https://github.com/sidiangongyuan/EIMC) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-02-24]
 * **WaveComm** (WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation) \[[paper](https://arxiv.org/abs/2603.13365)] \[[code](https://github.com/erdemtbao/WaveComm) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-07-04]
-* **EIMC** (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) \[[paper](https://arxiv.org/abs/2603.02532)] \[[code](https://github.com/sidiangongyuan/EIMC) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-02-24]
 * **CooperDrive** (CooperDrive: Enhancing Driving Decisions Through Cooperative Perception) \[[paper](https://arxiv.org/abs/2604.14454)] \[~~code~~]
 
 ### IROS 2026
@@ -238,7 +238,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### AAAI 2024
 
-* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 103 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
+* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 104 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
 * **DI-V2X** (DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection) \[[paper](https://arxiv.org/abs/2312.15742)] \[[code](https://github.com/Serenos/DI-V2X) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-10]
 * **CMiMC** (What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2403.10068)] \[[code](https://github.com/77SWF/CMiMC) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2024-10-05]
 
@@ -399,7 +399,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### CVPR 2025
 
 * **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26] \[~~project~~]
-* **RCP-Bench** (RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html)] \[[code](https://github.com/LuckyDush/RCP-Bench) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-09-04] \[~~project~~]
+* **RCP-Bench** (RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html)] \[[code](https://github.com/LuckyDush/RCP-Bench) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-09-04] \[~~project~~]
 * **Mono3DVLT-V2X** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] \[~~code~~] \[~~project~~]
 
 ### NeurIPS 2025
@@ -433,7 +433,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### AAAI 2024
 
-* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 103 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
+* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 104 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
 
 ### CVPR 2023
 
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,404 | 🐛 1,202 | 🌐 C++ | 📅 2026-09-16] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,406 | 🐛 1,195 | 🌐 C++ | 📅 2026-09-18] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
