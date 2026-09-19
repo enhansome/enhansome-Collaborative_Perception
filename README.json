@@ -1351,7 +1351,7 @@
                 "open_issues": 8,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1456,7 +1456,7 @@
                 "open_issues": 4,
                 "owner": "xiaomiaozhang",
                 "repo": "Co-MTP",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "autonomous-vehicles",
                   "trajectory-prediction",
@@ -1903,7 +1903,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3681,7 +3681,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-18T02:03:46Z",
-                "open_issues": 1195,
+                "last_commit": "2026-09-18T18:07:34Z",
+                "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14406,
+                "stars": 14408,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T04:42:16.331Z",
+    "last_updated": "2026-09-19T04:36:15.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
