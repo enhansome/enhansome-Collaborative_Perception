@@ -1949,7 +1949,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-03-27T10:31:42Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "haibao-yu",
                 "repo": "FFNet-VIC3D",
                 "stars": 88,
@@ -4062,7 +4062,7 @@
                 "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14408,
+                "stars": 14410,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:36:15.758Z",
+    "last_updated": "2026-09-20T04:52:55.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",

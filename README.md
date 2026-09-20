@@ -259,7 +259,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### NeurIPS 2023
 
-* **FFNet** (Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper\&review](https://openreview.net/forum?id=gsglrhvQxX)] \[[code](https://github.com/haibao-yu/FFNet-VIC3D) ⭐ 88 | 🐛 5 | 🌐 Python | 📅 2024-03-27]
+* **FFNet** (Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper\&review](https://openreview.net/forum?id=gsglrhvQxX)] \[[code](https://github.com/haibao-yu/FFNet-VIC3D) ⭐ 88 | 🐛 6 | 🌐 Python | 📅 2024-03-27]
 * **CoBEVFlow** (Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow) \[[paper\&review](https://openreview.net/forum?id=UHIDdtxmVS)] \[[code](https://github.com/MediaBrain-SJTU/CoBEVFlow) ⭐ 85 | 🐛 7 | 🌐 Python | 📅 2023-10-12]
 * **How2comm** (How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception) \[[paper\&review](https://openreview.net/forum?id=Dbaxm9ujq6)] \[[code](https://github.com/ydk122024/How2comm) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2024-01-20]
 
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,408 | 🐛 1,196 | 🌐 C++ | 📅 2026-09-18] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,410 | 🐛 1,196 | 🌐 C++ | 📅 2026-09-18] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
