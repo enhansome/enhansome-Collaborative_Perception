@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1903,7 +1903,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 0,
                 "owner": "byzhaoAI",
                 "repo": "BM2CP",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3681,7 +3681,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 205,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3751,7 +3751,7 @@
                 "open_issues": 14,
                 "owner": "PJLab-ADG",
                 "repo": "PCSim",
-                "stars": 270,
+                "stars": 271,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -4062,7 +4062,7 @@
                 "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14410,
+                "stars": 14412,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T04:52:55.576Z",
+    "last_updated": "2026-09-21T04:54:16.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
