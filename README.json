@@ -1481,7 +1481,7 @@
                 "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "CoDynTrust",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1949,7 +1949,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-03-27T10:31:42Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "haibao-yu",
                 "repo": "FFNet-VIC3D",
                 "stars": 88,
@@ -2276,7 +2276,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -2728,7 +2728,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -2834,7 +2834,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -3466,7 +3466,7 @@
                 "open_issues": 4,
                 "owner": "AIR-THU",
                 "repo": "DAIR-RCooper",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "autonoumous-driving",
                   "cooperative-perception",
@@ -3493,7 +3493,7 @@
                 "open_issues": 16,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "3d-object-detection",
                   "3d-vision",
@@ -3776,7 +3776,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-18T18:07:34Z",
-                "open_issues": 1196,
+                "last_commit": "2026-09-22T02:03:18Z",
+                "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14412,
+                "stars": 14417,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T04:54:16.568Z",
+    "last_updated": "2026-09-22T04:54:24.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
