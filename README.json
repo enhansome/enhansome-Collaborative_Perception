@@ -1481,7 +1481,7 @@
                 "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "CoDynTrust",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2646,7 +2646,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -2797,7 +2797,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -3751,7 +3751,7 @@
                 "open_issues": 14,
                 "owner": "PJLab-ADG",
                 "repo": "PCSim",
-                "stars": 271,
+                "stars": 270,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -3950,7 +3950,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-22T02:03:18Z",
+                "last_commit": "2026-09-22T18:36:12Z",
                 "open_issues": 1198,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14417,
+                "stars": 14420,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T04:54:24.909Z",
+    "last_updated": "2026-09-23T04:44:00.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4107,7 +4107,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "autonomous-driving",
         "awesome-list",
