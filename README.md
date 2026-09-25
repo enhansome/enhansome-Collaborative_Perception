@@ -4,10 +4,10 @@ This repository is a paper digest of recent advances in **collaborative** / **co
 
 ### :link:Jump to:
 
-* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 629 | 🐛 2 | 📅 2026-09-04]
-* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 629 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Method and Framework](https://github.com/Little-Podi/Collaborative_Perception#bookmarkmethod-and-framework) ⭐ 628 | 🐛 2 | 📅 2026-09-04]
+* ### \[[Dataset and Simulator](https://github.com/Little-Podi/Collaborative_Perception#bookmarkdataset-and-simulator) ⭐ 628 | 🐛 2 | 📅 2026-09-04]
 
-Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 629 | 🐛 2 | 📅 2026-09-04.
+Note: I find it hard to fairly compare all methods on each benchmark since some published results are obtained without specified training and testing settings, or even modified model architectures. In fact, many works evaluate all baselines under their own settings and report them. Therefore, it is probably to find inconsistency between papers. Hence, I discard the collection and reproducton of all the benchmarks in a previous update. If you are interested, you can find a bunch of results in [this archived version](https://github.com/Little-Podi/Collaborative_Perception/tree/1be25908aea0a9f635ff4852b3a90729cf2b6aac) ⭐ 628 | 🐛 2 | 📅 2026-09-04.
 
 ## :star2:Recommendation
 
@@ -128,7 +128,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### AAAI 2026
 
 * **InfoCom** (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) \[[paper](https://arxiv.org/abs/2512.10305)] \[[code](https://github.com/fengxueguiren/InfoCom) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-09-14]
-* **SparseCoop** (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) \[[paper](https://arxiv.org/abs/2512.06838)] \[[code](https://github.com/wang-jh18-SVM/SparseCoop) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-01-24]
+* **SparseCoop** (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) \[[paper](https://arxiv.org/abs/2512.06838)] \[[code](https://github.com/wang-jh18-SVM/SparseCoop) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-01-24]
 * **V2VLoc** (V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization) \[[paper](https://arxiv.org/abs/2511.14247)] \[[code](https://github.com/wklin214-glitch/V2VLoc)]
 
 ### MM 2026
@@ -160,12 +160,12 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2025
 
-* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
+* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 162 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
 * **LangCoop** (LangCoop: Collaborative Driving with Language) \[[paper](https://arxiv.org/abs/2504.13406)] \[[code](https://github.com/taco-group/LangCoop) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2025-09-12]
 * **CoSDH** (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) \[[paper](https://arxiv.org/abs/2503.03430)] \[[code](https://github.com/Xu2729/CoSDH) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2025-10-21]
 * **TraF-Align** (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) \[[paper](https://arxiv.org/abs/2503.19391)] \[[code](https://github.com/zhyingS/TraF-Align) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2025-08-13]
 * **PolyInter** (One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception) \[[paper](https://arxiv.org/abs/2411.16799)] \[[code](https://github.com/yuchen-xia/PolyInter) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-06-01]
-* **HeCoFuse** (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) \[[paper](https://arxiv.org/abs/2507.13677)] \[[code](https://github.com/ChuhengWei/HeCoFuse) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-07-30]
+* **HeCoFuse** (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) \[[paper](https://arxiv.org/abs/2507.13677)] \[[code](https://github.com/ChuhengWei/HeCoFuse) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-07-30]
 * **CoGMP** (Generative Map Priors for Collaborative BEV Semantic Segmentation) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.html)] \[~~code~~]
 * **SparseAlign** (SparseAlign: A Fully Sparse Framework for Cooperative Object Detection) \[[paper](https://arxiv.org/abs/2503.12982)] \[~~code~~]
 
@@ -176,7 +176,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICCV 2025
 
-* **CoopTrack** (CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception) \[[paper](https://arxiv.org/abs/2507.19239)] \[[code](https://github.com/zhongjiaru/CoopTrack) ⭐ 59 | 🐛 5 | 🌐 Python | 📅 2025-09-02]
+* **CoopTrack** (CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception) \[[paper](https://arxiv.org/abs/2507.19239)] \[[code](https://github.com/zhongjiaru/CoopTrack) ⭐ 58 | 🐛 5 | 🌐 Python | 📅 2025-09-02]
 * **TurboTrain** (TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2508.04682)] \[[code](https://github.com/ucla-mobility/TurboTrain) ⭐ 17 | 🐛 1 | 📅 2026-01-31]
 * **INSTINCT** (INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception) \[[paper](https://arxiv.org/abs/2509.23700)] \[[code](https://github.com/CrazyShout/INSTINCT) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-05-08]
 * **MamV2XCalib** (MamV2XCalib: V2X-Based Target-Less Infrastructure Camera Calibration with State Space Model) \[[paper](https://arxiv.org/abs/2507.23595)] \[[code](https://github.com/zhuyaoye/MamV2XCalib) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-08-02]
@@ -191,7 +191,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### AAAI 2025
 
-* **UniV2X** (End-to-End Autonomous Driving through V2X Cooperation) \[[paper](https://arxiv.org/abs/2404.00717)] \[[code](https://github.com/AIR-THU/UniV2X) ⭐ 176 | 🐛 8 | 🌐 Python | 📅 2025-05-20]
+* **UniV2X** (End-to-End Autonomous Driving through V2X Cooperation) \[[paper](https://arxiv.org/abs/2404.00717)] \[[code](https://github.com/AIR-THU/UniV2X) ⭐ 175 | 🐛 8 | 🌐 Python | 📅 2025-05-20]
 * **DSRC** (DSRC: Learning Density-Insensitive and Semantic-Aware Collaborative Representation against Corruptions) \[[paper](https://arxiv.org/abs/2412.10739)] \[[code](https://github.com/Terry9a/DSRC) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2025-07-21]
 * **CoPEFT** (CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning) \[[paper](https://arxiv.org/abs/2502.10705)] \[[code](https://github.com/fengxueguiren/CoPEFT) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-04-14]
 * **CP-Guard** (CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird's Eye View Perception) \[[paper](https://arxiv.org/abs/2412.12000)] \[~~code~~]
@@ -244,7 +244,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### WACV 2024
 
-* **MACP** (MACP: Efficient Model Adaptation for Cooperative Perception) \[[paper](https://arxiv.org/abs/2310.16870)] \[[code](https://github.com/PurdueDigitalTwin/MACP) ⭐ 19 | 🐛 2 | 🌐 Python | 📅 2024-05-03]
+* **MACP** (MACP: Efficient Model Adaptation for Cooperative Perception) \[[paper](https://arxiv.org/abs/2310.16870)] \[[code](https://github.com/PurdueDigitalTwin/MACP) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2024-05-03]
 
 ### ICRA 2024
 
@@ -302,7 +302,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2022
 
-* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
+* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 646 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
 * {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 438 | 🐛 29 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
@@ -312,7 +312,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ECCV 2022
 
-* **V2X-ViT** (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2203.10638)] \[[code](https://github.com/DerrickXuNu/v2x-vit) ⭐ 349 | 🐛 7 | 🌐 Python | 📅 2024-09-06]
+* **V2X-ViT** (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2203.10638)] \[[code](https://github.com/DerrickXuNu/v2x-vit) ⭐ 348 | 🐛 7 | 🌐 Python | 📅 2024-09-06]
 * **SyncNet** (Latency-Aware Collaborative Perception) \[[paper](https://arxiv.org/abs/2207.08560)] \[[code](https://github.com/MediaBrain-SJTU/SyncNet) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2023-03-15]
 
 ### CoRL 2022
@@ -369,9 +369,9 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### Selected Preprint
 
-* {Real} **UrbanV2X** (UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas) \[[paper](https://arxiv.org/abs/2512.20224)] \[[code](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) ⭐ 324 | 🐛 4 | 🌐 C++ | 📅 2025-10-29] \[[project](https://polyu-taslab.github.io/UrbanV2X)]
+* {Real} **UrbanV2X** (UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas) \[[paper](https://arxiv.org/abs/2512.20224)] \[[code](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) ⭐ 325 | 🐛 4 | 🌐 C++ | 📅 2025-10-29] \[[project](https://polyu-taslab.github.io/UrbanV2X)]
 * **Griffin** (Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark) \[[paper](https://arxiv.org/abs/2503.06983)] \[[code](https://github.com/wang-jh18-SVM/Griffin) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2025-08-26] \[[project](https://pan.baidu.com/s/1NDgsuHB-QPRiROV73NRU5g)]
-* {Real} **V2X-Radar** (V2X-Radar: A Multi-Modal Dataset with 4D Radar for Cooperative Perception) \[[paper](https://arxiv.org/abs/2411.10962)] \[[code](https://github.com/yanglei18/V2X-Radar) ⭐ 75 | 🐛 9 | 🌐 Python | 📅 2026-01-18] \[[project](http://openmpd.com/column/V2X-Radar)]
+* {Real} **V2X-Radar** (V2X-Radar: A Multi-Modal Dataset with 4D Radar for Cooperative Perception) \[[paper](https://arxiv.org/abs/2411.10962)] \[[code](https://github.com/yanglei18/V2X-Radar) ⭐ 74 | 🐛 9 | 🌐 Python | 📅 2026-01-18] \[[project](http://openmpd.com/column/V2X-Radar)]
 * **AirV2X** (AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration) \[[paper](https://arxiv.org/abs/2506.19283)] \[[code](https://github.com/taco-group/AirV2X-Perception) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-11-12] \[[project](https://huggingface.co/datasets/xiangbog/AirV2X-Perception)]
 * {Real} **V2XPnP-Seq** (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2412.01812)] \[[code](https://github.com/Zewei-Zhou/V2XPnP) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2025-12-02] \[[project](https://mobility-lab.seas.ucla.edu/v2xpnp)]
 * **WHALES** (WHALES: A Multi-Agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving) \[[paper](https://arxiv.org/abs/2411.13340)] \[[code](https://github.com/chensiweiTHU/WHALES) ⭐ 31 | 🐛 6 | 🌐 Python | 📅 2026-04-26] \[[project](https://pan.baidu.com/s/1dintX-d1T-m2uACqDlAM9A)]
@@ -398,14 +398,14 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CVPR 2025
 
-* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 161 | 🐛 1 | 🌐 Python | 📅 2025-11-26] \[~~project~~]
+* **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 162 | 🐛 1 | 🌐 Python | 📅 2025-11-26] \[~~project~~]
 * **RCP-Bench** (RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.html)] \[[code](https://github.com/LuckyDush/RCP-Bench) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-09-04] \[~~project~~]
 * **Mono3DVLT-V2X** (Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] \[~~code~~] \[~~project~~]
 
 ### NeurIPS 2025
 
 * **UrbanIng-V2X** (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) \[[paper\&review](https://openreview.net/forum?id=iSwIkUqyqf)] \[[code](https://github.com/thi-ad/UrbanIng-V2X) ⭐ 84 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-07] \[[project](https://pypi.org/project/urbaning)]
-* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 36 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
+* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 37 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
 
 ### ICCV 2025
 
@@ -458,7 +458,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CVPR 2022
 
-* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 47 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 646 | 🐛 47 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
 * **AutoCastSim** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/hangqiu/AutoCastSim) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-09-23] \[[project](https://utexas.app.box.com/v/coopernaut-dataset)]
 
 ### NeurIPS 2022
@@ -467,7 +467,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ECCV 2022
 
-* **V2XSet** (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2203.10638)] \[[code](https://github.com/DerrickXuNu/v2x-vit) ⭐ 349 | 🐛 7 | 🌐 Python | 📅 2024-09-06] \[[project](https://drive.google.com/drive/folders/1r5sPiBEvo8Xby-nMaWUTnJIPK6WhY1B6)]
+* **V2XSet** (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2203.10638)] \[[code](https://github.com/DerrickXuNu/v2x-vit) ⭐ 348 | 🐛 7 | 🌐 Python | 📅 2024-09-06] \[[project](https://drive.google.com/drive/folders/1r5sPiBEvo8Xby-nMaWUTnJIPK6WhY1B6)]
 
 ### ICRA 2022
 
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,427 | 🐛 1,198 | 🌐 C++ | 📅 2026-09-24] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,428 | 🐛 1,201 | 🌐 C++ | 📅 2026-09-25] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

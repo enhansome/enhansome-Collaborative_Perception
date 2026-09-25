@@ -758,7 +758,7 @@
                 "open_issues": 3,
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
-                "stars": 13,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -947,7 +947,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 0,
                 "owner": "ChuhengWei",
                 "repo": "HeCoFuse",
-                "stars": 8,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1154,7 +1154,7 @@
                 "open_issues": 5,
                 "owner": "zhongjiaru",
                 "repo": "CoopTrack",
-                "stars": 59,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1351,7 +1351,7 @@
                 "open_issues": 8,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
-                "stars": 176,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1782,7 +1782,7 @@
                 "open_issues": 2,
                 "owner": "PurdueDigitalTwin",
                 "repo": "MACP",
-                "stars": 19,
+                "stars": 18,
                 "topics": [
                   "autonomous-vehicles",
                   "computer-vision",
@@ -2402,7 +2402,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 647,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2515,7 +2515,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -2909,7 +2909,7 @@
                 "open_issues": 4,
                 "owner": "arclab-hku",
                 "repo": "Event_based_VO-VIO-SLAM",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "event-cameras",
                   "robotics",
@@ -2955,7 +2955,7 @@
                 "open_issues": 9,
                 "owner": "yanglei18",
                 "repo": "V2X-Radar",
-                "stars": 75,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3336,7 +3336,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3410,7 +3410,7 @@
                 "open_issues": 6,
                 "owner": "AGC-Drive",
                 "repo": "AGC-Drive",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3832,7 +3832,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 647,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3909,7 +3909,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-24T04:20:27Z",
-                "open_issues": 1198,
+                "last_commit": "2026-09-25T03:54:37Z",
+                "open_issues": 1201,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14427,
+                "stars": 14428,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T04:48:52.969Z",
+    "last_updated": "2026-09-25T04:56:27.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4107,7 +4107,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 629,
+      "stars": 628,
       "topics": [
         "autonomous-driving",
         "awesome-list",
