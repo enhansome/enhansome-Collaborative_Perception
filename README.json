@@ -2909,7 +2909,7 @@
                 "open_issues": 4,
                 "owner": "arclab-hku",
                 "repo": "Event_based_VO-VIO-SLAM",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "event-cameras",
                   "robotics",
@@ -3299,8 +3299,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization",
-                "homepage": null,
+                "description": "[ECCV 2026, Spotlight] CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization",
+                "homepage": "http://cisl.ucr.edu/CooperScene/",
                 "id": 1200749980,
                 "language": "Python",
                 "license": "MIT",
@@ -3493,7 +3493,7 @@
                 "open_issues": 16,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "3d-object-detection",
                   "3d-vision",
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-25T14:07:46Z",
-                "open_issues": 1204,
+                "last_commit": "2026-09-27T19:59:55Z",
+                "open_issues": 1205,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14435,
+                "stars": 14439,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:17:37.345Z",
+    "last_updated": "2026-09-28T05:22:27.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
