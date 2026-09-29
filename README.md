@@ -265,7 +265,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICCV 2023
 
-* **CORE** (CORE: Cooperative Reconstruction for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2307.11514)] \[[code](https://github.com/zllxot/CORE) ⭐ 46 | 🐛 4 | 🌐 Python | 📅 2023-11-25]
+* **CORE** (CORE: Cooperative Reconstruction for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2307.11514)] \[[code](https://github.com/zllxot/CORE) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2023-11-25]
 * **HM-ViT** (HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer) \[[paper](https://arxiv.org/abs/2304.10628)] \[[code](https://github.com/XHwind/HM-ViT) ⭐ 40 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-15]
 * **SCOPE** (Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception) \[[paper](https://arxiv.org/abs/2307.13929)] \[[code](https://github.com/starfdu1418/SCOPE) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2023-10-23]
 * **ROBOSAC** (Among Us: Adversarially Robust Collaborative Perception by Consensus) \[[paper](https://arxiv.org/abs/2303.09495)] \[[code](https://github.com/coperception/ROBOSAC) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-02-18]
@@ -405,7 +405,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### NeurIPS 2025
 
 * **UrbanIng-V2X** (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) \[[paper\&review](https://openreview.net/forum?id=iSwIkUqyqf)] \[[code](https://github.com/thi-ad/UrbanIng-V2X) ⭐ 84 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-07] \[[project](https://pypi.org/project/urbaning)]
-* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 37 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
+* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 38 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
 
 ### ICCV 2025
 
@@ -452,7 +452,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### ICRA 2023
 
-* **RLS** (Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library) \[[paper](https://arxiv.org/abs/2211.15975)] \[[code](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) ⭐ 270 | 🐛 14 | 🌐 Python | 📅 2025-06-12] \[~~project~~]
+* **RLS** (Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library) \[[paper](https://arxiv.org/abs/2211.15975)] \[[code](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) ⭐ 271 | 🐛 14 | 🌐 Python | 📅 2025-06-12] \[~~project~~]
 * {Real} **DAIR-V2X-C Complemented** (Robust Collaborative 3D Object Detection in Presence of Pose Errors) \[[paper](https://arxiv.org/abs/2211.07214)] \[[code](https://github.com/yifanlu0227/CoAlign) ⭐ 187 | 🐛 9 | 🌐 Python | 📅 2024-07-23] \[[project](https://siheng-chen.github.io/dataset/dair-v2x-c-complemented)]
 * **V2XP-ASG** (V2XP-ASG: Generating Adversarial Scenes for Vehicle-to-Everything Perception) \[[paper](https://arxiv.org/abs/2209.13679)] \[[code](https://github.com/XHwind/V2XP-ASG) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2023-10-17] \[~~project~~]
 
@@ -483,8 +483,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,439 | 🐛 1,205 | 🌐 C++ | 📅 2026-09-27] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,441 | 🐛 1,206 | 🌐 C++ | 📅 2026-09-28] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
