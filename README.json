@@ -131,7 +131,7 @@
                 "open_issues": 0,
                 "owner": "ucla-mobility",
                 "repo": "QuantV2X",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "cooperative-perception",
                   "multiagent-systems",
@@ -782,7 +782,7 @@
                 "id": 1317959784,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-30T09:46:24Z",
+                "last_commit": "2026-10-01T09:00:52Z",
                 "open_issues": 0,
                 "owner": "JinlongW128",
                 "repo": "CoDS",
@@ -947,7 +947,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1674,7 +1674,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-01T07:26:13Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
                 "stars": 241,
@@ -3336,7 +3336,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3594,7 +3594,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-01-01T07:26:13Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
                 "stars": 241,
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-30T22:40:48Z",
-                "open_issues": 1191,
+                "last_commit": "2026-10-01T15:48:01Z",
+                "open_issues": 1190,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14449,
+                "stars": 14450,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T05:51:43.858Z",
+    "last_updated": "2026-10-02T05:35:32.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
