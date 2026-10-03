@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "CoDriving (Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System) [paper",
-              "description": "] [code]",
+              "description": "CollaborativePerception/V2Xverse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "CoDrivingLLM (Towards Interactive and Learnable Cooperative Driving Automation: A Large Language Model-Driven Decision-making Framework) [paper",
-              "description": "] [code]",
+              "description": "FanGShiYuu/CoDrivingLLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "VIMI (VIMI: Vehicle-Infrastructure Multi-View Intermediate Fusion for Camera-Based 3D Object Detection) [paper",
-              "description": "] [code]",
+              "description": "Bosszhe/EMIFF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "V2XPnP (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) [paper",
-              "description": "] [code]",
+              "description": "Zewei-Zhou/V2XPnP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "CoLMDriver (CoLMDriver: LLM-Based Negotiation Benefits Cooperative Autonomous Driving) [paper",
-              "description": "] [code]",
+              "description": "cxliu0314/CoLMDriver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -118,7 +118,7 @@
             {
               "node_type": "item",
               "title": "QuantV2X (QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "ucla-mobility/QuantV2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -143,7 +143,7 @@
             {
               "node_type": "item",
               "title": "UniMM-V2X (UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving) [paper",
-              "description": "] [code]",
+              "description": "Souig/UniMM-V2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -164,7 +164,7 @@
             {
               "node_type": "item",
               "title": "V2V-LLM (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) [paper",
-              "description": "] [code]",
+              "description": "eddyhkchiu/V2V-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "RoCo-Sim (RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation) [paper",
-              "description": "] [code]",
+              "description": "duyuwen-duen/RoCo-Sim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,7 +216,7 @@
             {
               "node_type": "item",
               "title": "V2X-DGPE (V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection) [paper",
-              "description": "] [code]",
+              "description": "wangsch10/V2X-DGPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +237,7 @@
             {
               "node_type": "item",
               "title": "ACCO (Is Discretization Fusion All You Need for Collaborative Perception?) [paper",
-              "description": "] [code]",
+              "description": "sidiangongyuan/ACCO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -258,7 +258,7 @@
             {
               "node_type": "item",
               "title": "CoCMT (CoCMT: Towards Communication-Efficient Corss-Modal Transformer For Collaborative Perception) [paper&review",
-              "description": "] [code]",
+              "description": "taco-group/COCMT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -291,7 +291,7 @@
             {
               "node_type": "item",
               "title": "VLIF (Is Intermediate Fusion All You Need for UAV-Based Collaborative Perception?) [paper",
-              "description": "] [code]",
+              "description": "uestchjw/LIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
             {
               "node_type": "item",
               "title": "LMMCoDrive (LMMCoDrive: Cooperative Driving with Large Multimodal Model) [paper",
-              "description": "] [code]",
+              "description": "henryhcliu/LMMCoDrive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -338,7 +338,7 @@
             {
               "node_type": "item",
               "title": "SafeCoop (SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving) [paper",
-              "description": "] [code]",
+              "description": "taco-group/SafeCoop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -359,7 +359,7 @@
             {
               "node_type": "item",
               "title": "SiCP (SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles) [paper",
-              "description": "] [code]",
+              "description": "DarrenQu/SiCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -380,7 +380,7 @@
             {
               "node_type": "item",
               "title": "CoPLOT (Beyond BEV: Optimizing Point-Level Tokens for Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "CheeryLeeyy/CoPLOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
             {
               "node_type": "item",
               "title": "MOT-CUP (Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation) [paper",
-              "description": "] [code]",
+              "description": "susanbao/mot_cup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -422,7 +422,7 @@
             {
               "node_type": "item",
               "title": "Talking Vehicles (Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play) [paper",
-              "description": "] [code]",
+              "description": "cuijiaxun/talking-vehicles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "Hyper-V2X (Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation) [paper",
-              "description": "] [code]",
+              "description": "abhishekjagtap1/Hyper-V2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -464,7 +464,7 @@
             {
               "node_type": "item",
               "title": "PragComm (Pragmatic Communication in Multi-Agent Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "PhyllisH/PragComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "BOLT (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "sidiangongyuan/BOLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
                 "open_issues": 0,
                 "owner": "sidiangongyuan",
                 "repo": "BOLT",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "HeatV2X (HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction) [paper",
-              "description": "] [code]",
+              "description": "hollowknight2167/HeatV2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +527,7 @@
             {
               "node_type": "item",
               "title": "JigsawComm (JigsawComm: Joint Semantic Feature Encoding and Transmission for Communication-Efficient Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "WiSeR-Lab/JigsawComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -548,7 +548,7 @@
             {
               "node_type": "item",
               "title": "CP-FREEZER (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "WiSeR-Lab/CP-FREEZER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "V2X-UniPool (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) [paper",
-              "description": "] [code]",
+              "description": "snowwhite1016/V2X-UniPool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -590,7 +590,7 @@
             {
               "node_type": "item",
               "title": "CoBEVGlue (Self-Localized Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "VincentNi0107/CoBEVGlue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -618,7 +618,7 @@
             {
               "node_type": "item",
               "title": "MVIG (Learning Mutual View Information Graph for Adaptive Adversarial Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "yihangtao/MVIG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -639,7 +639,7 @@
             {
               "node_type": "item",
               "title": "CodeAlign (Linking Modality Isolation in Heterogeneous Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "cxliu0314/CodeAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -660,7 +660,7 @@
             {
               "node_type": "item",
               "title": "CoLC (CoLC: Communication-Efficient Collaborative Perception with LiDAR Completion) [paper",
-              "description": "] [code]",
+              "description": "CatOneTwo/CoLC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "SiMO (SiMO: Single-Modality-Operable Multimodal Collaborative Perception) [paper&review",
-              "description": "] [code]",
+              "description": "dempsey-wen/SiMO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,7 +716,7 @@
             {
               "node_type": "item",
               "title": "InfoCom (InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck) [paper",
-              "description": "] [code]",
+              "description": "fengxueguiren/InfoCom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +745,7 @@
             {
               "node_type": "item",
               "title": "SparseCoop (SparseCoop: Cooperative Perception with Kinematic-Grounded Queries) [paper",
-              "description": "] [code]",
+              "description": "wang-jh18-SVM/SparseCoop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -773,7 +773,7 @@
             {
               "node_type": "item",
               "title": "CoDS (CoDS: Robust Collaborative Perception via Expert-Driven Detection and BEV Segmentation) [paper",
-              "description": "] [code]",
+              "description": "JinlongW128/CoDS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -801,7 +801,7 @@
             {
               "node_type": "item",
               "title": "EIMC (EIMC: Efficient Instance-aware Multi-Modal Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "sidiangongyuan/EIMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -822,7 +822,7 @@
             {
               "node_type": "item",
               "title": "WaveComm (WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation) [paper",
-              "description": "] [code]",
+              "description": "erdemtbao/WaveComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -850,7 +850,7 @@
             {
               "node_type": "item",
               "title": "HeteroPROPMT (HeteroPROPMT: A Real-Time and Privacy-Preserving Heterogeneous Collaborative Perception Framework) [paper",
-              "description": "] [code]",
+              "description": "arminmaleki007/HeteroPROMPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "CERF (CERF: Communication-Efficient and Retraining-Free Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "uestchjw/CERF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,7 +906,7 @@
             {
               "node_type": "item",
               "title": "FocalComm (FocalComm: Hard Instance-Aware Multi-Agent Perception) [paper",
-              "description": "] [code]",
+              "description": "scdrand23/FocalComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -934,7 +934,7 @@
             {
               "node_type": "item",
               "title": "V2X-R (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) [paper",
-              "description": "] [code]",
+              "description": "ylwhxht/V2X-R",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "LangCoop (LangCoop: Collaborative Driving with Language) [paper",
-              "description": "] [code]",
+              "description": "taco-group/LangCoop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -996,7 +996,7 @@
             {
               "node_type": "item",
               "title": "CoSDH (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) [paper",
-              "description": "] [code]",
+              "description": "Xu2729/CoSDH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1017,7 +1017,7 @@
             {
               "node_type": "item",
               "title": "TraF-Align (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) [paper",
-              "description": "] [code]",
+              "description": "zhyingS/TraF-Align",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +1038,7 @@
             {
               "node_type": "item",
               "title": "PolyInter (One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "yuchen-xia/PolyInter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,7 +1059,7 @@
             {
               "node_type": "item",
               "title": "HeCoFuse (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) [paper",
-              "description": "] [code]",
+              "description": "ChuhengWei/HeCoFuse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "GenComm (Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism) [paper",
-              "description": "] [code]",
+              "description": "jeffreychou777/GenComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1113,7 +1113,7 @@
             {
               "node_type": "item",
               "title": "NegoCollab (NegoCollab: A Common Representation Negotiation Approach for Heterogeneous Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "scz023/NegoCollab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "CoopTrack (CoopTrack: Exploring End-to-End Learning for Efficient Cooperative Sequential Perception) [paper",
-              "description": "] [code]",
+              "description": "zhongjiaru/CoopTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "TurboTrain (TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction) [paper",
-              "description": "] [code]",
+              "description": "ucla-mobility/TurboTrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1188,7 +1188,7 @@
             {
               "node_type": "item",
               "title": "INSTINCT (INSTINCT: Instance-Level Interaction Architecture for Query-Based Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "CrazyShout/INSTINCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1209,7 +1209,7 @@
             {
               "node_type": "item",
               "title": "MamV2XCalib (MamV2XCalib: V2X-Based Target-Less Infrastructure Camera Calibration with State Space Model) [paper",
-              "description": "] [code]",
+              "description": "zhuyaoye/MamV2XCalib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1230,7 +1230,7 @@
             {
               "node_type": "item",
               "title": "SlimComm (SlimComm: Doppler-Guided Sparse Queries for Bandwidth-Efficient Cooperative 3-D Perception) [paper",
-              "description": "] [code]",
+              "description": "fzi-forschungszentrum-informatik/SlimComm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1251,7 +1251,7 @@
             {
               "node_type": "item",
               "title": "CoST (CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective) [paper",
-              "description": "] [code]",
+              "description": "buaa-colalab/CoST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1279,7 +1279,7 @@
             {
               "node_type": "item",
               "title": "STAMP (STAMP: Scalable Task- And Model-Agnostic Collaborative Perception) [paper&review",
-              "description": "] [code]",
+              "description": "taco-group/STAMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1310,7 +1310,7 @@
             {
               "node_type": "item",
               "title": "R&B-POP (Learning 3D Perception from Others' Predictions) [paper&review",
-              "description": "] [code]",
+              "description": "jinsuyoo/rnb-pop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1338,7 +1338,7 @@
             {
               "node_type": "item",
               "title": "UniV2X (End-to-End Autonomous Driving through V2X Cooperation) [paper",
-              "description": "] [code]",
+              "description": "AIR-THU/UniV2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1359,7 +1359,7 @@
             {
               "node_type": "item",
               "title": "DSRC (DSRC: Learning Density-Insensitive and Semantic-Aware Collaborative Representation against Corruptions) [paper",
-              "description": "] [code]",
+              "description": "Terry9a/DSRC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1380,7 +1380,7 @@
             {
               "node_type": "item",
               "title": "CoPEFT (CoPEFT: Fast Adaptation Framework for Multi-Agent Collaborative Perception with Parameter-Efficient Fine-Tuning) [paper",
-              "description": "] [code]",
+              "description": "fengxueguiren/CoPEFT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,7 +1415,7 @@
             {
               "node_type": "item",
               "title": "How2Compress (How2Compress: Scalable and Efficient Edge Video Analytics via Adaptive Granular Video Compression) [paper",
-              "description": "] [code]",
+              "description": "wyhallenwu/how2compress",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1443,7 +1443,7 @@
             {
               "node_type": "item",
               "title": "Co-MTP (Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving) [paper",
-              "description": "] [code]",
+              "description": "xiaomiaozhang/Co-MTP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1468,7 +1468,7 @@
             {
               "node_type": "item",
               "title": "CoDynTrust (CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus) [paper",
-              "description": "] [code]",
+              "description": "CrazyShout/CoDynTrust",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1496,7 +1496,7 @@
             {
               "node_type": "item",
               "title": "CRUISE (CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting) [paper",
-              "description": "] [code]",
+              "description": "SainingZhang/CRUISE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1517,7 +1517,7 @@
             {
               "node_type": "item",
               "title": "CooPre (CooPre: Cooperative Pretraining for V2X Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "ucla-mobility/CooPre",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "CoopDet3D (TUMTraf V2X Cooperative Perception Dataset) [paper",
-              "description": "] [code]",
+              "description": "tum-traffic-dataset/coopdet3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1566,7 +1566,7 @@
             {
               "node_type": "item",
               "title": "ERMVP (ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments) [paper",
-              "description": "] [code]",
+              "description": "Terry9a/ERMVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1587,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "CodeFilling (Communication-Efficient Collaborative Perception via Information Filling with Codebook) [paper",
-              "description": "] [code]",
+              "description": "PhyllisH/CodeFilling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1608,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "MRCNet (Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network) [paper",
-              "description": "] [code]",
+              "description": "IndigoChildren/collaborative-perception-MRCNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1636,7 +1636,7 @@
             {
               "node_type": "item",
               "title": "V2X-Graph (Learning Cooperative Trajectory Representations for Motion Forecasting) [paper",
-              "description": "] [code]",
+              "description": "AIR-THU/V2X-Graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1664,7 +1664,7 @@
             {
               "node_type": "item",
               "title": "HEAL (An Extensible Framework for Open Heterogeneous Collaborative Perception) [paper&review",
-              "description": "] [code]",
+              "description": "yifanlu0227/HEAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1699,7 +1699,7 @@
             {
               "node_type": "item",
               "title": "V2XFormer (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) [paper",
-              "description": "] [code]",
+              "description": "tianqi-wang1996/DeepAccident",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1720,7 +1720,7 @@
             {
               "node_type": "item",
               "title": "DI-V2X (DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection) [paper",
-              "description": "] [code]",
+              "description": "Serenos/DI-V2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1741,7 +1741,7 @@
             {
               "node_type": "item",
               "title": "CMiMC (What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception) [paper",
-              "description": "] [code]",
+              "description": "77SWF/CMiMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,7 +1769,7 @@
             {
               "node_type": "item",
               "title": "MACP (MACP: Efficient Model Adaptation for Cooperative Perception) [paper",
-              "description": "] [code]",
+              "description": "PurdueDigitalTwin/MACP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1808,7 +1808,7 @@
             {
               "node_type": "item",
               "title": "DMSTrack (Probabilistic 3D Multi-Object Cooperative Tracking for Autonomous Driving via Differentiable Multi-Sensor Kalman Filter) [paper",
-              "description": "] [code]",
+              "description": "eddyhkchiu/DMSTrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1841,7 +1841,7 @@
             {
               "node_type": "item",
               "title": "FreeAlign (Robust Collaborative Perception without External Localization and Clock Devices) [paper",
-              "description": "] [code]",
+              "description": "MediaBrain-SJTU/FreeAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1869,7 +1869,7 @@
             {
               "node_type": "item",
               "title": "{Related} BEVHeight (BEVHeight: A Robust Framework for Vision-Based Roadside 3D Object Detection) [paper",
-              "description": "] [code]",
+              "description": "ADLab-AutoDrive/BEVHeight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1890,7 +1890,7 @@
             {
               "node_type": "item",
               "title": "FF-Tracking (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) [paper",
-              "description": "] [code]",
+              "description": "AIR-THU/DAIR-V2X-Seq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1911,7 +1911,7 @@
             {
               "node_type": "item",
               "title": "CoCa3D (Collaboration Helps Camera Overtake LiDAR in 3D Detection) [paper",
-              "description": "] [code]",
+              "description": "MediaBrain-SJTU/CoCa3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1939,7 +1939,7 @@
             {
               "node_type": "item",
               "title": "FFNet (Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection) [paper&review",
-              "description": "] [code]",
+              "description": "haibao-yu/FFNet-VIC3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1960,7 +1960,7 @@
             {
               "node_type": "item",
               "title": "CoBEVFlow (Robust Asynchronous Collaborative 3D Detection via Bird's Eye View Flow) [paper&review",
-              "description": "] [code]",
+              "description": "MediaBrain-SJTU/CoBEVFlow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1985,7 +1985,7 @@
             {
               "node_type": "item",
               "title": "How2comm (How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception) [paper&review",
-              "description": "] [code]",
+              "description": "ydk122024/How2comm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2013,7 +2013,7 @@
             {
               "node_type": "item",
               "title": "CORE (CORE: Cooperative Reconstruction for Multi-Agent Perception) [paper",
-              "description": "] [code]",
+              "description": "zllxot/CORE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2039,7 +2039,7 @@
             {
               "node_type": "item",
               "title": "HM-ViT (HM-ViT: Hetero-Modal Vehicle-to-Vehicle Cooperative Perception with Vision Transformer) [paper",
-              "description": "] [code]",
+              "description": "XHwind/HM-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2060,7 +2060,7 @@
             {
               "node_type": "item",
               "title": "SCOPE (Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "starfdu1418/SCOPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2081,7 +2081,7 @@
             {
               "node_type": "item",
               "title": "ROBOSAC (Among Us: Adversarially Robust Collaborative Perception by Consensus) [paper",
-              "description": "] [code]",
+              "description": "coperception/ROBOSAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2102,7 +2102,7 @@
             {
               "node_type": "item",
               "title": "UMC (UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework) [paper",
-              "description": "] [code]",
+              "description": "ispc-lab/UMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2130,7 +2130,7 @@
             {
               "node_type": "item",
               "title": "{Related} CO3 (CO3: Cooperative Unsupervised 3D Representation Learning for Autonomous Driving) [paper&review",
-              "description": "] [code]",
+              "description": "Runjian-Chen/CO3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,7 +2158,7 @@
             {
               "node_type": "item",
               "title": "BM2CP {BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities} [paper&review",
-              "description": "] [code]",
+              "description": "byzhaoAI/BM2CP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2186,7 +2186,7 @@
             {
               "node_type": "item",
               "title": "DUSA (DUSA: Decoupled Unsupervised Sim2Real Adaptation for Vehicle-to-Everything Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "refkxh/DUSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2207,7 +2207,7 @@
             {
               "node_type": "item",
               "title": "FeaCo (FeaCo: Reaching Robust Feature-Level Consensus in Noisy Pose Conditions) [paper",
-              "description": "] [code]",
+              "description": "jmgu0212/FeaCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2235,7 +2235,7 @@
             {
               "node_type": "item",
               "title": "AdaFusion (Adaptive Feature Fusion for Cooperative Perception Using LiDAR Point Clouds) [paper",
-              "description": "] [code]",
+              "description": "DonghaoQiao/Adaptive-Feature-Fusion-for-Cooperative-Perception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2263,7 +2263,7 @@
             {
               "node_type": "item",
               "title": "CoAlign (Robust Collaborative 3D Object Detection in Presence of Pose Errors) [paper",
-              "description": "] [code]",
+              "description": "yifanlu0227/CoAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2291,7 +2291,7 @@
             {
               "node_type": "item",
               "title": "MPDA (Bridging the Domain Gap for Multi-Agent Perception) [paper",
-              "description": "] [code]",
+              "description": "DerrickXuNu/MPDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2312,7 +2312,7 @@
             {
               "node_type": "item",
               "title": "Double-M Quantification (Uncertainty Quantification of Collaborative Detection for Self-Driving) [paper",
-              "description": "] [code]",
+              "description": "coperception/double-m-quantification",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2333,7 +2333,7 @@
             {
               "node_type": "item",
               "title": "MAMP (Model-Agnostic Multi-Agent Perception Framework) [paper",
-              "description": "] [code]",
+              "description": "DerrickXuNu/model_anostic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2354,7 +2354,7 @@
             {
               "node_type": "item",
               "title": "{Related} DMGM (Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "gaopeng5/DMGM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2389,7 +2389,7 @@
             {
               "node_type": "item",
               "title": "TCLF (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) [paper",
-              "description": "] [code]",
+              "description": "AIR-THU/DAIR-V2X",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2410,7 +2410,7 @@
             {
               "node_type": "item",
               "title": "{Related} LAV (Learning from All Vehicles) [paper",
-              "description": "] [code]",
+              "description": "dotchen/LAV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2420,7 +2420,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-10-13T22:55:32Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "dotchen",
                 "repo": "LAV",
                 "stars": 438,
@@ -2440,7 +2440,7 @@
             {
               "node_type": "item",
               "title": "Coopernaut (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) [paper",
-              "description": "] [code]",
+              "description": "UT-Austin-RPL/Coopernaut",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2474,7 +2474,7 @@
             {
               "node_type": "item",
               "title": "Where2comm (Where2comm: Efficient Collaborative Perception via Spatial Confidence Maps) [paper&review",
-              "description": "] [code]",
+              "description": "MediaBrain-SJTU/Where2comm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2502,7 +2502,7 @@
             {
               "node_type": "item",
               "title": "V2X-ViT (V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer) [paper",
-              "description": "] [code]",
+              "description": "DerrickXuNu/v2x-vit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2536,7 +2536,7 @@
             {
               "node_type": "item",
               "title": "SyncNet (Latency-Aware Collaborative Perception) [paper",
-              "description": "] [code]",
+              "description": "MediaBrain-SJTU/SyncNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2564,7 +2564,7 @@
             {
               "node_type": "item",
               "title": "CoBEVT (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) [paper&review",
-              "description": "] [code]",
+              "description": "DerrickXuNu/CoBEVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2598,7 +2598,7 @@
             {
               "node_type": "item",
               "title": "STAR (Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception) [paper&review",
-              "description": "] [code]",
+              "description": "coperception/star",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2633,7 +2633,7 @@
             {
               "node_type": "item",
               "title": "AttFuse (OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication) [paper",
-              "description": "] [code]",
+              "description": "DerrickXuNu/OpenCOOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2670,7 +2670,7 @@
             {
               "node_type": "item",
               "title": "DiscoNet (Learning Distilled Collaboration Graph for Multi-Agent Perception) [paper&review",
-              "description": "] [code]",
+              "description": "ai4ce/DiscoNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2715,7 +2715,7 @@
             {
               "node_type": "item",
               "title": "MASH (Overcoming Obstructions via Bandwidth-Limited Multi-Agent Spatial Handshaking) [paper",
-              "description": "] [code]",
+              "description": "yifanlu0227/CoAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2750,7 +2750,7 @@
             {
               "node_type": "item",
               "title": "When2com (When2com: Multi-Agent Perception via Communication Graph Grouping) [paper",
-              "description": "] [code]",
+              "description": "GT-RIPL/MultiAgentPerception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2784,7 +2784,7 @@
             {
               "node_type": "item",
               "title": "V2VNet (V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction) [paper",
-              "description": "] [code]",
+              "description": "DerrickXuNu/OpenCOOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2821,7 +2821,7 @@
             {
               "node_type": "item",
               "title": "Robust V2V (Learning to Communicate and Correct Pose Errors) [paper",
-              "description": "] [code]",
+              "description": "yifanlu0227/CoAlign",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2856,7 +2856,7 @@
             {
               "node_type": "item",
               "title": "Who2com (Who2com: Collaborative Perception via Learnable Handshake Communication) [paper",
-              "description": "] [code]",
+              "description": "GT-RIPL/MultiAgentPerception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4058,11 +4058,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:48:01Z",
-                "open_issues": 1190,
+                "last_commit": "2026-10-03T00:24:39Z",
+                "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14450,
+                "stars": 14453,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4095,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:35:32.865Z",
+    "last_updated": "2026-10-03T04:31:12.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
