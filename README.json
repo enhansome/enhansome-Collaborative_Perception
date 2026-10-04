@@ -250,7 +250,7 @@
                 "open_issues": 1,
                 "owner": "sidiangongyuan",
                 "repo": "ACCO",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -568,6 +568,27 @@
             },
             {
               "node_type": "item",
+              "title": "EgoRefine (EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception) [paper",
+              "description": "godk0509/EgoRefine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception",
+                "homepage": null,
+                "id": 1394281176,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-29T04:29:49Z",
+                "open_issues": 1,
+                "owner": "godk0509",
+                "repo": "EgoRefine",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T05:51:11.013Z"
+            },
+            {
+              "node_type": "item",
               "title": "V2X-UniPool (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) [paper",
               "description": "snowwhite1016/V2X-UniPool",
               "children": [],
@@ -607,6 +628,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VeriFuse (VeriFuse: Bounded Vision-Language Arbitration and Reason-Guided Refinement for Cooperative 3D Perception) [paper",
+              "description": "VeriFuse-Anonymous/VeriFuse",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1359680829,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-07T02:53:48Z",
+                "open_issues": 0,
+                "owner": "VeriFuse-Anonymous",
+                "repo": "VeriFuse",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-04T05:51:11.013Z"
             }
           ],
           "description": null,
@@ -4059,10 +4101,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:24:39Z",
-                "open_issues": 1192,
+                "open_issues": 1193,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14453,
+                "stars": 14454,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4095,7 +4137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:17:41.541Z",
+    "last_updated": "2026-10-04T05:51:11.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4103,7 +4145,7 @@
       "id": 526952990,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-04T09:10:05Z",
+      "last_commit": "2026-10-04T02:14:22Z",
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
@@ -4127,7 +4169,7 @@
         "v2x"
       ]
     },
-    "original_repository_sha": "53689f0fa642474b836d00a24f5f42f7e00302dd",
+    "original_repository_sha": "6ea597eb2d18fe4076915e841bfbb1989d5784c4",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
     "title": "Awesome Collaborative Perception with stars"
