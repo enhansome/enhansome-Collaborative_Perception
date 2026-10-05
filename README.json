@@ -3018,7 +3018,7 @@
                 "open_issues": 1,
                 "owner": "taco-group",
                 "repo": "AirV2X-Perception",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -4100,11 +4100,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:24:39Z",
-                "open_issues": 1193,
+                "last_commit": "2026-10-04T17:14:19Z",
+                "open_issues": 1196,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14454,
+                "stars": 14458,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4137,7 +4137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T05:51:11.013Z",
+    "last_updated": "2026-10-05T05:38:11.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
