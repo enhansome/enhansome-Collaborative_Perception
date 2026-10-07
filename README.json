@@ -1390,7 +1390,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-05-20T05:38:25Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
                 "stars": 175,
@@ -2444,7 +2444,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2529,7 +2529,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3874,7 +3874,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3923,7 +3923,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4100,8 +4100,8 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:54:39Z",
-                "open_issues": 1196,
+                "last_commit": "2026-10-06T15:21:08Z",
+                "open_issues": 1195,
                 "owner": "carla-simulator",
                 "repo": "carla",
                 "stars": 14462,
@@ -4137,7 +4137,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:37.494Z",
+    "last_updated": "2026-10-07T05:59:55.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4149,7 +4149,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 629,
+      "stars": 630,
       "topics": [
         "autonomous-driving",
         "awesome-list",
