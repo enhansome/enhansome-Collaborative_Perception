@@ -39,7 +39,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **V2XPnP** (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2412.01812)] \[[code](https://github.com/Zewei-Zhou/V2XPnP) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2025-12-02]
 * **CoLMDriver** (CoLMDriver: LLM-Based Negotiation Benefits Cooperative Autonomous Driving) \[[paper](https://arxiv.org/abs/2503.08683)] \[[code](https://github.com/cxliu0314/CoLMDriver) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2025-10-11]
 * **QuantV2X** (QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception) \[[paper](https://arxiv.org/abs/2509.03704)] \[[code](https://github.com/ucla-mobility/QuantV2X) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-09-26]
-* **UniMM-V2X** (UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving) \[[paper](https://arxiv.org/abs/2511.09013)] \[[code](https://github.com/Souig/UniMM-V2X) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-11-10]
+* **UniMM-V2X** (UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving) \[[paper](https://arxiv.org/abs/2511.09013)] \[[code](https://github.com/Souig/UniMM-V2X) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-11-10]
 * **V2V-LLM** (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) \[[paper](https://arxiv.org/abs/2502.09980)] \[[code](https://github.com/eddyhkchiu/V2VLLM) ⭐ 17 | 🐛 0 | 📅 2026-03-03]
 * **RoCo-Sim** (RoCo-Sim: Enhancing Roadside Collaborative Perception through Foreground Simulation) \[[paper](https://arxiv.org/abs/2503.10410)] \[[code](https://github.com/duyuwen-duen/RoCo-Sim) ⭐ 16 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-10-05]
 * **V2X-DGPE** (V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection) \[[paper](https://arxiv.org/abs/2501.02363)] \[[code](https://github.com/wangsch10/V2X-DGPE) ⭐ 14 | 🐛 5 | 🌐 Python | 📅 2025-01-22]
@@ -59,6 +59,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **JigsawComm** (JigsawComm: Joint Semantic Feature Encoding and Transmission for Communication-Efficient Cooperative Perception) \[[paper](https://arxiv.org/abs/2511.17843)] \[[code](https://github.com/WiSeR-Lab/JigsawComm) ⭐ 2 | 🐛 0 | 📅 2025-11-19]
 * **CP-FREEZER** (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) \[[paper](https://arxiv.org/abs/2508.01062)] \[[code](https://github.com/WiSeR-Lab/CP-FREEZER) ⭐ 1 | 🐛 0 | 📅 2025-03-03]
 * **EgoRefine** (EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception) \[[paper](https://arxiv.org/abs/2610.00319)] \[[code](https://github.com/godk0509/EgoRefine) ⭐ 1 | 🐛 1 | 📅 2026-09-29]
+* **Sparse2comm** (Sparse2comm: Towards Robust Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2610.08573)] \[[code](https://github.com/yanglei18/Sparse2comm) ⭐ 1 | 🐛 0 | 📅 2026-05-27]
 * **V2X-UniPool** (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) \[[paper](https://arxiv.org/abs/2506.02580)] \[[code](https://github.com/snowwhite1016/V2X-UniPool) ⭐ 1 | 🐛 0 | 📅 2025-05-10]
 * **CoBEVGlue** (Self-Localized Collaborative Perception) \[[paper](https://arxiv.org/abs/2406.12712)] \[[code](https://github.com/VincentNi0107/CoBEVGlue) ⭐ 0 | 🐛 0 | 📅 2024-06-18]
 * **VeriFuse** (VeriFuse: Bounded Vision-Language Arbitration and Reason-Guided Refinement for Cooperative 3D Perception) \[[paper](https://arxiv.org/abs/2609.21323)] \[[code](https://github.com/VeriFuse-Anonymous/VeriFuse) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-07]
@@ -140,7 +141,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### MM 2026
 
-* **CoDS** (CoDS: Robust Collaborative Perception via Expert-Driven Detection and BEV Segmentation) \[[paper](https://arxiv.org/abs/2608.14085)] \[[code](https://github.com/JinlongW128/CoDS) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-05]
+* **CoDS** (CoDS: Robust Collaborative Perception via Expert-Driven Detection and BEV Segmentation) \[[paper](https://arxiv.org/abs/2608.14085)] \[[code](https://github.com/JinlongW128/CoDS) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-07]
 * **CoAnchor** (CoAnchor: Robust Collaborative Perception under Spatio-Temporal Misalignment via Object-Level Anchors) \[[paper](https://arxiv.org/abs/2608.21055)] \[~~code~~]
 
 ### ICRA 2026
@@ -493,8 +494,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,462 | 🐛 1,195 | 🌐 C++ | 📅 2026-10-06] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,465 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-08] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

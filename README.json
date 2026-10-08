@@ -156,7 +156,7 @@
                 "open_issues": 0,
                 "owner": "Souig",
                 "repo": "UniMM-V2X",
-                "stars": 26,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -589,6 +589,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sparse2comm (Sparse2comm: Towards Robust Cooperative 3D Object Detection) [paper",
+              "description": "yanglei18/Sparse2comm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of Sparse2Comm: Towards Robust Cooperative 3D Object Detection.",
+                "homepage": null,
+                "id": 1250860161,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-27T03:10:26Z",
+                "open_issues": 0,
+                "owner": "yanglei18",
+                "repo": "Sparse2comm",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T06:02:11.982Z"
+            },
+            {
+              "node_type": "item",
               "title": "V2X-UniPool (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) [paper",
               "description": "snowwhite1016/V2X-UniPool",
               "children": [],
@@ -824,7 +845,7 @@
                 "id": 1317959784,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T16:03:12Z",
+                "last_commit": "2026-10-07T08:38:21Z",
                 "open_issues": 0,
                 "owner": "JinlongW128",
                 "repo": "CoDS",
@@ -4100,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-06T15:21:08Z",
-                "open_issues": 1195,
+                "last_commit": "2026-10-08T01:07:48Z",
+                "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14462,
+                "stars": 14465,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4137,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:59:55.989Z",
+    "last_updated": "2026-10-08T06:02:11.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4145,7 +4166,7 @@
       "id": 526952990,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-04T02:14:22Z",
+      "last_commit": "2026-10-07T23:01:26Z",
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
@@ -4169,7 +4190,7 @@
         "v2x"
       ]
     },
-    "original_repository_sha": "6ea597eb2d18fe4076915e841bfbb1989d5784c4",
+    "original_repository_sha": "f2d81f961702e7bd30acb31a073631761347eaea",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
     "title": "Awesome Collaborative Perception with stars"
