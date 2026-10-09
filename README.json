@@ -1355,7 +1355,7 @@
                 "open_issues": 8,
                 "owner": "taco-group",
                 "repo": "STAMP",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "autonomous",
                   "autonomous-driving",
@@ -2465,7 +2465,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2709,7 +2709,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -2860,7 +2860,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -3895,7 +3895,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4013,7 +4013,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4085,7 +4085,7 @@
                 "open_issues": 8,
                 "owner": "ai4ce",
                 "repo": "V2X-Sim",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "benchmark",
                   "collaborative-perception",
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T01:07:48Z",
-                "open_issues": 1192,
+                "last_commit": "2026-10-09T03:38:04Z",
+                "open_issues": 1194,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14465,
+                "stars": 14466,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:02:11.982Z",
+    "last_updated": "2026-10-09T06:07:09.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4166,11 +4166,11 @@
       "id": 526952990,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-07T23:01:26Z",
+      "last_commit": "2026-10-08T23:44:11Z",
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "autonomous-driving",
         "awesome-list",
@@ -4190,7 +4190,7 @@
         "v2x"
       ]
     },
-    "original_repository_sha": "f2d81f961702e7bd30acb31a073631761347eaea",
+    "original_repository_sha": "e0fc6773f24126ca1d23fd355b4aaf54cb6070c5",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
     "title": "Awesome Collaborative Perception with stars"
