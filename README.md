@@ -215,7 +215,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### ICRA 2025
 
-* **Co-MTP** (Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving) \[[paper](https://arxiv.org/abs/2502.16589)] \[[code](https://github.com/xiaomiaozhang/Co-MTP) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2025-03-11]
+* **Co-MTP** (Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving) \[[paper](https://arxiv.org/abs/2502.16589)] \[[code](https://github.com/xiaomiaozhang/Co-MTP) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2025-03-11]
 * **CoDynTrust** (CoDynTrust: Robust Asynchronous Collaborative Perception via Dynamic Feature Trust Modulus) \[[paper](https://arxiv.org/abs/2502.08169)] \[[code](https://github.com/CrazyShout/CoDynTrust) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-11-19]
 * **CoopDETR** (CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query) \[[paper](https://arxiv.org/abs/2502.19313)] \[~~code~~]
 * **Direct-CP** (Direct-CP: Directed Collaborative Perception for Connected and Autonomous Vehicles via Proactive Attention) \[[paper](https://arxiv.org/abs/2409.08840)] \[~~code~~]
@@ -329,7 +329,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CoRL 2022
 
-* **CoBEVT** (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) \[[paper\&review](https://openreview.net/forum?id=PAFEQQtDf8s)] \[[code](https://github.com/DerrickXuNu/CoBEVT) ⭐ 261 | 🐛 6 | 🌐 Python | 📅 2024-08-18]
+* **CoBEVT** (CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers) \[[paper\&review](https://openreview.net/forum?id=PAFEQQtDf8s)] \[[code](https://github.com/DerrickXuNu/CoBEVT) ⭐ 262 | 🐛 6 | 🌐 Python | 📅 2024-08-18]
 * **STAR** (Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception) \[[paper\&review](https://openreview.net/forum?id=hW0tcXOJas2)] \[[code](https://github.com/coperception/star) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2022-11-29]
 
 ### IJCAI 2022
@@ -391,7 +391,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 * {Real} **InScope** (InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios) \[[paper](https://arxiv.org/abs/2407.21581)] \[[code](https://github.com/xf-zh/InScope) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-03-12] \[~~project~~]
 * {Real} **CoInfra** (CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather) \[[paper](https://arxiv.org/abs/2507.02245)] \[[code](https://github.com/NingMingHao/CoInfra) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-03-23] \[~~project~~]
 * **V2V-QA** (V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models) \[[paper](https://arxiv.org/abs/2502.09980)] \[[code](https://github.com/eddyhkchiu/V2VLLM) ⭐ 17 | 🐛 0 | 📅 2026-03-03] \[[project](https://eddyhkchiu.github.io/v2vllm.github.io)]
-* **M3CAD** (M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark) \[[paper](https://arxiv.org/abs/2505.06746)] \[[code](https://github.com/zhumorui/M3CAD) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-09-09] \[[project](https://zhumorui.github.io/m3cad)]
+* **M3CAD** (M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark) \[[paper](https://arxiv.org/abs/2505.06746)] \[[code](https://github.com/zhumorui/M3CAD) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-09-09] \[[project](https://zhumorui.github.io/m3cad)]
 * **MobileVerse** (MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models) \[[paper](https://arxiv.org/abs/2506.21784)] \[[code](https://github.com/ucla-mobility/MobiVerse) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-08-14] \[~~project~~]
 * **V2X-QA** (V2X-QA: A Comprehensive Reasoning Dataset and Benchmark for Multimodal Large Language Models in Autonomous Driving Across Ego, Infrastructure, and Cooperative Views) \[[paper](https://arxiv.org/abs/2604.02710)] \[[code](https://github.com/junwei0001/V2X-QA) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-04-06] \[~~project~~]
 * **Multi-V2X** (Multi-V2X: A Large Scale Multi-modal Multi-penetration-rate Dataset for Cooperative Perception) \[[paper](https://arxiv.org/abs/2409.04980)] \[[code](https://github.com/RadetzkyLi/Multi-V2X) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-08-03] \[~~project~~]
@@ -430,7 +430,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### CVPR 2024
 
 * {Real} **RCooper** (RCooper: A Real-World Large-Scale Dataset for Roadside Cooperative Perception) \[[paper](https://arxiv.org/abs/2403.10145)] \[[code](https://github.com/AIR-THU/DAIR-RCooper) ⭐ 117 | 🐛 4 | 🌐 Python | 📅 2026-05-29] \[[project](https://www.t3caic.com/qingzhen)]
-* {Real} **TUMTraf-V2X** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) ⭐ 101 | 🐛 16 | 🌐 Python | 📅 2026-04-24] \[[project](https://tum-traffic-dataset.github.io/tumtraf-v2x)]
+* {Real} **TUMTraf-V2X** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/tum-traffic-dataset-dev-kit) ⭐ 102 | 🐛 16 | 🌐 Python | 📅 2026-04-24] \[[project](https://tum-traffic-dataset.github.io/tumtraf-v2x)]
 * {Real} **Open Mars Dataset** (Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset) \[[code](https://github.com/ai4ce/MARS) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2024-06-25] \[[paper](https://arxiv.org/abs/2406.09383)] \[[project](https://ai4ce.github.io/MARS)]
 * {Real} **HoloVIC** (HoloVIC: Large-Scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative) \[[paper](https://arxiv.org/abs/2403.02640)] \[~~code~~] \[[project](https://holovic.net)]
 
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,466 | 🐛 1,194 | 🌐 C++ | 📅 2026-10-09] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,471 | 🐛 1,200 | 🌐 C++ | 📅 2026-10-10] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
