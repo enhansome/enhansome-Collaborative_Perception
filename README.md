@@ -57,9 +57,9 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **BOLT** (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) \[[paper](https://arxiv.org/abs/2605.00405)] \[[code](https://github.com/sidiangongyuan/BOLT) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-05-11]
 * **HeatV2X** (HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction) \[[paper](https://arxiv.org/abs/2511.10211)] \[[code](https://github.com/hollowknight2167/HeatV2X) ⭐ 2 | 🐛 0 | 📅 2025-10-17]
 * **JigsawComm** (JigsawComm: Joint Semantic Feature Encoding and Transmission for Communication-Efficient Cooperative Perception) \[[paper](https://arxiv.org/abs/2511.17843)] \[[code](https://github.com/WiSeR-Lab/JigsawComm) ⭐ 2 | 🐛 0 | 📅 2025-11-19]
+* **Sparse2comm** (Sparse2comm: Towards Robust Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2610.08573)] \[[code](https://github.com/yanglei18/Sparse2comm) ⭐ 2 | 🐛 0 | 📅 2026-05-27]
 * **CP-FREEZER** (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) \[[paper](https://arxiv.org/abs/2508.01062)] \[[code](https://github.com/WiSeR-Lab/CP-FREEZER) ⭐ 1 | 🐛 0 | 📅 2025-03-03]
 * **EgoRefine** (EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception) \[[paper](https://arxiv.org/abs/2610.00319)] \[[code](https://github.com/godk0509/EgoRefine) ⭐ 1 | 🐛 1 | 📅 2026-09-29]
-* **Sparse2comm** (Sparse2comm: Towards Robust Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2610.08573)] \[[code](https://github.com/yanglei18/Sparse2comm) ⭐ 1 | 🐛 0 | 📅 2026-05-27]
 * **V2X-UniPool** (V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving) \[[paper](https://arxiv.org/abs/2506.02580)] \[[code](https://github.com/snowwhite1016/V2X-UniPool) ⭐ 1 | 🐛 0 | 📅 2025-05-10]
 * **CoBEVGlue** (Self-Localized Collaborative Perception) \[[paper](https://arxiv.org/abs/2406.12712)] \[[code](https://github.com/VincentNi0107/CoBEVGlue) ⭐ 0 | 🐛 0 | 📅 2024-06-18]
 * **VeriFuse** (VeriFuse: Bounded Vision-Language Arbitration and Reason-Guided Refinement for Cooperative 3D Perception) \[[paper](https://arxiv.org/abs/2609.21323)] \[[code](https://github.com/VeriFuse-Anonymous/VeriFuse) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-07]
@@ -141,7 +141,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### MM 2026
 
-* **CoDS** (CoDS: Robust Collaborative Perception via Expert-Driven Detection and BEV Segmentation) \[[paper](https://arxiv.org/abs/2608.14085)] \[[code](https://github.com/JinlongW128/CoDS) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-07]
+* **CoDS** (CoDS: Robust Collaborative Perception via Expert-Driven Detection and BEV Segmentation) \[[paper](https://arxiv.org/abs/2608.14085)] \[[code](https://github.com/JinlongW128/CoDS) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-07]
 * **CoAnchor** (CoAnchor: Robust Collaborative Perception under Spatio-Temporal Misalignment via Object-Level Anchors) \[[paper](https://arxiv.org/abs/2608.21055)] \[~~code~~]
 
 ### ICRA 2026
@@ -315,7 +315,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### CVPR 2022
 
 * **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 650 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
-* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 438 | 🐛 30 | 🌐 Python | 📅 2022-10-13]
+* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 439 | 🐛 30 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
 ### NeurIPS 2022
@@ -382,7 +382,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 ### Selected Preprint
 
 * {Real} **UrbanV2X** (UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas) \[[paper](https://arxiv.org/abs/2512.20224)] \[[code](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM) ⭐ 326 | 🐛 4 | 🌐 C++ | 📅 2025-10-29] \[[project](https://polyu-taslab.github.io/UrbanV2X)]
-* **Griffin** (Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark) \[[paper](https://arxiv.org/abs/2503.06983)] \[[code](https://github.com/wang-jh18-SVM/Griffin) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2025-08-26] \[[project](https://pan.baidu.com/s/1NDgsuHB-QPRiROV73NRU5g)]
+* **Griffin** (Griffin: Aerial-Ground Cooperative Detection and Tracking Dataset and Benchmark) \[[paper](https://arxiv.org/abs/2503.06983)] \[[code](https://github.com/wang-jh18-SVM/Griffin) ⭐ 122 | 🐛 1 | 🌐 Python | 📅 2025-08-26] \[[project](https://pan.baidu.com/s/1NDgsuHB-QPRiROV73NRU5g)]
 * {Real} **V2X-Radar** (V2X-Radar: A Multi-Modal Dataset with 4D Radar for Cooperative Perception) \[[paper](https://arxiv.org/abs/2411.10962)] \[[code](https://github.com/yanglei18/V2X-Radar) ⭐ 74 | 🐛 9 | 🌐 Python | 📅 2026-01-18] \[[project](http://openmpd.com/column/V2X-Radar)]
 * **AirV2X** (AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration) \[[paper](https://arxiv.org/abs/2506.19283)] \[[code](https://github.com/taco-group/AirV2X-Perception) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-11-12] \[[project](https://huggingface.co/datasets/xiangbog/AirV2X-Perception)]
 * {Real} **V2XPnP-Seq** (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) \[[paper](https://arxiv.org/abs/2412.01812)] \[[code](https://github.com/Zewei-Zhou/V2XPnP) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2025-12-02] \[[project](https://mobility-lab.seas.ucla.edu/v2xpnp)]
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,471 | 🐛 1,200 | 🌐 C++ | 📅 2026-10-10] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,474 | 🐛 1,200 | 🌐 C++ | 📅 2026-10-10] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

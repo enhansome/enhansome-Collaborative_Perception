@@ -547,6 +547,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sparse2comm (Sparse2comm: Towards Robust Cooperative 3D Object Detection) [paper",
+              "description": "yanglei18/Sparse2comm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of Sparse2Comm: Towards Robust Cooperative 3D Object Detection.",
+                "homepage": null,
+                "id": 1250860161,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-27T03:10:26Z",
+                "open_issues": 0,
+                "owner": "yanglei18",
+                "repo": "Sparse2comm",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T06:02:11.982Z"
+            },
+            {
+              "node_type": "item",
               "title": "CP-FREEZER (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) [paper",
               "description": "WiSeR-Lab/CP-FREEZER",
               "children": [],
@@ -586,27 +607,6 @@
                 "topics": []
               },
               "first_seen": "2026-10-04T05:51:11.013Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sparse2comm (Sparse2comm: Towards Robust Cooperative 3D Object Detection) [paper",
-              "description": "yanglei18/Sparse2comm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official implementation of Sparse2Comm: Towards Robust Cooperative 3D Object Detection.",
-                "homepage": null,
-                "id": 1250860161,
-                "language": null,
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-27T03:10:26Z",
-                "open_issues": 0,
-                "owner": "yanglei18",
-                "repo": "Sparse2comm",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T06:02:11.982Z"
             },
             {
               "node_type": "item",
@@ -849,7 +849,7 @@
                 "open_issues": 0,
                 "owner": "JinlongW128",
                 "repo": "CoDS",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-09-03T04:32:32.685Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 30,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "autonomous-driving",
                   "carla-simulator",
@@ -2997,7 +2997,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-10T02:53:25Z",
+                "last_commit": "2026-10-10T23:54:24Z",
                 "open_issues": 1200,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14471,
+                "stars": 14474,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T05:51:14.096Z",
+    "last_updated": "2026-10-11T05:44:53.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
