@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -484,6 +484,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sparse2comm (Sparse2comm: Towards Robust Cooperative 3D Object Detection) [paper",
+              "description": "yanglei18/Sparse2comm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official implementation of Sparse2Comm: Towards Robust Cooperative 3D Object Detection.",
+                "homepage": null,
+                "id": 1250860161,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-27T03:10:26Z",
+                "open_issues": 0,
+                "owner": "yanglei18",
+                "repo": "Sparse2comm",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T06:02:11.982Z"
+            },
+            {
+              "node_type": "item",
               "title": "BOLT (BOLT: Online Lightweight Adaptation for Preparation-Free Heterogeneous Cooperative Perception) [paper",
               "description": "sidiangongyuan/BOLT",
               "children": [],
@@ -502,27 +523,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sparse2comm (Sparse2comm: Towards Robust Cooperative 3D Object Detection) [paper",
-              "description": "yanglei18/Sparse2comm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official implementation of Sparse2Comm: Towards Robust Cooperative 3D Object Detection.",
-                "homepage": null,
-                "id": 1250860161,
-                "language": null,
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-27T03:10:26Z",
-                "open_issues": 0,
-                "owner": "yanglei18",
-                "repo": "Sparse2comm",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-10-08T06:02:11.982Z"
             },
             {
               "node_type": "item",
@@ -764,7 +764,7 @@
                 "open_issues": 4,
                 "owner": "dempsey-wen",
                 "repo": "SiMO",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1884,7 +1884,7 @@
                 "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "DMSTrack",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "3d-multi-object-tracking",
                   "autonomous-driving",
@@ -2997,7 +2997,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 122,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3118,7 +3118,7 @@
                 "open_issues": 0,
                 "owner": "QUARRG",
                 "repo": "Adver-City",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "automated-driving-systems",
                   "autonomous-driving",
@@ -3367,7 +3367,7 @@
                 "id": 1200749980,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:42:07Z",
+                "last_commit": "2026-10-12T08:50:17Z",
                 "open_issues": 3,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-12T01:17:28Z",
-                "open_issues": 1200,
+                "last_commit": "2026-10-13T03:07:46Z",
+                "open_issues": 1202,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14478,
+                "stars": 14482,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T05:55:54.642Z",
+    "last_updated": "2026-10-13T06:46:26.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
