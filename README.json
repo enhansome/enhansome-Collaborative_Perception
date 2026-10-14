@@ -849,7 +849,7 @@
                 "open_issues": 0,
                 "owner": "JinlongW128",
                 "repo": "CoDS",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-09-03T04:32:32.685Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 124,
+                "stars": 125,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3181,7 +3181,7 @@
                 "open_issues": 0,
                 "owner": "NingMingHao",
                 "repo": "CoInfra",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-13T03:07:46Z",
-                "open_issues": 1202,
+                "last_commit": "2026-10-14T02:50:22Z",
+                "open_issues": 1203,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14482,
+                "stars": 14487,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:46:26.688Z",
+    "last_updated": "2026-10-14T04:51:49.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4170,7 +4170,7 @@
       "open_issues": 2,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 631,
+      "stars": 632,
       "topics": [
         "autonomous-driving",
         "awesome-list",
