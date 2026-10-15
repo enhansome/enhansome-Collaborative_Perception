@@ -70,6 +70,27 @@
             },
             {
               "node_type": "item",
+              "title": "CoLMDriver (CoLMDriver: LLM-Based Negotiation Benefits Cooperative Autonomous Driving) [paper",
+              "description": "cxliu0314/CoLMDriver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving",
+                "homepage": null,
+                "id": 946472931,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-10-11T07:55:04Z",
+                "open_issues": 4,
+                "owner": "cxliu0314",
+                "repo": "CoLMDriver",
+                "stars": 56,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
               "title": "V2XPnP (V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction) [paper",
               "description": "Zewei-Zhou/V2XPnP",
               "children": [],
@@ -91,27 +112,6 @@
                   "v2x-sequential-dataset",
                   "vehicle-to-everything"
                 ]
-              },
-              "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CoLMDriver (CoLMDriver: LLM-Based Negotiation Benefits Cooperative Autonomous Driving) [paper",
-              "description": "cxliu0314/CoLMDriver",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving",
-                "homepage": null,
-                "id": 946472931,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-10-11T07:55:04Z",
-                "open_issues": 4,
-                "owner": "cxliu0314",
-                "repo": "CoLMDriver",
-                "stars": 55,
-                "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
             },
@@ -304,7 +304,7 @@
                 "open_issues": 1,
                 "owner": "uestchjw",
                 "repo": "LIF",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -877,7 +877,7 @@
                 "open_issues": 2,
                 "owner": "sidiangongyuan",
                 "repo": "EIMC",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -898,7 +898,7 @@
                 "open_issues": 0,
                 "owner": "erdemtbao",
                 "repo": "WaveComm",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -982,7 +982,7 @@
                 "open_issues": 0,
                 "owner": "scdrand23",
                 "repo": "FocalComm",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1663,7 +1663,7 @@
                 "open_issues": 15,
                 "owner": "PhyllisH",
                 "repo": "CodeFilling",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3272,7 +3272,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-06T03:12:05Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "junwei0001",
                 "repo": "V2X-QA",
                 "stars": 11,
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-14T02:50:22Z",
-                "open_issues": 1203,
+                "last_commit": "2026-10-15T03:59:26Z",
+                "open_issues": 1211,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14487,
+                "stars": 14490,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:51:49.355Z",
+    "last_updated": "2026-10-15T04:37:05.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
