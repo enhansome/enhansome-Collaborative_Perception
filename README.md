@@ -250,7 +250,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### AAAI 2024
 
-* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 104 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
+* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 105 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
 * **DI-V2X** (DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection) \[[paper](https://arxiv.org/abs/2312.15742)] \[[code](https://github.com/Serenos/DI-V2X) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-10]
 * **CMiMC** (What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2403.10068)] \[[code](https://github.com/77SWF/CMiMC) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2024-10-05]
 
@@ -266,7 +266,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### CVPR 2023
 
 * {Related} **BEVHeight** (BEVHeight: A Robust Framework for Vision-Based Roadside 3D Object Detection) \[[paper](https://arxiv.org/abs/2303.08498)] \[[code](https://github.com/ADLab-AutoDrive/BEVHeight) ⭐ 246 | 🐛 14 | 🌐 Python | 📅 2024-08-01]
-* **FF-Tracking** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 206 | 🐛 21 | 🌐 Python | 📅 2025-02-21]
+* **FF-Tracking** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 208 | 🐛 21 | 🌐 Python | 📅 2025-02-21]
 * **CoCa3D** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28]
 
 ### NeurIPS 2023
@@ -314,8 +314,8 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### CVPR 2022
 
-* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 651 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
-* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 439 | 🐛 30 | 🌐 Python | 📅 2022-10-13]
+* **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 654 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
+* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 439 | 🐛 31 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
 ### NeurIPS 2022
@@ -419,8 +419,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### NeurIPS 2025
 
-* **UrbanIng-V2X** (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) \[[paper\&review](https://openreview.net/forum?id=iSwIkUqyqf)] \[[code](https://github.com/thi-ad/UrbanIng-V2X) ⭐ 84 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-07] \[[project](https://pypi.org/project/urbaning)]
-* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 38 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
+* **UrbanIng-V2X** (UrbanIng-V2X: A Large-Scale Multi-Vehicle, Multi-Infrastructure Dataset Across Multiple Intersections for Cooperative Perception) \[[paper\&review](https://openreview.net/forum?id=iSwIkUqyqf)] \[[code](https://github.com/thi-ad/UrbanIng-V2X) ⭐ 84 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-15] \[[project](https://pypi.org/project/urbaning)]
+* {Real} **AGC-Drive** (AGC-Drive: A Large-Scale Dataset for Real-World Aerial-Ground Collaboration in Driving Scenarios) \[[paper\&review](https://openreview.net/forum?id=N07WGSPh9l)] \[[code](https://github.com/PercepX/AGC-Drive) ⭐ 39 | 🐛 6 | 🌐 TypeScript | 📅 2025-11-06] \[[project](https://agc-drive.github.io)]
 
 ### ICCV 2025
 
@@ -448,12 +448,12 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### AAAI 2024
 
-* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 104 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
+* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 105 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
 
 ### CVPR 2023
 
 * {Real} **V2V4Real** (V2V4Real: A Large-Scale Real-World Dataset for Vehicle-to-Vehicle Cooperative Perception) \[[paper](https://arxiv.org/abs/2303.07601)] \[[code](https://github.com/ucla-mobility/V2V4Real) ⭐ 231 | 🐛 20 | 🌐 Python | 📅 2024-08-14] \[[project](https://mobility-lab.seas.ucla.edu/v2v4real)]
-* {Real} **DAIR-V2X-Seq** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 206 | 🐛 21 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X-Seq** (V2X-Seq: The Large-Scale Sequential Dataset for the Vehicle-Infrastructure Cooperative Perception and Forecasting) \[[paper](https://arxiv.org/abs/2305.05938)] \[[code](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 208 | 🐛 21 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
 * **CoPerception-UAV+** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28] \[[project](https://siheng-chen.github.io/dataset/CoPerception+)]
 * **OPV2V+** (Collaboration Helps Camera Overtake LiDAR in 3D Detection) \[[paper](https://arxiv.org/abs/2303.13560)] \[[code](https://github.com/MediaBrain-SJTU/CoCa3D) ⭐ 91 | 🐛 10 | 🌐 Python | 📅 2023-03-28] \[[project](https://siheng-chen.github.io/dataset/CoPerception+)]
 
@@ -473,7 +473,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CVPR 2022
 
-* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 651 | 🐛 47 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
+* {Real} **DAIR-V2X** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 654 | 🐛 47 | 🌐 Python | 📅 2025-02-21] \[[project](https://thudair.baai.ac.cn/index)]
 * **AutoCastSim** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/hangqiu/AutoCastSim) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2022-09-23] \[[project](https://utexas.app.box.com/v/coopernaut-dataset)]
 
 ### NeurIPS 2022
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,490 | 🐛 1,211 | 🌐 C++ | 📅 2026-10-15] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,496 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-15] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
