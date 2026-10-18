@@ -1010,7 +1010,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3275,7 +3275,7 @@
                 "open_issues": 3,
                 "owner": "junwei0001",
                 "repo": "V2X-QA",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "autonomous-driving",
                   "multimodal-large-language-models",
@@ -3368,7 +3368,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T08:50:17Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
                 "stars": 7,
@@ -3399,7 +3399,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3553,7 +3553,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-24T01:01:35Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
                 "stars": 102,
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T14:17:42Z",
-                "open_issues": 1206,
+                "last_commit": "2026-10-17T18:23:54Z",
+                "open_issues": 1207,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14501,
+                "stars": 14504,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:23:59.768Z",
+    "last_updated": "2026-10-18T04:31:12.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
