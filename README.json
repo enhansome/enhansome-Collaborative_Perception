@@ -1090,10 +1090,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-08-13T02:53:30Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zhyingS",
                 "repo": "TraF-Align",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1639,7 +1639,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-10T09:59:30Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "Terry9a",
                 "repo": "ERMVP",
                 "stars": 44,
@@ -4125,7 +4125,7 @@
                 "open_issues": 1207,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14504,
+                "stars": 14505,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:31:12.547Z",
+    "last_updated": "2026-10-19T04:39:04.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",

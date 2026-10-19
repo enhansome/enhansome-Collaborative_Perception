@@ -175,7 +175,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **V2X-R** (V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion) \[[paper](https://arxiv.org/abs/2411.08402)] \[[code](https://github.com/ylwhxht/V2X-R) ⭐ 165 | 🐛 1 | 🌐 Python | 📅 2025-11-26]
 * **LangCoop** (LangCoop: Collaborative Driving with Language) \[[paper](https://arxiv.org/abs/2504.13406)] \[[code](https://github.com/taco-group/LangCoop) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2025-09-12]
 * **CoSDH** (CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization) \[[paper](https://arxiv.org/abs/2503.03430)] \[[code](https://github.com/Xu2729/CoSDH) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2025-10-21]
-* **TraF-Align** (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) \[[paper](https://arxiv.org/abs/2503.19391)] \[[code](https://github.com/zhyingS/TraF-Align) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2025-08-13]
+* **TraF-Align** (TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception) \[[paper](https://arxiv.org/abs/2503.19391)] \[[code](https://github.com/zhyingS/TraF-Align) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2025-08-13]
 * **PolyInter** (One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception) \[[paper](https://arxiv.org/abs/2411.16799)] \[[code](https://github.com/yuchen-xia/PolyInter) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-06-01]
 * **HeCoFuse** (HeCoFuse: Cross-Modal Complementary V2X Cooperative Perception with Heterogeneous Sensors) \[[paper](https://arxiv.org/abs/2507.13677)] \[[code](https://github.com/ChuhengWei/HeCoFuse) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-07-30]
 * **CoGMP** (Generative Map Priors for Collaborative BEV Semantic Segmentation) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.html)] \[~~code~~]
@@ -230,7 +230,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 ### CVPR 2024
 
 * **CoopDet3D** (TUMTraf V2X Cooperative Perception Dataset) \[[paper](https://arxiv.org/abs/2403.01316)] \[[code](https://github.com/tum-traffic-dataset/coopdet3d) ⭐ 85 | 🐛 9 | 🌐 Python | 📅 2024-03-07]
-* **ERMVP** (ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.html)] \[[code](https://github.com/Terry9a/ERMVP) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-06-10]
+* **ERMVP** (ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.html)] \[[code](https://github.com/Terry9a/ERMVP) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-06-10]
 * **CodeFilling** (Communication-Efficient Collaborative Perception via Information Filling with Codebook) \[[paper](https://arxiv.org/abs/2405.04966)] \[[code](https://github.com/PhyllisH/CodeFilling) ⭐ 39 | 🐛 15 | 📅 2024-07-22]
 * **MRCNet** (Multi-Agent Collaborative Perception via Motion-Aware Robust Communication Network) \[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.html)] \[[code](https://github.com/IndigoChildren/collaborative-perception-MRCNet) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2024-03-23]
 * **CoHFF** (Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles) \[[paper](https://arxiv.org/abs/2402.07635)] \[~~code~~]
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,504 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-17] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,505 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-17] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
