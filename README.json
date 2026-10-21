@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2234,7 +2234,7 @@
                 "open_issues": 0,
                 "owner": "byzhaoAI",
                 "repo": "BM2CP",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 31,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 439,
+                "stars": 438,
                 "topics": [
                   "autonomous-driving",
                   "carla-simulator",
@@ -2709,7 +2709,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -2860,7 +2860,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4013,7 +4013,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-19T19:48:36Z",
+                "last_commit": "2026-10-20T16:49:31Z",
                 "open_issues": 1206,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14505,
+                "stars": 14509,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:48:46.323Z",
+    "last_updated": "2026-10-21T04:44:22.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
