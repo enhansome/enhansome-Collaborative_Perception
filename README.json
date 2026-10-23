@@ -1775,7 +1775,7 @@
                 "open_issues": 27,
                 "owner": "tianqi-wang1996",
                 "repo": "DeepAccident",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "UMC (UMC: A Unified Bandwidth-Efficient and Multi-Resolution Based Collaborative Perception Framework) [paper",
-              "description": "ispc-lab/UMC",
+              "description": "sii-pilab/UMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2176,7 +2176,7 @@
                 "license": "MIT",
                 "last_commit": "2023-08-19T02:15:48Z",
                 "open_issues": 1,
-                "owner": "ispc-lab",
+                "owner": "sii-pilab",
                 "repo": "UMC",
                 "stars": 14,
                 "topics": []
@@ -3695,7 +3695,7 @@
                 "open_issues": 27,
                 "owner": "tianqi-wang1996",
                 "repo": "DeepAccident",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-21T23:31:21Z",
-                "open_issues": 1207,
+                "last_commit": "2026-10-22T21:14:07Z",
+                "open_issues": 1212,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14513,
+                "stars": 14523,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:42:41.616Z",
+    "last_updated": "2026-10-23T04:47:24.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4167,10 +4167,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-08T23:44:11Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 633,
+      "stars": 634,
       "topics": [
         "autonomous-driving",
         "awesome-list",

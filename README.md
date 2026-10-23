@@ -250,7 +250,7 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 
 ### AAAI 2024
 
-* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 105 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
+* **V2XFormer** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 106 | 🐛 27 | 🌐 Python | 📅 2023-05-16]
 * **DI-V2X** (DI-V2X: Learning Domain-Invariant Representation for Vehicle-Infrastructure Collaborative 3D Object Detection) \[[paper](https://arxiv.org/abs/2312.15742)] \[[code](https://github.com/Serenos/DI-V2X) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-10]
 * **CMiMC** (What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2403.10068)] \[[code](https://github.com/77SWF/CMiMC) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2024-10-05]
 
@@ -448,7 +448,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### AAAI 2024
 
-* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 105 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
+* **DeepAccident** (DeepAccident: A Motion and Accident Prediction Benchmark for V2X Autonomous Driving) \[[paper](https://arxiv.org/abs/2304.01168)] \[[code](https://github.com/tianqi-wang1996/DeepAccident) ⭐ 106 | 🐛 27 | 🌐 Python | 📅 2023-05-16] \[[project](https://deepaccident.github.io)]
 
 ### CVPR 2023
 
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,513 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-21] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,523 | 🐛 1,212 | 🌐 C++ | 📅 2026-10-22] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
