@@ -2997,7 +2997,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3529,7 +3529,7 @@
                 "open_issues": 4,
                 "owner": "AIR-THU",
                 "repo": "DAIR-RCooper",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "autonoumous-driving",
                   "cooperative-perception",
@@ -3916,7 +3916,7 @@
                 "open_issues": 3,
                 "owner": "hangqiu",
                 "repo": "AutoCastSim",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-22T21:14:07Z",
-                "open_issues": 1212,
+                "last_commit": "2026-10-23T09:47:16Z",
+                "open_issues": 1220,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14523,
+                "stars": 14530,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:47:24.772Z",
+    "last_updated": "2026-10-24T04:34:43.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4170,7 +4170,7 @@
       "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 634,
+      "stars": 635,
       "topics": [
         "autonomous-driving",
         "awesome-list",
