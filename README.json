@@ -2465,7 +2465,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 654,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2486,7 +2486,7 @@
                 "open_issues": 31,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 438,
+                "stars": 437,
                 "topics": [
                   "autonomous-driving",
                   "carla-simulator",
@@ -2550,7 +2550,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2578,7 +2578,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -2709,7 +2709,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -2860,7 +2860,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -3895,7 +3895,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 654,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3944,7 +3944,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3972,7 +3972,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 348,
+                "stars": 349,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -4013,7 +4013,7 @@
                 "open_issues": 37,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-23T09:47:16Z",
-                "open_issues": 1220,
+                "last_commit": "2026-10-24T23:47:35Z",
+                "open_issues": 1247,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14530,
+                "stars": 14534,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:34:43.342Z",
+    "last_updated": "2026-10-25T04:39:28.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
