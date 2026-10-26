@@ -2706,7 +2706,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-17T05:45:28Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
                 "stars": 839,
@@ -2857,7 +2857,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-17T05:45:28Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
                 "stars": 839,
@@ -3015,10 +3015,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-18T03:28:00Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "yanglei18",
                 "repo": "V2X-Radar",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4010,7 +4010,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-17T05:45:28Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
                 "stars": 839,
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-24T23:47:35Z",
-                "open_issues": 1247,
+                "last_commit": "2026-10-25T13:45:53Z",
+                "open_issues": 1251,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14534,
+                "stars": 14538,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T04:39:28.483Z",
+    "last_updated": "2026-10-26T04:45:10.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4170,7 +4170,7 @@
       "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 635,
+      "stars": 638,
       "topics": [
         "autonomous-driving",
         "awesome-list",
