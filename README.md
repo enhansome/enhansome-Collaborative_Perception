@@ -308,19 +308,19 @@ Note: {Related} denotes that it is not a pure collaborative perception paper but
 * **MPDA** (Bridging the Domain Gap for Multi-Agent Perception) \[[paper](https://arxiv.org/abs/2210.08451)] \[[code](https://github.com/DerrickXuNu/MPDA) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-02-06]
 * **Double-M Quantification** (Uncertainty Quantification of Collaborative Detection for Self-Driving) \[[paper](https://arxiv.org/abs/2209.08162)] \[[code](https://github.com/coperception/double-m-quantification) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2023-02-06]
 * **MAMP** (Model-Agnostic Multi-Agent Perception Framework) \[[paper](https://arxiv.org/abs/2203.13168)] \[[code](https://github.com/DerrickXuNu/model_anostic) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2023-11-23]
-* {Related} **DMGM** (Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception) \[[paper](https://arxiv.org/abs/2303.07555)] \[[code](https://github.com/gaopeng5/DMGM) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2023-05-09]
+* {Related} **DMGM** (Deep Masked Graph Matching for Correspondence Identification in Collaborative Perception) \[[paper](https://arxiv.org/abs/2303.07555)] \[[code](https://github.com/gaopeng5/DMGM) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-05-09]
 * **MATE** (Communication-Critical Planning via Multi-Agent Trajectory Exchange) \[[paper](https://arxiv.org/abs/2303.06080)] \[~~code~~]
 * **WNT** (We Need to Talk: Identifying and Overcoming Communication-Critical Scenarios for Self-Driving) \[[paper](https://arxiv.org/abs/2305.04352)] \[~~code~~]
 
 ### CVPR 2022
 
 * **TCLF** (DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection) \[[paper](https://arxiv.org/abs/2204.05575)] \[[code](https://github.com/AIR-THU/DAIR-V2X) ⭐ 655 | 🐛 47 | 🌐 Python | 📅 2025-02-21]
-* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 437 | 🐛 31 | 🌐 Python | 📅 2022-10-13]
+* {Related} **LAV** (Learning from All Vehicles) \[[paper](https://arxiv.org/abs/2203.11934)] \[[code](https://github.com/dotchen/LAV) ⭐ 438 | 🐛 31 | 🌐 Python | 📅 2022-10-13]
 * **Coopernaut** (COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles) \[[paper](https://arxiv.org/abs/2205.02222)] \[[code](https://github.com/UT-Austin-RPL/Coopernaut) ⭐ 88 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-07-26]
 
 ### NeurIPS 2022
 
-* **Where2comm** (Where2comm: Efficient Collaborative Perception via Spatial Confidence Maps) \[[paper\&review](https://openreview.net/forum?id=dLL4KXzKUpS)] \[[code](https://github.com/MediaBrain-SJTU/where2comm) ⭐ 221 | 🐛 23 | 🌐 Python | 📅 2023-03-03]
+* **Where2comm** (Where2comm: Efficient Collaborative Perception via Spatial Confidence Maps) \[[paper\&review](https://openreview.net/forum?id=dLL4KXzKUpS)] \[[code](https://github.com/MediaBrain-SJTU/where2comm) ⭐ 222 | 🐛 23 | 🌐 Python | 📅 2023-03-03]
 
 ### ECCV 2022
 
@@ -478,7 +478,7 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### NeurIPS 2022
 
-* **CoPerception-UAV** (Where2comm: Efficient Collaborative Perception via Spatial Confidence Maps) \[[paper\&review](https://openreview.net/forum?id=dLL4KXzKUpS)] \[[code](https://github.com/MediaBrain-SJTU/where2comm) ⭐ 221 | 🐛 23 | 🌐 Python | 📅 2023-03-03] \[[project](https://siheng-chen.github.io/dataset/coperception-uav)]
+* **CoPerception-UAV** (Where2comm: Efficient Collaborative Perception via Spatial Confidence Maps) \[[paper\&review](https://openreview.net/forum?id=dLL4KXzKUpS)] \[[code](https://github.com/MediaBrain-SJTU/where2comm) ⭐ 222 | 🐛 23 | 🌐 Python | 📅 2023-03-03] \[[project](https://siheng-chen.github.io/dataset/coperception-uav)]
 
 ### ECCV 2022
 
@@ -498,8 +498,8 @@ Note: {Real} denotes that the sensor data is obtained by real-world collection i
 
 ### CoRL 2017
 
-* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,538 | 🐛 1,251 | 🌐 C++ | 📅 2026-10-25] \[[project](https://carla.org)]
+* **CARLA** (CARLA: An Open Urban Driving Simulator) \[[paper](https://arxiv.org/abs/1711.03938)] \[[code](https://github.com/carla-simulator/carla) ⭐ 14,542 | 🐛 1,315 | 🌐 C++ | 📅 2026-10-27] \[[project](https://carla.org)]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
