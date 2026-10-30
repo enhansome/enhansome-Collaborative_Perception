@@ -1217,7 +1217,7 @@
                 "open_issues": 5,
                 "owner": "zhongjiaru",
                 "repo": "CoopTrack",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1740,7 +1740,7 @@
                 "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -1966,7 +1966,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3039,7 +3039,7 @@
                 "open_issues": 1,
                 "owner": "taco-group",
                 "repo": "AirV2X-Perception",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -3660,7 +3660,7 @@
                 "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 243,
+                "stars": 244,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -3744,7 +3744,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4121,11 +4121,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-29T01:02:13Z",
-                "open_issues": 1219,
+                "last_commit": "2026-10-29T19:18:16Z",
+                "open_issues": 1218,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14549,
+                "stars": 14552,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:46:22.791Z",
+    "last_updated": "2026-10-30T05:46:28.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
