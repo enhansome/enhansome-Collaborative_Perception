@@ -568,27 +568,6 @@
             },
             {
               "node_type": "item",
-              "title": "CP-FREEZER (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) [paper",
-              "description": "WiSeR-Lab/CP-FREEZER",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 944271444,
-                "language": null,
-                "license": null,
-                "last_commit": "2025-03-03T21:03:36Z",
-                "open_issues": 0,
-                "owner": "WiSeR-Lab",
-                "repo": "CP-FREEZER",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:22:28.355Z"
-            },
-            {
-              "node_type": "item",
               "title": "EgoRefine (EgoRefine: Ego-Referenced Predictive Alignment and Trajectory-Conditioned Reliability-Aware Fusion for Asynchronous Collaborative Perception) [paper",
               "description": "godk0509/EgoRefine",
               "children": [],
@@ -750,6 +729,40 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LR-V2X (LR-V2X: Loss-Resilient Collaborative Perception under Low-Bandwidth Communication) [paper",
+              "description": "sidiangongyuan/LR-V2X",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NeurIPS 2026 | Loss-resilient collaborative LiDAR perception with compact latent communication",
+                "homepage": null,
+                "id": 1229496475,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-22T05:12:17Z",
+                "open_issues": 1,
+                "owner": "sidiangongyuan",
+                "repo": "LR-V2X",
+                "stars": 0,
+                "topics": [
+                  "cooperative-perception",
+                  "lidar",
+                  "neurips2026",
+                  "pytorch",
+                  "v2x"
+                ]
+              },
+              "first_seen": "2026-11-02T05:59:21.551Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NeurIPS 2026"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SiMO (SiMO: Single-Modality-Operable Multimodal Collaborative Perception) [paper&review",
               "description": "dempsey-wen/SiMO",
               "children": [],
@@ -822,6 +835,27 @@
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
                 "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CP-FREEZER (CP-FREEZER: Latency Attacks against Vehicular Cooperative Perception) [paper",
+              "description": "WiSeR-Lab/CP-FREEZER",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 944271444,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-03-03T21:03:36Z",
+                "open_issues": 0,
+                "owner": "WiSeR-Lab",
+                "repo": "CP-FREEZER",
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1602,6 +1636,34 @@
           "description": null,
           "node_type": "group",
           "title": "IROS 2025"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOMBRA/LUCIA (From Threat to Trust: Exploiting Attention Mechanisms for Attacks and Defenses in Cooperative Perception) [paper",
+              "description": "WiSeR-Lab/SOMBRA_LUCIA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 991670182,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-07-23T18:50:47Z",
+                "open_issues": 0,
+                "owner": "WiSeR-Lab",
+                "repo": "SOMBRA_LUCIA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T05:59:21.551Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "USENIX Security 2025"
         },
         {
           "children": [
@@ -2709,7 +2771,7 @@
                 "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -2860,7 +2922,7 @@
                 "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -3448,7 +3510,7 @@
                 "open_issues": 2,
                 "owner": "thi-ad",
                 "repo": "UrbanIng-V2X",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "cooperativeperception",
                   "dataset",
@@ -3529,7 +3591,7 @@
                 "open_issues": 4,
                 "owner": "AIR-THU",
                 "repo": "DAIR-RCooper",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "autonoumous-driving",
                   "cooperative-perception",
@@ -4013,7 +4075,7 @@
                 "open_issues": 38,
                 "owner": "DerrickXuNu",
                 "repo": "OpenCOOD",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "autonomous-driving",
                   "collaborative-perception",
@@ -4125,7 +4187,7 @@
                 "open_issues": 1215,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14558,
+                "stars": 14562,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4158,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:01:08.163Z",
+    "last_updated": "2026-11-02T05:59:21.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4166,8 +4228,8 @@
       "id": 526952990,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-08T23:44:11Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-01T19:55:52Z",
+      "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
       "stars": 639,
@@ -4190,7 +4252,7 @@
         "v2x"
       ]
     },
-    "original_repository_sha": "e0fc6773f24126ca1d23fd355b4aaf54cb6070c5",
+    "original_repository_sha": "75d37fa525e20361c5766f20772fe04bde5675cf",
     "enhanced_repository": "enhansome/enhansome-Collaborative_Perception",
     "enhanced_repository_description": null,
     "title": "Awesome Collaborative Perception with stars"
