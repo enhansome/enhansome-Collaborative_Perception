@@ -1448,7 +1448,7 @@
                 "open_issues": 8,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1525,7 +1525,7 @@
                 "open_issues": 1,
                 "owner": "wyhallenwu",
                 "repo": "how2compress",
-                "stars": 8,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2527,7 +2527,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2575,7 +2575,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2022-07-26T19:43:23Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "UT-Austin-RPL",
                 "repo": "Coopernaut",
                 "stars": 88,
@@ -2612,7 +2612,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3618,7 +3618,7 @@
                 "open_issues": 17,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "3d-object-detection",
                   "3d-vision",
@@ -3957,7 +3957,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4006,7 +4006,7 @@
                 "open_issues": 23,
                 "owner": "MediaBrain-SJTU",
                 "repo": "Where2comm",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-30T21:15:27Z",
-                "open_issues": 1215,
+                "last_commit": "2026-11-03T06:32:14Z",
+                "open_issues": 1221,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14562,
+                "stars": 14567,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T05:59:21.551Z",
+    "last_updated": "2026-11-03T06:45:24.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
