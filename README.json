@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "FanGShiYuu",
                 "repo": "CoDrivingLLM",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2401,7 +2401,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -2527,7 +2527,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 656,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2640,7 +2640,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -2808,7 +2808,7 @@
                 "open_issues": 0,
                 "owner": "ai4ce",
                 "repo": "DiscoNet",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "3d-object-detection",
                   "3d-scene-understanding",
@@ -2853,7 +2853,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -2959,7 +2959,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -3180,7 +3180,7 @@
                 "open_issues": 0,
                 "owner": "QUARRG",
                 "repo": "Adver-City",
-                "stars": 29,
+                "stars": 30,
                 "topics": [
                   "automated-driving-systems",
                   "autonomous-driving",
@@ -3901,7 +3901,7 @@
                 "open_issues": 9,
                 "owner": "yifanlu0227",
                 "repo": "CoAlign",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "collaboration",
                   "collaborative-perception",
@@ -3957,7 +3957,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 656,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4034,7 +4034,7 @@
                 "open_issues": 7,
                 "owner": "DerrickXuNu",
                 "repo": "v2x-vit",
-                "stars": 349,
+                "stars": 348,
                 "topics": [
                   "3d-object-detection",
                   "autonomous-driving",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-03T06:32:14Z",
-                "open_issues": 1221,
+                "last_commit": "2026-11-03T20:50:10Z",
+                "open_issues": 1222,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14567,
+                "stars": 14565,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:45:24.731Z",
+    "last_updated": "2026-11-04T06:18:54.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
