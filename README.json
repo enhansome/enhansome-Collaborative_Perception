@@ -177,7 +177,7 @@
                 "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "V2V-LLM",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "autonomous-driving",
                   "computer-vision",
@@ -834,7 +834,7 @@
                 "open_issues": 3,
                 "owner": "wang-jh18-SVM",
                 "repo": "SparseCoop",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3264,7 +3264,7 @@
                 "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "V2V-LLM",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "autonomous-driving",
                   "computer-vision",
@@ -3510,7 +3510,7 @@
                 "open_issues": 2,
                 "owner": "thi-ad",
                 "repo": "UrbanIng-V2X",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "cooperativeperception",
                   "dataset",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:50:10Z",
+                "last_commit": "2026-11-04T22:47:27Z",
                 "open_issues": 1222,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14565,
+                "stars": 14567,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:18:54.883Z",
+    "last_updated": "2026-11-05T06:43:52.584Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
