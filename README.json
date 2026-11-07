@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -743,7 +743,7 @@
                 "open_issues": 1,
                 "owner": "sidiangongyuan",
                 "repo": "LR-V2X",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "cooperative-perception",
                   "lidar",
@@ -777,7 +777,7 @@
                 "open_issues": 4,
                 "owner": "dempsey-wen",
                 "repo": "SiMO",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -911,7 +911,7 @@
                 "open_issues": 2,
                 "owner": "sidiangongyuan",
                 "repo": "EIMC",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2674,7 +2674,7 @@
                 "open_issues": 5,
                 "owner": "MediaBrain-SJTU",
                 "repo": "SyncNet",
-                "stars": 46,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3615,7 +3615,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-24T01:01:35Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
                 "stars": 103,
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T00:13:11Z",
+                "last_commit": "2026-11-06T19:20:59Z",
                 "open_issues": 1228,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14571,
+                "stars": 14574,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:41:47.819Z",
+    "last_updated": "2026-11-07T05:56:31.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
