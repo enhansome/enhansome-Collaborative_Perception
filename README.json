@@ -3059,7 +3059,7 @@
                 "open_issues": 1,
                 "owner": "wang-jh18-SVM",
                 "repo": "Griffin",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3433,7 +3433,7 @@
                 "open_issues": 4,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:20:59Z",
-                "open_issues": 1228,
+                "last_commit": "2026-11-07T23:05:54Z",
+                "open_issues": 1231,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14574,
+                "stars": 14576,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T05:56:31.682Z",
+    "last_updated": "2026-11-08T05:58:34.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
