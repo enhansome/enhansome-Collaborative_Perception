@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1044,7 +1044,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3433,7 +3433,7 @@
                 "open_issues": 4,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 1,
                 "owner": "ylwhxht",
                 "repo": "V2X-R",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T23:05:54Z",
-                "open_issues": 1231,
+                "last_commit": "2026-11-09T01:51:05Z",
+                "open_issues": 1232,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14576,
+                "stars": 14578,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T05:58:34.163Z",
+    "last_updated": "2026-11-09T06:24:56.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
