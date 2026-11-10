@@ -669,7 +669,7 @@
                 "id": 1244397362,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-06-01T07:13:40Z",
+                "last_commit": "2026-11-10T03:09:05Z",
                 "open_issues": 0,
                 "owner": "yihangtao",
                 "repo": "MVIG",
@@ -2177,7 +2177,7 @@
                 "open_issues": 1,
                 "owner": "XHwind",
                 "repo": "HM-ViT",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2527,7 +2527,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3080,7 +3080,7 @@
                 "open_issues": 10,
                 "owner": "yanglei18",
                 "repo": "V2X-Radar",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3159,7 +3159,7 @@
                 "open_issues": 6,
                 "owner": "chensiweiTHU",
                 "repo": "WHALES",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3180,7 +3180,7 @@
                 "open_issues": 0,
                 "owner": "QUARRG",
                 "repo": "Adver-City",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "automated-driving-systems",
                   "autonomous-driving",
@@ -3363,7 +3363,7 @@
                 "open_issues": 0,
                 "owner": "RadetzkyLi",
                 "repo": "Multi-V2X",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3957,7 +3957,7 @@
                 "open_issues": 47,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X",
-                "stars": 655,
+                "stars": 656,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-09T01:51:05Z",
-                "open_issues": 1232,
+                "last_commit": "2026-11-10T02:06:41Z",
+                "open_issues": 1228,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14578,
+                "stars": 14582,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:24:56.552Z",
+    "last_updated": "2026-11-10T07:15:26.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
