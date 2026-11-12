@@ -3363,7 +3363,7 @@
                 "open_issues": 0,
                 "owner": "RadetzkyLi",
                 "repo": "Multi-V2X",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3429,7 +3429,7 @@
                 "id": 1200749980,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T08:50:17Z",
+                "last_commit": "2026-11-11T21:22:24Z",
                 "open_issues": 4,
                 "owner": "UCR-CISL",
                 "repo": "CooperScene",
@@ -3618,7 +3618,7 @@
                 "open_issues": 18,
                 "owner": "tum-traffic-dataset",
                 "repo": "tum-traffic-dataset-dev-kit",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "3d-object-detection",
                   "3d-vision",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-10T17:41:16Z",
-                "open_issues": 1243,
+                "last_commit": "2026-11-11T16:18:28Z",
+                "open_issues": 1235,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14588,
+                "stars": 14591,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:14:48.032Z",
+    "last_updated": "2026-11-12T07:07:49.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
