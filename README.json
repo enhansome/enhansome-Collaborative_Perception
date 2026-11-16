@@ -1127,7 +1127,7 @@
                 "open_issues": 1,
                 "owner": "zhyingS",
                 "repo": "TraF-Align",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1683,7 +1683,7 @@
                 "open_issues": 9,
                 "owner": "tum-traffic-dataset",
                 "repo": "coopdet3d",
-                "stars": 85,
+                "stars": 86,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3510,7 +3510,7 @@
                 "open_issues": 2,
                 "owner": "thi-ad",
                 "repo": "UrbanIng-V2X",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "cooperativeperception",
                   "dataset",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-14T21:53:12Z",
-                "open_issues": 1013,
+                "last_commit": "2026-11-15T22:38:31Z",
+                "open_issues": 1019,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14608,
+                "stars": 14609,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:28:34.134Z",
+    "last_updated": "2026-11-16T06:26:12.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
