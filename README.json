@@ -102,7 +102,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-02T18:49:17Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Zewei-Zhou",
                 "repo": "V2XPnP",
                 "stars": 56,
@@ -3130,7 +3130,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-02T18:49:17Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Zewei-Zhou",
                 "repo": "V2XPnP",
                 "stars": 56,
@@ -3243,7 +3243,7 @@
                 "open_issues": 0,
                 "owner": "NingMingHao",
                 "repo": "CoInfra",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3656,7 +3656,7 @@
                 "open_issues": 2,
                 "owner": "ai4ce",
                 "repo": "MARS",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "3dgs",
                   "collaborative-perception",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T06:56:55Z",
-                "open_issues": 1022,
+                "last_commit": "2026-11-18T01:57:21Z",
+                "open_issues": 1024,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14614,
+                "stars": 14637,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T07:53:07.985Z",
+    "last_updated": "2026-11-18T07:26:07.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
