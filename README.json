@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T01:57:21Z",
-                "open_issues": 1024,
+                "last_commit": "2026-11-19T06:32:48Z",
+                "open_issues": 1032,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14637,
+                "stars": 14646,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:26:07.169Z",
+    "last_updated": "2026-11-19T07:23:19.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
