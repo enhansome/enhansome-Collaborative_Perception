@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "CollaborativePerception",
                 "repo": "V2Xverse",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1802,7 +1802,7 @@
                 "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -3159,7 +3159,7 @@
                 "open_issues": 6,
                 "owner": "chensiweiTHU",
                 "repo": "WHALES",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3535,7 +3535,7 @@
                 "open_issues": 6,
                 "owner": "AGC-Drive",
                 "repo": "AGC-Drive",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3722,7 +3722,7 @@
                 "open_issues": 37,
                 "owner": "yifanlu0227",
                 "repo": "HEAL",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "3d-object-detection",
                   "camera-based-detection",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-19T06:32:48Z",
-                "open_issues": 1032,
+                "last_commit": "2026-11-20T06:37:46Z",
+                "open_issues": 1028,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14646,
+                "stars": 14660,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:23:19.290Z",
+    "last_updated": "2026-11-20T07:12:16.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
