@@ -1578,7 +1578,7 @@
                 "open_issues": 1,
                 "owner": "CrazyShout",
                 "repo": "CoDynTrust",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1834,7 +1834,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-05-16T02:52:00Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "tianqi-wang1996",
                 "repo": "DeepAccident",
                 "stars": 106,
@@ -3754,7 +3754,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-05-16T02:52:00Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "tianqi-wang1996",
                 "repo": "DeepAccident",
                 "stars": 106,
@@ -3785,7 +3785,7 @@
                 "open_issues": 20,
                 "owner": "ucla-mobility",
                 "repo": "V2V4Real",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T06:37:46Z",
-                "open_issues": 1028,
+                "last_commit": "2026-11-21T05:33:17Z",
+                "open_issues": 1030,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14660,
+                "stars": 14668,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:12:16.753Z",
+    "last_updated": "2026-11-21T07:04:02.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
