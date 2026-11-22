@@ -2028,7 +2028,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3077,7 +3077,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-18T03:28:00Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "yanglei18",
                 "repo": "V2X-Radar",
                 "stars": 76,
@@ -3806,7 +3806,7 @@
                 "open_issues": 21,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-21T05:33:17Z",
-                "open_issues": 1030,
+                "last_commit": "2026-11-21T22:40:55Z",
+                "open_issues": 1034,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14668,
+                "stars": 14676,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:04:02.058Z",
+    "last_updated": "2026-11-22T06:44:48.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
