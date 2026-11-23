@@ -3080,7 +3080,7 @@
                 "open_issues": 11,
                 "owner": "yanglei18",
                 "repo": "V2X-Radar",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3482,7 +3482,7 @@
                 "open_issues": 2,
                 "owner": "LuckyDush",
                 "repo": "RCP-Bench",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-21T22:40:55Z",
-                "open_issues": 1034,
+                "last_commit": "2026-11-23T06:07:02Z",
+                "open_issues": 1036,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14676,
+                "stars": 14686,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T06:44:48.313Z",
+    "last_updated": "2026-11-23T07:35:09.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
