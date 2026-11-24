@@ -84,7 +84,7 @@
                 "open_issues": 4,
                 "owner": "cxliu0314",
                 "repo": "CoLMDriver",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1448,7 +1448,7 @@
                 "open_issues": 8,
                 "owner": "AIR-THU",
                 "repo": "UniV2X",
-                "stars": 178,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3243,7 +3243,7 @@
                 "open_issues": 0,
                 "owner": "NingMingHao",
                 "repo": "CoInfra",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3398,6 +3398,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "{Real} CooperScene (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) [paper",
+              "description": "] [code] [project]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026, Spotlight] CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization",
+                "homepage": "http://cisl.ucr.edu/CooperScene/",
+                "id": 1200749980,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-11T21:22:24Z",
+                "open_issues": 4,
+                "owner": "UCR-CISL",
+                "repo": "CooperScene",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T11:22:28.355Z"
+            },
+            {
+              "node_type": "item",
               "title": "VIPS (VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation) [paper",
               "description": "] [code] [project]",
               "children": [],
@@ -3416,27 +3437,6 @@
                 "topics": []
               },
               "first_seen": "2026-09-05T04:26:56.741Z"
-            },
-            {
-              "node_type": "item",
-              "title": "{Real} CooperScene (CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization) [paper",
-              "description": "] [code] [project]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2026, Spotlight] CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization",
-                "homepage": "http://cisl.ucr.edu/CooperScene/",
-                "id": 1200749980,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-11T21:22:24Z",
-                "open_issues": 4,
-                "owner": "UCR-CISL",
-                "repo": "CooperScene",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:22:28.355Z"
             }
           ],
           "description": null,
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-23T06:07:02Z",
-                "open_issues": 1036,
+                "last_commit": "2026-11-24T09:51:17Z",
+                "open_issues": 995,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14686,
+                "stars": 14693,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T07:35:09.223Z",
+    "last_updated": "2026-11-24T09:52:14.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4232,7 +4232,7 @@
       "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 639,
+      "stars": 640,
       "topics": [
         "autonomous-driving",
         "awesome-list",
