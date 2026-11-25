@@ -84,7 +84,7 @@
                 "open_issues": 4,
                 "owner": "cxliu0314",
                 "repo": "CoLMDriver",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -4147,7 +4147,7 @@
                 "open_issues": 8,
                 "owner": "ai4ce",
                 "repo": "V2X-Sim",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "benchmark",
                   "collaborative-perception",
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T09:51:17Z",
-                "open_issues": 995,
+                "last_commit": "2026-11-25T07:45:00Z",
+                "open_issues": 993,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14693,
+                "stars": 14707,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T09:52:14.873Z",
+    "last_updated": "2026-11-25T08:30:21.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
