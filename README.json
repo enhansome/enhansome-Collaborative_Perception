@@ -694,7 +694,7 @@
                 "open_issues": 0,
                 "owner": "cxliu0314",
                 "repo": "CodeAlign",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -1946,7 +1946,7 @@
                 "open_issues": 0,
                 "owner": "eddyhkchiu",
                 "repo": "DMSTrack",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "3d-multi-object-tracking",
                   "autonomous-driving",
@@ -2025,7 +2025,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-02-21T02:42:26Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
                 "stars": 214,
@@ -2198,7 +2198,7 @@
                 "open_issues": 5,
                 "owner": "starfdu1418",
                 "repo": "SCOPE",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -2219,7 +2219,7 @@
                 "open_issues": 0,
                 "owner": "coperception",
                 "repo": "ROBOSAC",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:22:28.355Z"
@@ -3510,7 +3510,7 @@
                 "open_issues": 2,
                 "owner": "thi-ad",
                 "repo": "UrbanIng-V2X",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "cooperativeperception",
                   "dataset",
@@ -3803,7 +3803,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-02-21T02:42:26Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "AIR-THU",
                 "repo": "DAIR-V2X-Seq",
                 "stars": 214,
@@ -4183,11 +4183,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-27T08:26:58Z",
-                "open_issues": 989,
+                "last_commit": "2026-11-28T06:12:25Z",
+                "open_issues": 990,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14716,
+                "stars": 14720,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4220,7 +4220,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:28:12.248Z",
+    "last_updated": "2026-11-28T07:46:08.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a paper digest of recent advances in collaborative / cooperative / multi-agent perception for V2I / V2V / V2X autonomous driving scenario.",
@@ -4232,7 +4232,7 @@
       "open_issues": 3,
       "owner": "Little-Podi",
       "repo": "Collaborative_Perception",
-      "stars": 639,
+      "stars": 640,
       "topics": [
         "autonomous-driving",
         "awesome-list",
